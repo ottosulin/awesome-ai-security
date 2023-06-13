@@ -100,5 +100,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 To be added! Please contribute!
 
 ## Misc
+* [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 * [OWASP LLM TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/ ) - still under development
 * [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
