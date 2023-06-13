@@ -96,8 +96,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 
 
 ## Resources for learning
-
-To be added! Please contribute!
+* [MLSecOps podcast](https://mlsecops.com/podcast)
 
 ## Misc
 * [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
