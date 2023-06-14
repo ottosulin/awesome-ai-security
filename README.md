@@ -21,7 +21,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [MITRE ATLAS](https://atlas.mitre.org/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 
-## Tools
+## Offensive tools
 * [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - _makes it possible to write agents that learn to manipulate PE files (e.g., malware) to achieve some objective (e.g., bypass AV) based on a reward provided by taking specific manipulation actions_
 * [Deep-pwning](https://github.com/cchio/deep-pwning) - _a lightweight framework for experimenting with machine learning models with the goal of evaluating their robustness against a motivated adversary_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
@@ -31,12 +31,23 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [DeepFool](https://github.com/lts4/deepfool) - _A simple and accurate method to fool deep neural networks_
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
-* [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
-* [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
-* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
 
-## Adversarial examples and attacks
+## Defensive tools
+* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
+* [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
+* [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
+
+## Resources for learning
+* [MLSecOps podcast](https://mlsecops.com/podcast)
+
+## Uncategorized useful resources
+* [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
+* [OWASP LLM TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/ ) - still under development
+* [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
+
+## Reserach Papers
+### Adversarial examples and attacks
 * [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)
 * [Adversarial Task Allocation](https://arxiv.org/abs/1709.00358)
 * [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945)
@@ -56,11 +67,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)
 
-## Model extraction attacks
+### Model extraction attacks
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
 * [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)
 
-## Evasion attacks
+### Evasion attacks
 * [Adversarial Demonstration Attacks on Large Language Models](https://arxiv.org/abs/2305.14950)
 * [Looking at the Bag is not Enough to Find the Bomb: An Evasion of Structural Methods for Malicious PDF Files Detection](https://pralab.diee.unica.it/sites/default/files/maiorca_ASIACCS13.pdf)
 * [Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition](https://arxiv.org/abs/1801.00349)
@@ -70,7 +81,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers](https://arxiv.org/abs/1707.05970)
 * [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)
 
-## Poisoning attacks
+### Poisoning attacks
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 * [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298)
 * [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)
@@ -78,28 +89,19 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning](https://arxiv.org/abs/2305.04175)
 * [UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)
 * [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461)
+* [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 
-## Privacy attacks
+### Privacy attacks
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
 * [Prompt Stealing Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2305.13873)
 * [Are Diffusion Models Vulnerable to Membership Inference Attacks?](https://arxiv.org/abs/2302.01316)
 * [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf)
 * [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197)
 
-
-## Injection attacks
+### Injection attacks
 * [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896) 
 * [Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237)
 
-## Other attack related research papers
+### Other attack related research papers
 * [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://arxiv.org/abs/1701.04739)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)
-
-
-## Resources for learning
-* [MLSecOps podcast](https://mlsecops.com/podcast)
-
-## Misc
-* [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
-* [OWASP LLM TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/ ) - still under development
-* [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
