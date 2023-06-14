@@ -34,6 +34,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
 * [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
+* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
 
 ## Adversarial examples and attacks
 * [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)
