@@ -21,23 +21,38 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [MITRE ATLAS](https://atlas.mitre.org/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 
-## Offensive tools
+## Offensive tools and frameworks
+
+### Generic
 * [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - _makes it possible to write agents that learn to manipulate PE files (e.g., malware) to achieve some objective (e.g., bypass AV) based on a reward provided by taking specific manipulation actions_
 * [Deep-pwning](https://github.com/cchio/deep-pwning) - _a lightweight framework for experimenting with machine learning models with the goal of evaluating their robustness against a motivated adversary_
-* [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
-* [StringSifter](https://github.com/fireeye/stringsifter) - _A machine learning tool that ranks strings based on their relevance for malware analysis_
-* [Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
 * [Counterfit](https://github.com/Azure/counterfit) - _generic automation layer for assessing the security of machine learning systems_
 * [DeepFool](https://github.com/lts4/deepfool) - _A simple and accurate method to fool deep neural networks_
-* [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
 
-## Defensive tools
-* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
+### Adversarial
+* [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
+* Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
+
+### Privacy
+* [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
+
+## Defensive tools and frameworks
+
+### Detection
 * [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
+* [StringSifter](https://github.com/fireeye/stringsifter) - _A machine learning tool that ranks strings based on their relevance for malware analysis_
+
+### Privacy and confidentiality
+* [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
+* [Diffprivlib](https://github.com/IBM/differential-privacy-library) - _The IBM Differential Privacy Library_
+* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
+* [TenSEAL](https://github.com/OpenMined/TenSEAL) - _A library for doing homomorphic encryption operations on tensors_
+* [SyMPC](https://github.com/OpenMined/SyMPC) - _A Secure Multiparty Computation companion library for Syft_
+* [PyVertical](https://github.com/OpenMined/PyVertical) - _Privacy Preserving Vertical Federated Learning_
 
 ## Resources for learning
 * [MLSecOps podcast](https://mlsecops.com/podcast)
