@@ -37,6 +37,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
 * [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
+* [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
 
 ## Resources for learning
 * [MLSecOps podcast](https://mlsecops.com/podcast)
