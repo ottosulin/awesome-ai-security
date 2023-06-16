@@ -40,6 +40,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 
 ## Defensive tools and frameworks
 
+### Safety and prevention
+* [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
+
 ### Detection
 * [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
@@ -63,7 +66,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
 
-## Reserach Papers
+## Research Papers
 ### Adversarial examples and attacks
 * [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)
 * [Adversarial Task Allocation](https://arxiv.org/abs/1709.00358)
@@ -84,11 +87,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)
 
-### Model extraction attacks
+### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
 * [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)
 
-### Evasion attacks
+### Evasion
 * [Adversarial Demonstration Attacks on Large Language Models](https://arxiv.org/abs/2305.14950)
 * [Looking at the Bag is not Enough to Find the Bomb: An Evasion of Structural Methods for Malicious PDF Files Detection](https://pralab.diee.unica.it/sites/default/files/maiorca_ASIACCS13.pdf)
 * [Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition](https://arxiv.org/abs/1801.00349)
@@ -98,7 +101,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers](https://arxiv.org/abs/1707.05970)
 * [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)
 
-### Poisoning attacks
+### Poisoning
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 * [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298)
 * [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)
@@ -108,17 +111,18 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461)
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 
-### Privacy attacks
+### Privacy
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
 * [Prompt Stealing Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2305.13873)
 * [Are Diffusion Models Vulnerable to Membership Inference Attacks?](https://arxiv.org/abs/2302.01316)
 * [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf)
 * [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197)
+* [Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models](https://arxiv.org/abs/2305.15594)
 
-### Injection attacks
+### Injection
 * [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896) 
 * [Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237)
 
-### Other attack related research papers
+### Other research papers
 * [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://arxiv.org/abs/1701.04739)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)
