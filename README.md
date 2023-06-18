@@ -63,6 +63,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ## Uncategorized useful resources
 * [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 * [OWASP LLM TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/ ) - still under development
+* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+* [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
 * [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
 
