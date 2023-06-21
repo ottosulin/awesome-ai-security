@@ -8,6 +8,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety)
 
 ## Frameworks and standards
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
@@ -88,6 +89,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299)
 * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)
+* [FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and LLMs](https://arxiv.org/abs/2306.04959)
 
 ### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
@@ -124,6 +126,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Injection
 * [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896) 
 * [Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237)
+* [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 
 ### Other research papers
 * [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://arxiv.org/abs/1701.04739)
