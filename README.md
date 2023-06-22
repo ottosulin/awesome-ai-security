@@ -68,6 +68,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
 * [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
+* [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
 
 ## Research Papers
 ### Adversarial examples and attacks
