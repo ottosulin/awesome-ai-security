@@ -31,6 +31,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [DeepFool](https://github.com/lts4/deepfool) - _A simple and accurate method to fool deep neural networks_
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
+* [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 
 ### Adversarial
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
@@ -132,3 +133,4 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Other research papers
 * [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://arxiv.org/abs/1701.04739)
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)
+* [capAI - A Procedure for Conducting Conformity Assessment of AI Systems in Line with the EU Artificial Intelligence Act](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4064091)
