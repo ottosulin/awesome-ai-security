@@ -9,6 +9,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety)
+* [awesome-mlops](https://github.com/kelvins/awesome-mlops)
 
 ## Frameworks and standards
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
