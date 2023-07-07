@@ -38,6 +38,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
 * Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
 
+### Poisoning
+* [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
+
 ### Privacy
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
 
@@ -117,6 +120,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)
 * [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461)
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
+* [How to Backdoor Diffusion Models?](https://arxiv.org/abs/2212.05400)
 
 ### Privacy
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
