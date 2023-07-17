@@ -121,6 +121,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461)
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 * [How to Backdoor Diffusion Models?](https://arxiv.org/abs/2212.05400)
+* [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)
 
 ### Privacy
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
