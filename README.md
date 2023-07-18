@@ -122,6 +122,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
 * [How to Backdoor Diffusion Models?](https://arxiv.org/abs/2212.05400)
 * [On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)
+* [Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)
+* [A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning](https://aclanthology.org/2023.acl-long.194/)
 
 ### Privacy
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
