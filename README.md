@@ -96,6 +96,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)
 * [FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and LLMs](https://arxiv.org/abs/2306.04959)
+* [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
 
 ### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
