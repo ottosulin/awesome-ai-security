@@ -97,6 +97,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)
 * [FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and LLMs](https://arxiv.org/abs/2306.04959)
 * [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
+* [Bad Characters: Imperceptible NLP Attacks](https://arxiv.org/abs/2106.09898)
+* [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
 
 ### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
@@ -111,6 +113,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)
 * [Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers](https://arxiv.org/abs/1707.05970)
 * [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)
+* [GPTs Don’t Keep Secrets: Searching for Backdoor Watermark Triggers in Autoregressive Language Models](https://aclanthology.org/2023.trustnlp-1.21/)
 
 ### Poisoning
 * [Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.14710)
@@ -126,6 +129,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)
 * [A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning](https://aclanthology.org/2023.acl-long.194/)
 * [BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements](https://arxiv.org/abs/2006.01043)
+* [Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models](https://arxiv.org/abs/2103.15543)
 
 ### Privacy
 * [Extracting training data from diffusion models](https://arxiv.org/abs/2301.13188)
@@ -134,11 +138,15 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf)
 * [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197)
 * [Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models](https://arxiv.org/abs/2305.15594)
+* [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)
 
 ### Injection
 * [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896) 
 * [Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237)
 * [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+* [Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](https://arxiv.org/abs/2307.08487)
+* [Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)
+* [(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490)
 
 ### Other research papers
 * [Summoning Demons: The Pursuit of Exploitable Bugs in Machine Learning](https://arxiv.org/abs/1701.04739)
