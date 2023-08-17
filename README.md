@@ -99,6 +99,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
 * [Bad Characters: Imperceptible NLP Attacks](https://arxiv.org/abs/2106.09898)
 * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+* [Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts](https://aclanthology.org/2021.alta-1.14/)
+* [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 ### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
