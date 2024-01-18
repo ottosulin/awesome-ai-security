@@ -33,10 +33,13 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
+* [Charcuterie](https://github.com/moohax/Charcuterie) - _code execution techniques for ML or ML adjacent libraries_
+* [OffsecML Playbook](https://wiki.offsecml.com) - _A collection of offensive and adversarial TTP's with proofs of concept_
 
 ### Adversarial
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
 * Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
+* [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_ 
 
 ### Poisoning
 * [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
@@ -75,6 +78,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
 * [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
 
+  
 ## Research Papers
 ### Adversarial examples and attacks
 * [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)
