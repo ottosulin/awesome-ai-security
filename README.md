@@ -33,6 +33,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
+* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT.) - An automatic pentester (+ corresponding *[benchmark dataset](https://github.com/ipa
+-lab/hacking-benchmark)*)
 * [Charcuterie](https://github.com/moohax/Charcuterie) - _code execution techniques for ML or ML adjacent libraries_
 * [OffsecML Playbook](https://wiki.offsecml.com) - _A collection of offensive and adversarial TTP's with proofs of concept_
 
