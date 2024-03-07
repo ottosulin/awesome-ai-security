@@ -163,3 +163,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)
 * [capAI - A Procedure for Conducting Conformity Assessment of AI Systems in Line with the EU Artificial Intelligence Act](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4064091)
 * [A Study on Robustness and Reliability of Large Language Model Code Generation](https://arxiv.org/abs/2308.10335)
+* [Getting pwn'd by AI: Penetration Testing with Large Language Models](https://arxiv.org/abs/2308.00121)
+* [Evaluating LLMs for Privilege-Escalation Scenarios](https://arxiv.org/abs/2310.11409)
