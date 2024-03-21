@@ -67,6 +67,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [TenSEAL](https://github.com/OpenMined/TenSEAL) - _A library for doing homomorphic encryption operations on tensors_
 * [SyMPC](https://github.com/OpenMined/SyMPC) - _A Secure Multiparty Computation companion library for Syft_
 * [PyVertical](https://github.com/OpenMined/PyVertical) - _Privacy Preserving Vertical Federated Learning_
+* [Cloaked AI](https://ironcorelabs.com/products/cloaked-ai/) - _Open source property-preserving encryption for vector embeddings_
 
 ## Resources for learning
 * [MLSecOps podcast](https://mlsecops.com/podcast)
@@ -108,6 +109,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts](https://aclanthology.org/2021.alta-1.14/)
 * [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 * [Adversarial Attacks on Tables with Entity Swap](https://ceur-ws.org/Vol-3462/TADA4.pdf)
+* [Here Comes the AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications](https://arxiv.org/abs/2403.02817)
 
 ### Model extraction
 * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
@@ -149,6 +151,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197)
 * [Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models](https://arxiv.org/abs/2305.15594)
 * [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)
+* [Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence](https://arxiv.org/pdf/2305.03010.pdf)
+* [Text Embeddings Reveal (Almost) As Much As Text](https://arxiv.org/pdf/2310.06816.pdf)
+* [Vec2Face: Unveil Human Faces from their Blackbox Features in Face Recognition](https://arxiv.org/pdf/2003.06958.pdf)
+* [Realistic Face Reconstruction from Deep Embeddings](https://openreview.net/pdf?id=-WsBmzWwPee)
 
 ### Injection
 * [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896) 
