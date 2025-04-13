@@ -44,8 +44,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
 * [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_ 
 
-### Poisoning
+### Poisoning and Injection
 * [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
+* [spikee](https://github.com/WithSecureLabs/spikee)) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
 
 ### Privacy
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
@@ -55,7 +56,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Safety and prevention
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow_
-
 
 ### Detection
 * [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - _Security scanner detecting serialized ML Models performing suspicious actions_
