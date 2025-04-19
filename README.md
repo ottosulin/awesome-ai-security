@@ -38,6 +38,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Charcuterie](https://github.com/moohax/Charcuterie) - _code execution techniques for ML or ML adjacent libraries_
 * [OffsecML Playbook](https://wiki.offsecml.com) - _A collection of offensive and adversarial TTP's with proofs of concept_
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
 
 ### Adversarial
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
