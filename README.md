@@ -22,6 +22,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MITRE ATLAS](https://atlas.mitre.org/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
+* [InjectLab](https://injectlab.org)
 
 ## Offensive tools and frameworks
 
