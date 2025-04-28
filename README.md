@@ -23,6 +23,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [MITRE ATLAS](https://atlas.mitre.org/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 
+## Learning resources
+* [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
+
 ## Offensive tools and frameworks
 
 ### Generic
