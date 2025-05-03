@@ -61,6 +61,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Scanners
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 
+### Data security and governance
+* [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_ 
+
 ### Safety and prevention
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow_
