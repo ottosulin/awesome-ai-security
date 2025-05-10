@@ -81,6 +81,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Other
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 * [mcp-for-security](https://github.com/cyproxio/mcp-for-security) - _A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows._
+* [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence_
 
 
 ## Defensive tools and frameworks
