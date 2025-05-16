@@ -68,12 +68,15 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Plexiglass](https://github.com/safellama/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt_
 
-### Adversarial
+### Adversarial Attacks
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
 * Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
-* [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_ 
+* [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
+* [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
+* [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
+* [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
 
-### Poisoning and Injection
+### Poisoning and Injection Attacks
 * [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
 * [spikee](https://github.com/WithSecureLabs/spikee)) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
 * [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
