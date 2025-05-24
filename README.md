@@ -64,6 +64,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [promptfoo](https://github.com/promptfoo/promptfoo) - _Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration._
 * [HouYi](https://github.com/LLMSecurity/HouYi) - _The automated prompt injection framework for LLM-integrated applications._
 * [llm-attacks](https://github.com/llm-attacks/llm-attacks) - _Universal and Transferable Attacks on Aligned Language Models_
+* [Dropbox llm-security](https://github.com/dropbox/llm-security) - _Dropbox LLM Security research code and results_
+* [llm-security](https://github.com/greshake/llm-security) - _New ways of breaking app-integrated LLMs_
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _This repository provides a benchmark for prompt Injection attacks and defenses_
 * [Plexiglass](https://github.com/safellama/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt_
@@ -106,7 +108,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
 * [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety)
 * [ZenGuard AI](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - _The fastest Trust Layer for AI Agents_
+* [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) - _description placeholder_
 * [llm-guard](https://github.com/protectai/llm-guard) - _LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs)._
+* [vibraniumdome](https://github.com/genia-dev/vibraniumdome) - _Full blown, end to end LLM WAF for Agents, allowing security teams govenrance, auditing, policy driven control over Agents usage of language models._
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
