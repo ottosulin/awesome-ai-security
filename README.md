@@ -19,7 +19,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 
 ### Frameworks and standards
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
-* [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html) - still under development
+* [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
 * [ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management](https://www.iso.org/standard/77304.html)
 * [Google Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
@@ -46,6 +46,12 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 -lab/hacking-benchmark)*)
 * [Charcuterie](https://github.com/moohax/Charcuterie) - _code execution techniques for ML or ML adjacent libraries_
 * [OffsecML Playbook](https://wiki.offsecml.com) - _A collection of offensive and adversarial TTP's with proofs of concept_
+* [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
+* [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
+* Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
+* [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
+* [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
+* [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
 
 ### LLM
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
@@ -69,21 +75,12 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _This repository provides a benchmark for prompt Injection attacks and defenses_
 * [Plexiglass](https://github.com/safellama/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt_
-
-### Adversarial Attacks
-* [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
-* Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
 * [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
-* [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
-* [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
-* [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
-
-### Poisoning and Injection Attacks
-* [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
 * [spikee](https://github.com/WithSecureLabs/spikee)) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
 * [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
+* [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
 
-### Other
+### AI for offensive cyber
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 * [mcp-for-security](https://github.com/cyproxio/mcp-for-security) - _A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows._
