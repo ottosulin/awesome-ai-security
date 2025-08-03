@@ -52,7 +52,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
 * [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
 * [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
-* [promptsploit] (https://github.com/slrbl/promptsploit-llm-vulnerability-scanner) - _Scan your LLM application against OWASP TOP for LLM vulnerabilities and get a clear report_
+* [promptsploit](https://github.com/slrbl/promptsploit-llm-vulnerability-scanner) - _Scan your LLM application against OWASP TOP for LLM vulnerabilities and get a clear report_
 
 ### LLM
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
