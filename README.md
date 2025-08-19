@@ -5,15 +5,23 @@ A curated list of awesome AI security related frameworks, standards, learning re
 If you want to contribute, create a PR or contact me [@ottosulin](https://twitter.com/ottosulin) / [@ottosulin](https://mastodon.social/@ottosulin).
 
 ## Learning resources
-* [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
-* [MLSecOps podcast](https://mlsecops.com/podcast)
+
+### General reading material
 * [GenAI Security podcast](https://podcasts.apple.com/ph/podcast/the-genai-security-podcast/id1782916580)
 * [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 * [OWASP LLM TOP 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-* [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
 * [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
 * [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
+* [OWASP Multi-Agentic System Threat Modeling](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
+
+### Technical material & labs
+* [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
+* [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
+
+### Podcasts
+* [MLSecOps podcast](https://mlsecops.com/podcast)
+* [AI Security Podcast](https://www.aisecuritypodcast.com/)
 
 ## Governance
 
@@ -23,13 +31,29 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management](https://www.iso.org/standard/77304.html)
 * [Google Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
-* [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
+* [OWASP Artificial Intelligence Maturity Assessment](https://github.com/OWASP/www-project-ai-maturity-assessment)
+* [Google Secure AI Framework](https://saif.google/)
+* [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 
-### Taxonomies and terminology
+### Standards
+* [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
+* [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
+* [OWASP Agent Observability Standard](https://aos.owasp.org/)
+
+### Taxonomies, terminology and risks
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft)
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MITRE ATLAS](https://atlas.mitre.org/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
+* [MIT AI Risk Repository](https://airisk.mit.edu/)
+* [AI Incident Database](https://incidentdatabase.ai/)
+* [NIST AI Glossary](https://airc.nist.gov/glossary/)
+* [The Arcanum Prompt Injection Taxonomy ](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
+* [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+
+### Other material
+* [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
+* [OWASP AI Security and Privacy Guide](github.com/OWASP/www-project-ai-security-and-privacy-guide)
 
 ## Offensive tools and frameworks
 
@@ -52,6 +76,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
 * [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
 * [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
+* [TextAttack](https://github.com/QData/TextAttack) - _TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/_
 
 ### LLM
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
@@ -79,6 +104,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [spikee](https://github.com/WithSecureLabs/spikee)) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
 * [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
 * [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
+* [gptfuzz](https://github.com/sherdencooper/GPTFuzz) - _Official repo for GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts_
+* [AgentDojo](https://github.com/ethz-spylab/agentdojo) - _A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents._
+* [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) - _JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track]_
+* [giskard](https://github.com/Giskard-AI/giskard) - _🐢 Open-Source Evaluation & Testing library for LLM Agents_
 
 ### AI for offensive cyber
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
@@ -86,7 +115,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [mcp-for-security](https://github.com/cyproxio/mcp-for-security) - _A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows._
 * [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence ([paper](https://arxiv.org/pdf/2504.06017))_
 * [AIRTBench](https://github.com/dreadnode/AIRTBench-Code) - _Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models_
-
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
+* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - _Helping Ethical Hackers use LLMs in 50 Lines of Code or less.._
+* [HexStrikeAI](https://github.com/0x4m4/hexstrike-ai) - _HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities._
+* [Burp MCP Server](https://github.com/PortSwigger/mcp-server) - _MCP Server for Burp_
+* [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
 
 ## Defensive tools and frameworks
 
@@ -94,9 +127,17 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
 * [OWASP Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 * [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
+* [OWASP GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
+* [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
+* [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
+* [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+
+### AI for defensive cyber
+* [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
 
 ### Data security and governance
-* [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_ 
+* [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
+* [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 
 ### Safety and prevention
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
@@ -111,12 +152,15 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
+* [NeMo-GuardRails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
+* [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
+* [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
 
 ### Privacy and confidentiality
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
