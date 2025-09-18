@@ -6,7 +6,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 
 ## Learning resources
 
-### General reading material
+
 * [GenAI Security podcast](https://podcasts.apple.com/ph/podcast/the-genai-security-podcast/id1782916580)
 * [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 * [OWASP LLM TOP 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
@@ -15,13 +15,14 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
 * [OWASP Multi-Agentic System Threat Modeling](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
 
-### Technical material & labs
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
 * [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
 
-### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
 * [AI Security Podcast](https://www.aisecuritypodcast.com/)
+
+* [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+* [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
 
 ## Governance
 
@@ -36,10 +37,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 
 ### Standards
-
-- [AI Manifest](https://ai-manifest.org) — optional reference for /.well‑known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
-- [WellKnownAI](https://wellknownai.org) — registry/spec examples and public snapshots (no PII, mirroring allowed).
-
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
