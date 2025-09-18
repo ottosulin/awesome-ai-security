@@ -1,179 +1,141 @@
-# Awesome AI Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ottosulin/awesome-ai-security)
+# Awesome AI Security ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+A curated list of AI security resources inspired by [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity).
+    
+[research]: https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research"
+[slides]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/x-office-presentation-32.png "Slides"
+[video]: https://cdn2.iconfinder.com/data/icons/snipicons/500/video-32.png "Video"
+[web]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/internet-web-browser-32.png "Website or blog post"
+[code]: https://cdn2.iconfinder.com/data/icons/snipicons/500/application-code-32.png "Code"
+[other]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/emblem-symbolic-link-32.png "Uncategorized"
 
-A curated list of awesome AI security related frameworks, standards, learning resources and tools.
+#### Legend:
+|Type| Icon|
+|---|---|
+| Research  | ![][research]|
+| Slides  | ![][slides] |
+| Video | ![][video]  |
+| Website / Blog post  | ![][web]  |
+| Code  | ![][code]|
+| Other  | ![][other]|
 
-If you want to contribute, create a PR or contact me [@ottosulin](https://twitter.com/ottosulin) / [@ottosulin](https://mastodon.social/@ottosulin).
+## Keywords:
+- [Adversarial examples](#-adversarial-examples)
+- [Evasion attacks](#-evasion)
+- [Poisoning attacks](#-poisoning)
+- [Feature selection](#-feature-selection)
+- Tutorials
+- [Misc](#-misc)
+- [Code](#-code)
+- [Links](#-links)
 
-## Learning resources
+## [▲](#keywords) Adversarial examples
+|Type|Title|
+|---|:---|
+|![][research]  | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)  |
+| ![][research]  | [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277)|
+|![][research] | [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)|
+|![][research] | [On the (Statistical) Detection of Adversarial Examples](https://arxiv.org/abs/1702.06280)|
+|![][research] | [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453)|
+|![][research] | [Adversarial Attacks on Neural Network Policies](http://rll.berkeley.edu/adversarial/)|
+|![][research] | [Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/abs/1606.04435)|
+|![][research] | [Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275)|
+|![][research]| [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)|
+|![][research]| [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)|
+|![][research]| [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945)|
+|![][research]| [Can you fool AI with adversarial examples on a visual Turing test?](https://arxiv.org/abs/1709.08693)|
+|![][research]| [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397)|
+|![][research]| [Defensive Distillation is Not Robust to Adversarial Examples](http://nicholas.carlini.com/papers/2016_defensivedistillation.pdf)|
+|![][research]| [Vulnerability of machine learning models to adversarial examples](http://ceur-ws.org/Vol-1649/187.pdf)|
+|![][research]| [Adversarial Examples for Evaluating Reading Comprehension Systems](https://nlp.stanford.edu/pubs/jia2017adversarial.pdf)|
+|![][video]| [Adversarial Examples and Adversarial Training by Ian Goodfellow at Stanford](https://www.youtube.com/watch?v=CIfsB_EYsVI)|
+|![][research]| [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](http://yclin.me/adversarial_attack_RL/)|
+|![][research]| [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553)|
+|![][research]| [Did you hear that? Adversarial Examples Against Automatic Speech Recognition](https://arxiv.org/abs/1801.00554)|
+|![][research]| [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122)|
+|![][research]| [Exploring the Space of Adversarial Images](https://arxiv.org/abs/1510.05328)|
+|![][research]| [Note on Attacking Object Detectors with Adversarial Stickers](https://arxiv.org/abs/1712.08062)|
+|![][research]| [Adversarial Patch](https://arxiv.org/abs/1712.09665)|
+|![][research]| [LOTS about Attacking Deep Features](https://arxiv.org/abs/1611.06179)|
+|![][research]| [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](https://arxiv.org/abs/1702.05983)|
+|![][research]| [Adversarial Images for Variational Autoencoders](https://arxiv.org/abs/1612.00155)|
+|![][research]| [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452)|
+|![][research]| [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299)|
+|![][research]| [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)|
 
 
-* [GenAI Security podcast](https://podcasts.apple.com/ph/podcast/the-genai-security-podcast/id1782916580)
-* [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/)
-* [OWASP LLM TOP 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-* [NIST AIRC](https://airc.nist.gov/Home) - NIST Trustworthy & Responsible AI Resource Center
-* [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
-* [OWASP Multi-Agentic System Threat Modeling](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
+## [▲](#keywords) Evasion
+|Type|Title|
+|---|:---|
+|![][research]|[Query Strategies for Evading Convex-Inducing Classifiers](https://people.eecs.berkeley.edu/~adj/publications/paper-files/1007-0484v1.pdf)|
+|![][research]|[Evasion attacks against machine learning at test time](https://pralab.diee.unica.it/sites/default/files/Biggio13-ecml.pdf)|
+|![][research]|[Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)|
+|![][research]|[Looking at the Bag is not Enough to Find the Bomb: An Evasion of Structural Methods for Malicious PDF Files Detection](https://pralab.diee.unica.it/sites/default/files/maiorca_ASIACCS13.pdf)|
+|![][research]|[Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers](https://arxiv.org/abs/1707.05970)|
+|![][research]|[Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)|
+|![][research]| [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)|
+|![][research]| [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)|
+|![][research]| [Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition](https://arxiv.org/abs/1801.00349)|
+|![][research]| [RHMD: Evasion-Resilient Hardware Malware Detectors](http://www.cs.ucr.edu/~kkhas001/pubs/micro17-rhmd.pdf)|
 
-* [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
-* [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
+## [▲](#keywords) Poisoning
+|Type|Title|
+|---|:---|
+|![][research] ![][slides]|[Poisoning Behavioral Malware Clustering](http://pralab.diee.unica.it/en/node/1121)|
+|![][research]|[Efficient Label Contamination Attacks Against Black-Box Learning Models](https://www.ijcai.org/proceedings/2017/0551.pdf)|
+|![][research]|[Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)|
 
-* [MLSecOps podcast](https://mlsecops.com/podcast)
-* [AI Security Podcast](https://www.aisecuritypodcast.com/)
+## [▲](#keywords) Feature selection
+|Type|Title|
+|---|:---|
+|![][research] ![][slides]|[Is Feature Selection Secure against Training Data Poisoning?](https://pralab.diee.unica.it/en/node/1191)|
 
-* [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
-* [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
+## [▲](#keywords) Misc
+|Type|Title|
+|---|:---|
+|![][research] |[Can Machine Learning Be Secure?](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)|
+|![][research]|[On The Integrity Of Deep Learning Systems In Adversarial Settings](https://etda.libraries.psu.edu/catalog/28680)|
+|![][research]|[Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)|
+|![][research]|[Data Driven Exploratory Attacks on Black Box Classifiers in Adversarial Domains](https://arxiv.org/abs/1703.07909)|
+|![][research]|[Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf)|
+|![][research]|[A Methodology for Formalizing Model-Inversion Attacks](https://andrewxiwu.github.io/public/papers/2016/WFJN16-a-methodology-for-modeling-model-inversion-attacks.pdf)|
+|![][research]|[Adversarial Attacks against Intrusion Detection Systems: Taxonomy, Solutions and Open Issues](https://pdfs.semanticscholar.org/d4e8/aed54dc4c6bed41651254a49d47885648142.pdf)|
+|![][slides]|[Adversarial Data Mining for Cyber Security](https://www.utdallas.edu/~muratk/CCS-tutorial.pdf)|
+|![][research]| [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)|
+|![][research]| [Neural Networks in Adversarial Setting and Ill-Conditioned Weight Space](https://arxiv.org/abs/1801.00905)|
+|![][web]| [Adversarial Machines](https://medium.com/@samim/adversarial-machines-998d8362e996)|
+|![][research]| [Adversarial Task Allocation](https://arxiv.org/abs/1709.00358)|
+|![][research]| [Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks](https://arxiv.org/abs/1701.04143)|
+|![][research]| [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)|
+|![][research]| [Adversarial Robustness: Softmax versus Openmax](https://arxiv.org/abs/1708.01697)|
+|![][video]| [DEF CON 25 - Hyrum Anderson - Evading next gen AV using AI](https://youtu.be/FGCle6T0Jpc)|
+|![][web]| [Adversarial Learning for Good: My Talk at #34c3 on Deep Learning Blindspots](http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/)|
+|![][research]| [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)|
+|![][other]| [Camouflage from face detection - CV Dazzle](https://www.cvdazzle.com/)|
 
-## Governance
+## [▲](#keywords) Code
+|Type|Title|
+|---|:---|
+|![][code]|[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans)|
+|![][code]|[Model extraction attacks on Machine-Learning-as-a-Service platforms](https://github.com/ftramer/Steal-ML)|
+|![][code]|[Foolbox - Python toolbox to create adversarial examples](https://github.com/bethgelab/foolbox)|
+|![][code]|[Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib)|
+|![][code]|[Deep-pwning](https://github.com/cchio/deep-pwning)|
+|![][code]|[DeepFool](https://github.com/lts4/deepfool)|
+|![][code]|[Universal adversarial perturbations](https://github.com/LTS4/universal)|
+|![][code]|[Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware)|
+|![][code]|[Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)|
+|![][code]|[StringSifter - A machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)|
+|![][code]|[CAI - Cybersecurity AI framework for autonomous security testing](https://github.com/aliasrobotics/CAI)|
+|![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 
-### Frameworks and standards
-* [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
-* [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
-* [ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management](https://www.iso.org/standard/77304.html)
-* [Google Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
-* [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
-* [OWASP Artificial Intelligence Maturity Assessment](https://github.com/OWASP/www-project-ai-maturity-assessment)
-* [Google Secure AI Framework](https://saif.google/)
-* [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
+## [▲](#keywords) Links
 
-### Standards
-* [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
-* [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
-* [OWASP Agent Observability Standard](https://aos.owasp.org/)
+|Type|Title|
+|---|:---|
+|![][web]|[EvadeML - Machine Learning in the Presence of Adversaries](http://evademl.org/)|
+|![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
+|![][web]|[Adversarial Examples and their implications](https://hackernoon.com/the-implications-of-adversarial-examples-deep-learning-bits-3-4086108287c7)|
 
-### Taxonomies, terminology and risks
-* [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft)
-* [AVIDML](https://avidml.org/taxonomy/)
-* [MITRE ATLAS](https://atlas.mitre.org/)
-* [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
-* [MIT AI Risk Repository](https://airisk.mit.edu/)
-* [AI Incident Database](https://incidentdatabase.ai/)
-* [NIST AI Glossary](https://airc.nist.gov/glossary/)
-* [The Arcanum Prompt Injection Taxonomy ](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
-* [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
 
-### Other material
-* [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
-* [OWASP AI Security and Privacy Guide](github.com/OWASP/www-project-ai-security-and-privacy-guide)
-
-## Offensive tools and frameworks
-
-### Guides & frameworks
-* [OWASP GenAI Red Teaming Guide](https://genai.owasp.org/initiatives/#ai-redteaming)
-
-### ML
-* [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - _makes it possible to write agents that learn to manipulate PE files (e.g., malware) to achieve some objective (e.g., bypass AV) based on a reward provided by taking specific manipulation actions_
-* [Deep-pwning](https://github.com/cchio/deep-pwning) - _a lightweight framework for experimenting with machine learning models with the goal of evaluating their robustness against a motivated adversary_
-* [Counterfit](https://github.com/Azure/counterfit) - _generic automation layer for assessing the security of machine learning systems_
-* [DeepFool](https://github.com/lts4/deepfool) - _A simple and accurate method to fool deep neural networks_
-* [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - _MLflow red team toolsuite_
-* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT.) - An automatic pentester (+ corresponding *[benchmark dataset](https://github.com/ipa
--lab/hacking-benchmark)*)
-* [Charcuterie](https://github.com/moohax/Charcuterie) - _code execution techniques for ML or ML adjacent libraries_
-* [OffsecML Playbook](https://wiki.offsecml.com) - _A collection of offensive and adversarial TTP's with proofs of concept_
-* [BadDiffusion](https://github.com/IBM/BadDiffusion) - _Official repo to reproduce the paper "How to Backdoor Diffusion Models?" published at CVPR 2023_
-* [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)
-* Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib) - _Game-theoretic adversarial machine learning library providing a set of learner and adversary modules_
-* [Adversarial Robustness Toolkit](https://research.ibm.com/projects/adversarial-robustness-toolbox) - _ART focuses on the threats of Evasion (change the model behavior with input modifications), Poisoning (control a model with training data modifications), Extraction (steal a model through queries) and Inference (attack the privacy of the training data)_
-* [cleverhans](https://github.com/cleverhans-lab/cleverhans) - _An adversarial example library for constructing attacks, building defenses, and benchmarking both_
-* [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
-* [TextAttack](https://github.com/QData/TextAttack) - _TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/_
-
-### LLM
-* [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
-* [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
-* [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
-* [llamator](https://github.com/LLAMATOR-Core/llamator) - _Framework for testing vulnerabilities of large language models (LLM)._
-* [whistleblower](https://github.com/Repello-AI/whistleblower) - _Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API_
-* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) - _🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥_
-* [vigil-llm](https://github.com/deadbits/vigil-llm) - _⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs_
-* [FuzzyAI](https://github.com/cyberark/FuzzyAI) - _A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs._
-* [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) - _An easy-to-use Python framework to generate adversarial jailbreak prompts._
-* [promptmap](https://github.com/utkusen/promptmap) - _a prompt injection scanner for custom LLM applications_
-* [PyRIT](https://github.com/Azure/PyRIT) - _The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems._
-* [PurpleLlama](https://github.com/meta-llama/PurpleLlama) - _Set of tools to assess and improve LLM security._
-* [Giskard-AI](https://github.com/Giskard-AI/giskard) - _🐢 Open-Source Evaluation & Testing for AI & LLM systems_
-* [promptfoo](https://github.com/promptfoo/promptfoo) - _Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration._
-* [HouYi](https://github.com/LLMSecurity/HouYi) - _The automated prompt injection framework for LLM-integrated applications._
-* [llm-attacks](https://github.com/llm-attacks/llm-attacks) - _Universal and Transferable Attacks on Aligned Language Models_
-* [Dropbox llm-security](https://github.com/dropbox/llm-security) - _Dropbox LLM Security research code and results_
-* [llm-security](https://github.com/greshake/llm-security) - _New ways of breaking app-integrated LLMs_
-* [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _This repository provides a benchmark for prompt Injection attacks and defenses_
-* [Plexiglass](https://github.com/safellama/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
-* [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt_
-* [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
-* [spikee](https://github.com/WithSecureLabs/spikee)) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
-* [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
-* [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
-* [gptfuzz](https://github.com/sherdencooper/GPTFuzz) - _Official repo for GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts_
-* [AgentDojo](https://github.com/ethz-spylab/agentdojo) - _A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents._
-* [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) - _JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track]_
-* [giskard](https://github.com/Giskard-AI/giskard) - _🐢 Open-Source Evaluation & Testing library for LLM Agents_
-
-### AI for offensive cyber
-* [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
-* [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
-* [mcp-for-security](https://github.com/cyproxio/mcp-for-security) - _A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows._
-* [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence ([paper](https://arxiv.org/pdf/2504.06017))_
-* [AIRTBench](https://github.com/dreadnode/AIRTBench-Code) - _Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models_
-* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
-* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - _Helping Ethical Hackers use LLMs in 50 Lines of Code or less.._
-* [HexStrikeAI](https://github.com/0x4m4/hexstrike-ai) - _HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities._
-* [Burp MCP Server](https://github.com/PortSwigger/mcp-server) - _MCP Server for Burp_
-* [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
-
-## Defensive tools and frameworks
-
-### Guides & frameworks
-* [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
-* [OWASP Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
-* [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
-* [OWASP GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
-* [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
-* [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
-* [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
-
-### AI for defensive cyber
-* [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
-* [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
-
-### Data security and governance
-* [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
-* [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
-
-### Safety and prevention
-* [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
-* [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow_
-* [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
-* [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
-* [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
-* [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety)
-* [ZenGuard AI](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - _The fastest Trust Layer for AI Agents_
-* [llm-guard](https://github.com/protectai/llm-guard) - _LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs)._
-* [vibraniumdome](https://github.com/genia-dev/vibraniumdome) - _Full blown, end to end LLM WAF for Agents, allowing security teams govenrance, auditing, policy driven control over Agents usage of language models._
-* [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
-* [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
-* [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
-* [NeMo-GuardRails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
-* [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
-* [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
-
-### Detection & scanners
-* [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
-* [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
-* [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
-* [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
-* [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
-* [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
-
-### Privacy and confidentiality
-* [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
-* [Diffprivlib](https://github.com/IBM/differential-privacy-library) - _The IBM Differential Privacy Library_
-* [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
-* [TenSEAL](https://github.com/OpenMined/TenSEAL) - _A library for doing homomorphic encryption operations on tensors_
-* [SyMPC](https://github.com/OpenMined/SyMPC) - _A Secure Multiparty Computation companion library for Syft_
-* [PyVertical](https://github.com/OpenMined/PyVertical) - _Privacy Preserving Vertical Federated Learning_
-* [Cloaked AI](https://ironcorelabs.com/products/cloaked-ai/) - _Open source property-preserving encryption for vector embeddings_
-* [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
-* [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
-
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
