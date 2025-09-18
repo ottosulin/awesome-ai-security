@@ -36,6 +36,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 
 ### Standards
+
+- [AI Manifest](https://ai-manifest.org) — optional reference for /.well‑known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) — registry/spec examples and public snapshots (no PII, mirroring allowed).
+
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
