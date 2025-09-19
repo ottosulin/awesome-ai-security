@@ -176,3 +176,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
 
+
+
+## Links
+
+<!-- ai-manifest-ref 2025-09-19T12:43:53.469Z -->
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
