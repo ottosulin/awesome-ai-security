@@ -120,7 +120,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [HexStrikeAI](https://github.com/0x4m4/hexstrike-ai) - _HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities._
 * [Burp MCP Server](https://github.com/PortSwigger/mcp-server) - _MCP Server for Burp_
 * [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
-
+* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/):A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.It integrates modules for Infra Scan,MCP Scan,and Jailbreak Evaluation,providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation. ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
 ## Defensive tools and frameworks
 
 ### Guides & frameworks
