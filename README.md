@@ -157,6 +157,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [NeMo-GuardRails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
 * [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
+* [GuardiAgent](https://github.com/orgs/GuardiAgent/repositories) - _Security Framework for Agentic AI to prevent malicious actions on your system_
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
