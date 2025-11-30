@@ -109,6 +109,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [AgentDojo](https://github.com/ethz-spylab/agentdojo) - _A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents._
 * [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) - _JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track]_
 * [giskard](https://github.com/Giskard-AI/giskard) - _🐢 Open-Source Evaluation & Testing library for LLM Agents_
+* [LaikaTest](https://github.com/ForecloseAI/flash-gateway) - _A high-performance AI proxy designed for secure and reliable LLM traffic, with advanced guardrails, parallel validation, request logging, and multi-provider support. It adds enforcement, filtering, and safety controls around AI requests while keeping latency extremely low._
 
 ### AI for offensive cyber
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
