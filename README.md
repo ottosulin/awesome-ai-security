@@ -122,6 +122,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [Burp MCP Server](https://github.com/PortSwigger/mcp-server) - _MCP Server for Burp_
 * [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/):A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.It integrates modules for Infra Scan,MCP Scan,and Jailbreak Evaluation,providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation. ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
+
 ## Defensive tools and frameworks
 
 ### Guides & frameworks
@@ -165,6 +166,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
 * [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
+* [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
 
 ### Privacy and confidentiality
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
