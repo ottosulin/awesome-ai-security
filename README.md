@@ -122,7 +122,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [HexStrikeAI](https://github.com/0x4m4/hexstrike-ai) - _HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities._
 * [Burp MCP Server](https://github.com/PortSwigger/mcp-server) - _MCP Server for Burp_
 * [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
-* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/):A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.It integrates modules for Infra Scan,MCP Scan,and Jailbreak Evaluation,providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation. ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
+* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.It integrates modules for Infra Scan,MCP Scan,and Jailbreak Evaluation,providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 
 ## Defensive tools and frameworks
 
@@ -159,6 +159,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [NeMo-GuardRails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
 * [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
+* [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
