@@ -25,6 +25,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
 * [AI Security Podcast](https://www.aisecuritypodcast.com/)
+* [Before The Commit Podcast](https://www.beforethecommit.com/)
 
 ## Governance
 
