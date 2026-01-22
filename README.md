@@ -144,7 +144,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 ### Data security and governance
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
-* 
 
 ### General AI / ML safety and robustness
 * [secml-torch](https://github.com/pralab/secml-torch) - _SecML-Torch: A Library for Robustness Evaluation of Deep Learning Models_
