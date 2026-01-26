@@ -21,6 +21,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://twitte
 * [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
 * [vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - _A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers._
 * [FinBot Agentic AI Capture The Flag (CTF) Application](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) - _FinBot is an Agentic Security Capture The Flag (CTF) interactive platform that simulates real-world vulnerabilities in agentic AI systems using a simulated Financial Services-focused application._
+* [AI/LLM Exploitation Challenges - 8kSec](https://academy.8ksec.io/course/ai-exploitation-challenges) - _A set of 10 AI and LLM security challenges that simulate real attack paths._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
