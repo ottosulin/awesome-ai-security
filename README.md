@@ -52,7 +52,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI Incident Database](https://incidentdatabase.ai/)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
 * [The Arcanum Prompt Injection Taxonomy ](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
-* [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+* [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)- [
+* AATMF](https://snailsploit.com/frameworks/aatmf/) - Comprehensive adversarial AI TTPs with 40+ techniques.
+
 
 ### Other material
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
