@@ -2,7 +2,7 @@
 
 A curated list of awesome AI security related frameworks, standards, learning resources and tools.
 
-If you want to contribute, create a PR or contact me [@ottosulin](https://twitter.com/ottosulin) / [@ottosulin](https://mastodon.social/@ottosulin).
+If you want to contribute, create a PR or contact me [@ottosulin](https://mastodon.social/@ottosulin).
 
 ## Learning resources
 
