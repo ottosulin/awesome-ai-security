@@ -1,6 +1,6 @@
 # Awesome AI Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ottosulin/awesome-ai-security)
 
-A curated list of awesome AI security related frameworks, standards, learning resources and tools.
+A curated list of awesome AI security related frameworks, standards, learning resources and open source tools. 
 
 If you want to contribute, create a PR or contact me [@ottosulin](https://mastodon.social/@ottosulin).
 
@@ -141,6 +141,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### AI for defensive cyber
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
 * [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
+* [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
 
 ### Data security and governance
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
@@ -172,7 +173,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 
-### Safety and sandboxing for AI tools
+### Safety and sandboxing for agentic AI tools
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _mcp-context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers_
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
