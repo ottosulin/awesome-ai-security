@@ -81,7 +81,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [foolbox](https://github.com/bethgelab/foolbox) - _A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX_
 * [TextAttack](https://github.com/QData/TextAttack) - _TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/_
 
-### LLM
+### Attacking LLMs
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
@@ -142,6 +142,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
 * [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
 * [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
+* [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) - _Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows_
 
 ### Data security and governance
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
