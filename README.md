@@ -128,6 +128,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab.It integrates modules for Infra Scan,MCP Scan,and Jailbreak Evaluation,providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [strix](https://github.com/usestrix/strix) - _Strix are autonomous AI agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proof-of-concepts_
 * [mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - _A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more._
+* [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - _AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool_
 
 ## Defensive tools and frameworks
 
