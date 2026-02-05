@@ -206,3 +206,4 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Models for cyber security
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning (Foundation-Sec-8B-Reasoning) is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities. It leverages prior training to understand security concepts, terminology, and practices across multiple security domains_
+* [AgentDoG](https://github.com/AI45Lab/AgentDoG) - _AgentDoG is a risk-aware evaluation and guarding framework for autonomous agents. It focuses on trajectory-level risk assessment, aiming to determine whether an agent’s execution trajectory contains safety risks under diverse application scenarios._
