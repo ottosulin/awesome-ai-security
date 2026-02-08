@@ -194,6 +194,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
 * [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
 * [medusa](https://github.com/Pantheon-Security/medusa) - _AI-first security scanner with 74+ analyzers, 180+ AI agent security rules, intelligent false positive reduction. Supports all languages. CVE detection for React2Shell, mcp-remote RCE._
+* [julius](https://github.com/praetorian-inc/julius) - _LLM service fingerprinting tool for security professionals. Detects 32+ AI services (Ollama, vLLM, LiteLLM, Hugging Face TGI, etc.) during penetration tests and attack surface discovery. Uses HTTP-based service fingerprinting to identify server infrastructure._
 
 ### OpenClaw
 * [openclaw-shield](https://github.com/knostic/openclaw-shield) - _Security plugin for OpenClaw agents - prevents secret leaks, PII exposure, and destructive command execution_
