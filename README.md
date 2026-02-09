@@ -145,8 +145,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### AI for defensive cyber
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
 * [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
-* [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
-* [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) - _Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows_
 
 ### Data security and governance
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
@@ -209,6 +207,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Cloaked AI](https://ironcorelabs.com/products/cloaked-ai/) - _Open source property-preserving encryption for vector embeddings_
 * [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
+
+## Agentic AI skills
+* [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
+* [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) - _Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows_
+* [Semgrep Skills](https://github.com/semgrep/skills) - _Official Semgrep skills for Claude Code and other AI coding assistants. Provides security scanning, code analysis, and vulnerability detection capabilities directly in your AI-assisted development workflow._
 
 ## Models for cyber security
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
