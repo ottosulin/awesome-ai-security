@@ -196,6 +196,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### OpenClaw
 * [openclaw-shield](https://github.com/knostic/openclaw-shield) - _Security plugin for OpenClaw agents - prevents secret leaks, PII exposure, and destructive command execution_
+* [clawsec](https://github.com/prompt-security/clawsec) - _Security scanner and hardening tool for OpenClaw deployments. Provides security assessments, configuration auditing, and vulnerability detection specifically for OpenClaw gateway and agent configurations._
 
 ### Privacy and confidentiality
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
