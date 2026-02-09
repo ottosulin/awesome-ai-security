@@ -184,6 +184,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
+* [OpenClaw Security Suite](https://github.com/AtlasPA/openclaw-security) - _An open-source 11-tool defensive security suite for AI agent workspaces. Covers prompt injection defense, workspace integrity verification, secret scanning, supply chain analysis, network DLP, credential lifecycle management, compliance enforcement, and incident response. Pure Python stdlib with zero dependencies and local-only execution._
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
