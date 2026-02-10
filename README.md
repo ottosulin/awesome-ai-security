@@ -178,6 +178,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
+* [Runestone Gatekeeper](https://github.com/Runestone-Labs/gatekeeper) - _Policy enforcement for AI agent tool calls (shell, HTTP, filesystem). Three-decision model (allow/deny/approve) with YAML policy, HMAC-signed approvals, SSRF protection, and append-only audit logs. Published [threat model](https://github.com/Runestone-Labs/gatekeeper/blob/main/THREAT_MODEL.md). Apache 2.0._
 
 ### Safety and sandboxing for agentic AI tools
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _mcp-context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers_
