@@ -132,6 +132,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - _A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more._
 * [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - _AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool_
 * [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - _AI-native security testing platform built in Go. Integrates 100+ security tools with an intelligent orchestration engine, role-based testing with predefined security roles, skills system, and comprehensive lifecycle management. Uses MCP protocol and AI agents for end-to-end automation from conversational commands to vulnerability discovery._
+* [redamon](https://github.com/samugit83/redamon) - _AI-powered agentic red team framework that automates offensive security operations from reconnaissance to exploitation to post-exploitation with zero human intervention._
 
 ## Defensive tools and frameworks
 
