@@ -82,6 +82,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [TextAttack](https://github.com/QData/TextAttack) - _TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/_
 
 ### Attacking LLMs
+* [PwnClaw](https://pwnclaw.com) - _AI agent security testing platform with 112 attacks across 14 categories including prompt injection, jailbreaks, MCP poisoning, and agency hijacking. Tests agents end-to-end without API keys._
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
