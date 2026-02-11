@@ -179,7 +179,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 
-### Safety and sandboxing for agentic AI tools
+### Security for agentic AI tools
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _mcp-context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers_
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
@@ -212,6 +212,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Cloaked AI](https://ironcorelabs.com/products/cloaked-ai/) - _Open source property-preserving encryption for vector embeddings_
 * [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
+
+### Miscellaneous
+* [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 
 ## Agentic AI skills
 * [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
