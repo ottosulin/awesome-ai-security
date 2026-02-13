@@ -203,6 +203,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [clawsec](https://github.com/prompt-security/clawsec) - _Security scanner and hardening tool for OpenClaw deployments. Provides security assessments, configuration auditing, and vulnerability detection specifically for OpenClaw gateway and agent configurations._
 
 ### Privacy and confidentiality
+* [AgentLeak](https://github.com/Privatris/AgentLeak) - _AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems_
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
 * [Diffprivlib](https://github.com/IBM/differential-privacy-library) - _The IBM Differential Privacy Library_
 * [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence A threat modeling library to help you build responsible AI_
