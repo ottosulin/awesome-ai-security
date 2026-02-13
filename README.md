@@ -15,7 +15,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [The MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
 * [OWASP Multi-Agentic System Threat Modeling](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
 * [OWASP: CheatSheet – A Practical Guide for Securely Using Third-Party MCP Servers 1.0](https://genai.owasp.org/resource/cheatsheet-a-practical-guide-for-securely-using-third-party-mcp-servers-1-0/)
-
+* [The Weaponization of AI by Nation-States: A Zero Trust Defense Strategy](https://accuknox.com/blog/anthropic-ai-security-gtg-1002)
 ### Technical material & labs
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
 * [OWASP WrongSecrets LLM exercise](https://wrongsecrets.herokuapp.com/challenge/32)
@@ -144,6 +144,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 * [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+* [AI Security Platform](https://accuknox.com/platform/ai-security) - _A framework for protecting GenAI applications, models, and data using Zero Trust principles._
 
 ### AI for defensive cyber
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
@@ -186,8 +187,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
+* [Agentic AI Security Solution](https://accuknox.com/solutions/agentic-ai-security) - _Security controls specifically for autonomous agents, including tool-call verification and prompt injection defense._
 
 ### Detection & scanners
+* [AI Detection and Response (AI-DR)](https://accuknox.com/solutions/ai-dr) - _Continuous monitoring and threat detection specifically designed for AI workloads and inference security._
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
@@ -201,6 +204,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### OpenClaw
 * [openclaw-shield](https://github.com/knostic/openclaw-shield) - _Security plugin for OpenClaw agents - prevents secret leaks, PII exposure, and destructive command execution_
 * [clawsec](https://github.com/prompt-security/clawsec) - _Security scanner and hardening tool for OpenClaw deployments. Provides security assessments, configuration auditing, and vulnerability detection specifically for OpenClaw gateway and agent configurations._
+* [Securing Autonomous AI Agents: Sandboxing Strategies for OpenClaw and Moltbook](https://accuknox.com/blog/openclaw-security-ai-agent-sandboxing-aispm)
 
 ### Privacy and confidentiality
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
