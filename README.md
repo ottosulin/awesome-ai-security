@@ -1,8 +1,39 @@
 # Awesome AI Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ottosulin/awesome-ai-security)
 
-A curated list of awesome AI security related frameworks, standards, learning resources and open source tools. 
+A curated list of awesome AI security related frameworks, standards, learning resources and open source tools.
 
 If you want to contribute, create a PR or contact me [@ottosulin](https://mastodon.social/@ottosulin).
+
+## Table of Contents
+
+- [Learning resources](#learning-resources)
+  - [General reading material](#general-reading-material)
+  - [Technical material & labs](#technical-material--labs)
+  - [Podcasts](#podcasts)
+- [Governance](#governance)
+  - [Frameworks and standards](#frameworks-and-standards)
+  - [Standards](#standards)
+  - [Taxonomies, terminology and risks](#taxonomies-terminology-and-risks)
+  - [Other material](#other-material)
+- [Offensive tools and frameworks](#offensive-tools-and-frameworks)
+  - [Guides & frameworks](#guides--frameworks)
+  - [ML](#ml)
+  - [Attacking LLMs](#attacking-llms)
+  - [AI for offensive cyber](#ai-for-offensive-cyber)
+- [Defensive tools and frameworks](#defensive-tools-and-frameworks)
+  - [Guides & frameworks](#guides--frameworks-1)
+  - [AI for defensive cyber](#ai-for-defensive-cyber)
+  - [Data security and governance](#data-security-and-governance)
+  - [General AI / ML safety and robustness](#general-ai--ml-safety-and-robustness)
+  - [MCP Security](#mcp-security)
+  - [LLM Guardrails](#llm-guardrails)
+  - [Security for agentic AI tools](#security-for-agentic-ai-tools)
+  - [Detection & scanners](#detection--scanners)
+  - [OpenClaw](#openclaw)
+  - [Privacy and confidentiality](#privacy-and-confidentiality)
+  - [Miscellaneous](#miscellaneous)
+- [Agentic AI skills](#agentic-ai-skills)
+- [Models for cyber security](#models-for-cyber-security)
 
 ## Learning resources
 
