@@ -85,6 +85,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [The Arcanum Prompt Injection Taxonomy ](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
 * [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
 
+### Technical resources for governance
+[Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+
 ### Other material
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
 * [OWASP AI Security and Privacy Guide](github.com/OWASP/www-project-ai-security-and-privacy-guide)
