@@ -82,7 +82,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [AI Incident Database](https://incidentdatabase.ai/)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
-* [The Arcanum Prompt Injection Taxonomy ](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
+* [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
 * [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
 
 ### Technical resources for governance
