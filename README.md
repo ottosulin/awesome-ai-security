@@ -250,6 +250,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Cloaked AI](https://ironcorelabs.com/products/cloaked-ai/) - _Open source property-preserving encryption for vector embeddings_
 * [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
+* [Tinfoil](https://tinfoil.sh/) - _Verifiably private AI chat and inference serving frontier open source models. Uses NVIDIA confidential computing and open source code pinned to a transparency log for end-to-end verifiability._
 
 ### Miscellaneous
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
