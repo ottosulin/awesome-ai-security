@@ -185,6 +185,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
+* [ClawMoat](https://github.com/darfaz/clawmoat) - _Open-source runtime security for AI agents. Host-level protection with permission tiers, credential monitoring, skill integrity checking, and forbidden zones. Zero dependencies, sub-millisecond scanning. MIT licensed._
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
 
 ### Detection & scanners
