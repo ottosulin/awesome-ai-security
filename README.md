@@ -213,6 +213,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
+* [Giskard Guards](https://guards.giskard.cloud/) - _Giskard Guards is a policy-driven safety layer for AI applications. It screens prompts and responses for jailbreaks, PII, and custom policies, returning allow, monitor, or block actions via a simple API._
 
 ### Security for agentic AI tools
 * [sidechannel](https://github.com/HackingDave/sidechannel) - _Signal messaging bot that integrates Claude AI for coding and development workflows from your phone. Features long-term memory, autonomous development tasks, and parallel execution with production-grade reliability._
