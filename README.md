@@ -199,6 +199,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
+* [PolicyLayer Intercept](https://github.com/policylayer/intercept) - _Transparent MCP proxy that enforces YAML policies on every tool call before it reaches upstream. Rate limits, spend caps, argument validation, unconditional blocks, and full audit logging. Drop-in with no agent or server changes._
 
 ### LLM Guardrails
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
