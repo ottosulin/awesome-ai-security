@@ -84,6 +84,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
 * [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+* [AI TRiSM Market Index](https://github.com/alpha-one-index/ai-trism-index) - _Open-source index of 84+ AI Trust, Risk, and Security Management vendors with market sizing, regulatory tracker, and interactive dashboard._
 
 ### Technical resources for governance
 [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
