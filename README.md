@@ -193,6 +193,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety)
 
 ### MCP Security
+* [Aguara](https://github.com/garagon/aguara) - _Static security scanner for AI agent skills and MCP servers. 173 detection rules across 13 categories, 4 analysis layers, offline, no LLM._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
