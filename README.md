@@ -225,6 +225,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
 * [pipelock](https://github.com/luckyPipewrench/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
+* [nucleus](https://github.com/coproduct-opensource/nucleus) - _Formally verified permission lattice and security scanner for AI agent configs. Scans Claude Code settings.json, MCP configs, and PodSpecs for the lethal trifecta (private data + untrusted content + exfiltration). 297 SMT proofs, zero-dependency GitHub Action. MIT licensed._
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
