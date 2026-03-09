@@ -227,6 +227,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
 * [pipelock](https://github.com/luckyPipewrench/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
+* [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents by Antropos. Monitor processes, files, network, and behavior of autonomous AI agents in real time. No telemetry, no cloud, everything stays local._
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
 
 ### Detection & scanners
