@@ -56,6 +56,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
 * [AI Security Podcast](https://www.aisecuritypodcast.com/)
+* [AI Security Ops](https://aisecurityops.transistor.fm) - _Weekly podcasts from Black Hills Information Security exploring how AI transforms cybersecurity—covering emerging threats, tools, and trends with practical, actionable knowledge._
 
 ## Governance
 
