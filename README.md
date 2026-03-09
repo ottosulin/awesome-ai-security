@@ -217,6 +217,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 
 ### Security for agentic AI tools
+* [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents. Monitor processes, files, network, and behavior of autonomous AI agents._
 * [sidechannel](https://github.com/HackingDave/sidechannel) - _Signal messaging bot that integrates Claude AI for coding and development workflows from your phone. Features long-term memory, autonomous development tasks, and parallel execution with production-grade reliability._
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _mcp-context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers_
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
