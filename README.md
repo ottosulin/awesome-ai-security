@@ -260,6 +260,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Miscellaneous
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
+* [ai-best-practices](https://github.com/semgrep/ai-best-practices) - _Semgrep Pro Rules to ensure code using LLMs is following best practices. 58 rules, 102 sub-rules covering 6 providers + MCP + Claude Code & Cursor hooks + LangChain. Detects hardcoded API keys, prompt injection risks, missing safety checks, and unhandled errors across 7 languages._
 
 ## Agentic AI skills
 * [Ghost Security Skills](https://github.com/ghostsecurity/skills) - Agent application security (appsec) skills and tools for Claude Code
