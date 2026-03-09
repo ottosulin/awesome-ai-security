@@ -227,6 +227,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
 
 ### Detection & scanners
+* [Firmis Scanner](https://github.com/riteshkew/firmis-scanner) - _Full-lifecycle security CLI for AI agents: 224 detection rules across 8 platforms (Claude Code, MCP, Cursor, Gemini CLI, CrewAI, AutoGPT, OpenClaw, Nanobot), runtime monitoring hooks with behavioral scoring, auto-fix engine, and compliance mapping (SOC2, AI Act, GDPR, NIST, OWASP)._
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
