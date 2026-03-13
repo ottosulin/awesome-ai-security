@@ -233,6 +233,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
+* [AgentShield](https://github.com/elliotllliu/agent-shield) - _Security scanner for AI agent skills, MCP servers, and plugins. 30 detection rules with AST taint tracking, cross-file data flow analysis, kill chain detection, multi-language prompt injection detection (8 languages), and description-code integrity checks. Zero install via npx, 100% offline, MIT licensed._
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
