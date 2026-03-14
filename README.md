@@ -180,6 +180,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 * [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+* [GSH Framework](https://github.com/sunilgentyala/gsh-framework) - Open-source threat hunting playbooks for agentic AI systems and LLM pipelines, mapped to MITRE ATLAS and NIST CSF 2.0.
 
 ### AI for defensive cyber
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
