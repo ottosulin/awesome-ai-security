@@ -234,6 +234,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
+* [AgentShield](https://github.com/elliotllliu/agent-shield) - _Security scanner for AI agent skills, MCP servers, and plugins. 30 detection rules with AST taint tracking, cross-file data flow analysis, kill chain detection, multi-language prompt injection detection (8 languages), and description-code integrity checks. Zero install via npx, 100% offline, MIT licensed._
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit various security related metrics that can be used to detect attacks_
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
@@ -241,6 +242,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
 * [medusa](https://github.com/Pantheon-Security/medusa) - _AI-first security scanner with 74+ analyzers, 180+ AI agent security rules, intelligent false positive reduction. Supports all languages. CVE detection for React2Shell, mcp-remote RCE._
 * [julius](https://github.com/praetorian-inc/julius) - _LLM service fingerprinting tool for security professionals. Detects 32+ AI services (Ollama, vLLM, LiteLLM, Hugging Face TGI, etc.) during penetration tests and attack surface discovery. Uses HTTP-based service fingerprinting to identify server infrastructure._
+* [AgentShield](https://github.com/elliotllliu/agent-shield) - _Security scanner for AI agent skills, MCP servers, and plugins. 31 rules for prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception. Free, offline, zero-config._
 
 ### OpenClaw
 * [openclaw-shield](https://github.com/knostic/openclaw-shield) - _Security plugin for OpenClaw agents - prevents secret leaks, PII exposure, and destructive command execution_
