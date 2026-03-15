@@ -215,6 +215,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
+* [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 
 ### Security for agentic AI tools
 * [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents. Monitor processes, files, network, and behavior of autonomous AI agents._
