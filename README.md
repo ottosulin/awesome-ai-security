@@ -69,6 +69,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP Artificial Intelligence Maturity Assessment](https://github.com/OWASP/www-project-ai-maturity-assessment)
 * [Google Secure AI Framework](https://saif.google/)
 * [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
+* [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 
 ### Standards
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
