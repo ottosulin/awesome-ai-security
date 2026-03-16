@@ -203,6 +203,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
 
 ### LLM Guardrails
+* [ai-injection-guard](https://github.com/LuciferForge/prompt-shield) — Lightweight prompt injection detector + LLM output scanner. 75 regex patterns, zero ML dependencies, <1ms pre-filter.
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developers Code Generation AI workflow_
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
