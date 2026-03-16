@@ -248,6 +248,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [clawsec](https://github.com/prompt-security/clawsec) - _Security scanner and hardening tool for OpenClaw deployments. Provides security assessments, configuration auditing, and vulnerability detection specifically for OpenClaw gateway and agent configurations._
 * [nanoclaw](https://github.com/qwibitai/nanoclaw) - _Lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK. First AI assistant to support Agent Swarms for collaborative agent teams._
 * [secureclaw](https://github.com/adversa-ai/secureclaw) - _Automated security hardening for OpenClaw AI agents by Adversa AI. 51 audit checks, 12 behavioral rules, 9 scripts, 4 pattern databases. Full OWASP ASI Top 10 coverage. Protects against prompt injection, credential theft, supply chain attacks, and privacy leaks._
+* * [AgentGate](https://agent-gate-rho.vercel.app/) - _Open-source security firewall for OpenClaw AI agents. Enforces ALLOW/DENY/REQUIRE_APPROVAL policies on tool calls with real-time Telegram approval notifications, Firebase Firestore audit logs, and an AI Policy Wizard that converts English descriptions into regex rules._
 
 ### Privacy and confidentiality
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
