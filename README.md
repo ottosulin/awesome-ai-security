@@ -270,6 +270,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) - _Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows_
 * [Semgrep Skills](https://github.com/semgrep/skills) - _Official Semgrep skills for Claude Code and other AI coding assistants. Provides security scanning, code analysis, and vulnerability detection capabilities directly in your AI-assisted development workflow._
 * [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - _Claude Code skill for AI-assisted bug bounty hunting. Automates reconnaissance, IDOR, XSS, SSRF, OAuth, GraphQL, and LLM injection testing with 4-gate validation checklist and report generation._
+* [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - _734+ structured cybersecurity skills for AI agents. MITRE ATT&CK mapped, agentskills.io standard. Compatible with Claude Code, Copilot, Codex CLI, Cursor, and Gemini CLI._
 
 ## Models for cyber security
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
