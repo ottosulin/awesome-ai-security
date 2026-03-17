@@ -232,6 +232,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 * [OneCLI](https://github.com/onecli/onecli) - _Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently so agents never hold raw keys. AES-256-GCM encryption, per-agent scoping, full audit trail._
+* [midsummer-vault](https://github.com/midsummer-new/midsummer-vault) - _Secret management CLI and Claude Code plugin that prevents LLMs from seeing API keys. Encrypts secrets with AES-256-GCM and injects them into child processes at runtime. Unlike proxy-based approaches, includes a native Claude Code plugin with 4-layer in-conversation secret detection (API prefix matching, entropy analysis, keyword proximity) and automatic redaction before secrets reach the model._
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
