@@ -117,6 +117,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [TextAttack](https://github.com/QData/TextAttack) - _TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/_
 
 ### Attacking LLMs
+* [ai-scanner](https://github.com/0din-ai/ai-scanner) - _Open-source web application for AI model security assessments, built on NVIDIA garak. Features 179 probes, multi-target scanning, scheduled scans, ASR scoring, and SIEM integration._
 * [garak](https://github.com/leondz/garak/) - _security probing tool for LLMs_
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
