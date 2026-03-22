@@ -267,3 +267,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities._
+
+### Safety Classifiers & Prompt Injection Detection
+
+* [Llama-Guard-4-12B](https://huggingface.co/meta-llama/Llama-Guard-4-12B) - _Meta's latest multimodal safety classifier for detecting harmful content in LLM inputs and outputs across text and image modalities._
+* [Llama-Prompt-Guard-2-86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M) - _Lightweight 86M parameter model from Meta for detecting prompt injection and jailbreak attempts in production LLM pipelines._
+* [ShieldGemma-2B](https://huggingface.co/google/shieldgemma-2b) - _Google's 2B parameter text safety classifier for detecting harmful content, built on the Gemma architecture._
+* [DeBERTa Prompt Injection Detector v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) - _Protect AI's DeBERTa-v3-base fine-tuned for prompt injection detection, widely used in production LLM guardrail pipelines._
+* [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
