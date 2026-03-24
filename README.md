@@ -239,6 +239,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [IDAssist](https://github.com/symgraph/IDAssist) - _AI-Powered Reverse Engineering Plugin for IDA Pro. Integrates LLM-powered analysis into IDA's interface with semantic knowledge graphs, RAG document search, and support for multiple LLM providers (OpenAI, Anthropic, Ollama, LiteLLM). Analyzes functions, suggests renames, answers questions about code._
 * [ThreatForest](https://github.com/aws-samples/sample-agentic-attack-tree-generator) - _Agentic threat modeling platform built on Strands framework. Autonomously generates attack trees from repositories, maps attack steps to MITRE ATT&CK techniques, and produces actionable mitigation recommendations._
 * [claude-grc-plugin](https://github.com/mlunato47/claude-grc-plugin) - _Claude Code plugin that turns Claude into a senior GRC analyst. 72+ reference files covering 15 frameworks (NIST 800-53, FedRAMP, ISO 27001, SOC 2, etc.), 24 slash commands, and deep domain knowledge for federal and commercial compliance work._
+* [Vigil SOC](https://github.com/Vigil-SOC/vigil) - _A comprehensive open-source security operations platform for AI agents, enabling real-time monitoring, threat detection, and incident response for AI-powered environments._
 
 ### Privacy & Confidential Computing
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
