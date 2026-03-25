@@ -279,3 +279,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ShieldGemma-2B](https://huggingface.co/google/shieldgemma-2b) - _Google's 2B parameter text safety classifier for detecting harmful content, built on the Gemma architecture._
 * [DeBERTa Prompt Injection Detector v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) - _Protect AI's DeBERTa-v3-base fine-tuned for prompt injection detection, widely used in production LLM guardrail pipelines._
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
+
+## Datasets
+
+* [SafetyPrompts](https://safetyprompts.com/) - _Curated collection of safety-relevant prompts for evaluating LLM safety and security properties._
+* [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) - _Dataset of prompts that responsible LLMs should not answer, for safety evaluation and red teaming._
+* [JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K) - _Large-scale dataset of 28,000 jailbreak prompts for benchmarking LLM safety._
+* [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
