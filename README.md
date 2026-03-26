@@ -70,6 +70,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
+* [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with real-time observability, policy enforcement, and data governance for regulated industries.
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
 
