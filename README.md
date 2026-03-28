@@ -171,6 +171,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Benchmarks & Evaluations
 
+* [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) - _Internal Safety Collapse: jailbreaks any frontier LLM (Claude Opus 4.6, GPT-5.4) in pass@3 via normal task completion — no adversarial prompting. Black-box, cross-domain, cross-science. Novel failure mode._ [[Paper]](https://arxiv.org/abs/2603.23509)
 * [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench) - _JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track]_
 * [AgentDojo](https://github.com/ethz-spylab/agentdojo) - _A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents._
 * [AIRTBench](https://github.com/dreadnode/AIRTBench-Code) - _Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models_
