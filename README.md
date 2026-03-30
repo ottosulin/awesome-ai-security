@@ -269,6 +269,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Semgrep Skills](https://github.com/semgrep/skills) - _Official Semgrep skills for Claude Code and other AI coding assistants. Provides security scanning, code analysis, and vulnerability detection capabilities directly in your AI-assisted development workflow._
 * [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - _Claude Code skill for AI-assisted bug bounty hunting. Automates reconnaissance, IDOR, XSS, SSRF, OAuth, GraphQL, and LLM injection testing with 4-gate validation checklist and report generation._
 * [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - _734+ structured cybersecurity skills for AI agents. MITRE ATT&CK mapped, agentskills.io standard. Compatible with Claude Code, Copilot, Codex CLI, Cursor, and Gemini CLI._
+* [llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - _SAST skill for AI coding agents (Claude Code, Codex, etc.) with structured vulnerability detection across 34 classes. Features source-to-sink taint analysis, Judge verification for false positive reduction, and 99%+ precision/recall on benchmarks._
 
 ## Security-Focused AI Models
 
