@@ -262,6 +262,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Agentic AI Security Skills
 
+* [Elastic Agent Skills](https://github.com/elastic/agent-skills) - _Collection of skills for Elastic's AI assistant, enabling natural language security investigations across logs, traces, and threat intelligence_
 * [Ghost Security Skills](https://github.com/ghostsecurity/skills) - _Agent application security (appsec) skills and tools for Claude Code_
 * [tm_skills](https://github.com/izar/tm_skills) - _Agent skills to help with Continuous Threat Modeling_
 * [Trail of Bits Skills Marketplace](https://github.com/trailofbits/skills) - _Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows_
