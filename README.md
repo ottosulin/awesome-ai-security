@@ -194,6 +194,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
+* [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - _Enterprise-ready guardrail layer for tool-enabled agents with stable allow/review/block decisions, authenticated stdio/HTTP MCP, secret redaction, and audit-friendly rule IDs/remediation._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit provides various security related metrics that can be used to detect attacks_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
