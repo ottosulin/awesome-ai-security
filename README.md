@@ -49,6 +49,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - _A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers._
 * [FinBot Agentic AI Capture The Flag (CTF) Application](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) - _FinBot is an Agentic Security Capture The Flag (CTF) interactive platform that simulates real-world vulnerabilities in agentic AI systems using a simulated Financial Services-focused application._
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
+* [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
+* [AI GOAT](https://github.com/dhammon/ai-goat) - _Damn Vulnerable LLM application with 10 challenges covering OWASP LLM Top 10 risks. Educational CTF-style lab._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
