@@ -4,6 +4,7 @@ A curated list of awesome AI security related frameworks, standards, learning re
 
 If you want to contribute, create a PR or contact me [@ottosulin](https://mastodon.social/@ottosulin).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security scanning, vulnerability assessment, and automated threat analysis agents for Claude Code. MIT licensed.
 ## Table of Contents
 
 - [Learning Resources](#learning-resources)
