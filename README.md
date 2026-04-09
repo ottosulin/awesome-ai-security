@@ -190,6 +190,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [TrustGate](https://github.com/NeuralTrust/TrustGate) - _Generative Application Firewall (GAF) to detect, prevent and block attacks against GenAI Applications_
 * [ZenGuard AI](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - _The fastest Trust Layer for AI Agents_
 * [vibraniumdome](https://github.com/genia-dev/vibraniumdome) - _Full blown, end to end LLM WAF for Agents, allowing security teams governance, auditing, policy driven control over Agents usage of language models._
+* [ClawGuard](https://github.com/NeuZhou/clawguard) - _AI agent immune system with 285+ threat patterns, PII sanitizer, and OWASP compliance scanning. TypeScript library for runtime protection of AI agents against prompt injection, data exfiltration, and tool abuse._
 * [LocalMod](https://github.com/KOKOSde/localmod) - _Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW classification. Runs 100% offline._
 * [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
