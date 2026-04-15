@@ -170,6 +170,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [guardian-cli](https://github.com/zakirkun/guardian-cli) - _AI-Powered Security Testing & Vulnerability Scanner. Guardian CLI is an intelligent security testing tool that leverages AI to automate penetration testing, vulnerability assessment, and security auditing._
 * [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - _AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool_
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
+* [nano-analyzer](https://github.com/weareaisle/nano-analyzer) - _A minimal LLM-powered zero-day vulnerability scanner by AISLE._
 
 ## Benchmarks & Evaluations
 
