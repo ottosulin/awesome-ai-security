@@ -288,6 +288,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [DeBERTa Prompt Injection Detector v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) - _Protect AI's DeBERTa-v3-base fine-tuned for prompt injection detection, widely used in production LLM guardrail pipelines._
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
 
+### Domain-Adapted Security Language Models
+
+* [ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT) - _Sentence-transformer model for mapping security text to MITRE ATT&CK techniques._
+
 ## Datasets
 
 * [SafetyPrompts](https://safetyprompts.com/) - _Curated collection of safety-relevant prompts for evaluating LLM safety and security properties._
