@@ -275,6 +275,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - _734+ structured cybersecurity skills for AI agents. MITRE ATT&CK mapped, agentskills.io standard. Compatible with Claude Code, Copilot, Codex CLI, Cursor, and Gemini CLI._
 * [llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - _SAST skill for AI coding agents (Claude Code, Codex, etc.) with structured vulnerability detection across 34 classes. Features source-to-sink taint analysis, Judge verification for false positive reduction, and 99%+ precision/recall on benchmarks._
 * [sast-skills](https://github.com/utkusen/sast-skills) - _Collection of agent skills that turn your AI coder into a SAST scanner_
+* [ZettelForge](https://github.com/rolandpg/zettelforge) - _CTI agentic memory system with entity extraction (CVEs, threat actors, IOCs, MITRE ATT&CK), knowledge graph with alias resolution, STIX 2.1 ontology, intent-classified retrieval, and OCSF audit logging. MCP server for Claude Code. Works offline, no API keys._
 
 ## Security-Focused AI Models
 
