@@ -74,6 +74,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
+* [AI Verify](https://github.com/aiverify-foundation/aiverify) - _Singapore government-backed AI testing framework and toolkit for verifying AI system properties against governance frameworks._
 
 ### Taxonomies, Terminology & Risk Databases
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft) - _Adversarial machine learning taxonomy and terminology_
