@@ -173,6 +173,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - _AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool_
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 * [nano-analyzer](https://github.com/weareaisle/nano-analyzer) - _A minimal LLM-powered zero-day vulnerability scanner by AISLE._
+* [clearwing](https://github.com/Lazarus-AI/clearwing) - _Autonomous vulnerability scanner and source-code hunter built on LangGraph._
 
 ## Benchmarks & Evaluations
 
