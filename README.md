@@ -174,6 +174,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 * [nano-analyzer](https://github.com/weareaisle/nano-analyzer) - _A minimal LLM-powered zero-day vulnerability scanner by AISLE._
 * [clearwing](https://github.com/Lazarus-AI/clearwing) - _Autonomous vulnerability scanner and source-code hunter built on LangGraph._
+* [Zen-AI-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) - _AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting. 72+ security tools, Docker sandbox, ReAct agents, attack path analysis._
 
 ## Benchmarks & Evaluations
 
