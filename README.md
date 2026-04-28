@@ -281,7 +281,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [llm-sast-scanner](https://github.com/SunWeb3Sec/llm-sast-scanner) - _SAST skill for AI coding agents (Claude Code, Codex, etc.) with structured vulnerability detection across 34 classes. Features source-to-sink taint analysis, Judge verification for false positive reduction, and 99%+ precision/recall on benchmarks._
 * [sast-skills](https://github.com/utkusen/sast-skills) - _Collection of agent skills that turn your AI coder into a SAST scanner_
 * [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - _31 Claude Code subagents for offensive security. Specialized AI subagents for recon, web, AD, cloud, mobile, wireless, social engineering, payload crafting, reverse engineering, exploit chaining, detection engineering, forensics, and report generation. Tier 2 agents can execute tools directly with approval gates._
-* [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - _31 Claude Code subagents for offensive security. Specialized AI subagents for recon, web, AD, cloud, mobile, wireless, social engineering, payload crafting, reverse engineering, exploit chaining, detection engineering, forensics, and report generation. Tier 2 agents can execute tools directly with approval gates._
 
 ## Security-Focused AI Models
 
