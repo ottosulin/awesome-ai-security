@@ -206,8 +206,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 
 ### Agent Runtime Security & Sandboxing
-* [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity.
+* [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
 * [OpenSandbox](https://github.com/alibaba/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
+* [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - _Instant, concurrent, secure & lightweight sandbox for AI agents by Tencent Cloud. Sub-60ms cold start, <5MB memory overhead, E2B SDK compatible. Built on RustVMM and KVM with extreme isolation (dedicated kernel + eBPF)._
 * [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents by Antropos. Monitor processes, files, network, and behavior of autonomous AI agents in real time. No telemetry, no cloud, everything stays local._
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 * [agentfield](https://github.com/Agent-Field/agentfield) - _Open-source control plane for agent systems with cryptographic identity, policy enforcement, and audit-friendly observability._
