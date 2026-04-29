@@ -171,6 +171,26 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [burpgpt](https://github.com/aress31/burpgpt) - _A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type._
 * [guardian-cli](https://github.com/zakirkun/guardian-cli) - _AI-Powered Security Testing & Vulnerability Scanner. Guardian CLI is an intelligent security testing tool that leverages AI to automate penetration testing, vulnerability assessment, and security auditing._
 * [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - _AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool_
+* [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - _AI-native security testing platform built in Go. Integrates 100+ security tools with an intelligent orchestration engine, role-based testing with predefined security roles, skills system, and comprehensive lifecycle management. Uses MCP protocol and AI agents for end-to-end automation from conversational commands to vulnerability discovery._
+* [redamon](https://github.com/samugit83/redamon) - _AI-powered agentic red team framework that automates offensive security operations from reconnaissance to exploitation to post-exploitation with zero human intervention._
+* [shannon](https://github.com/KeygraphHQ/shannon) - _Fully autonomous AI pentester for web apps and APIs by Keygraph. White-box security testing that analyzes source code, identifies attack vectors, and executes real exploits. 96.15% success rate (100/104 exploits) on XBOW benchmark._
+
+## Defensive tools and frameworks
+
+### Guides & frameworks
+* [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
+* [OWASP Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+* [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
+* [OWASP GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
+* [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
+* [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
+* [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+* [GSH Framework](https://github.com/sunilgentyala/gsh-framework) - Open-source threat hunting playbooks for agentic AI systems and LLM pipelines, mapped to MITRE ATLAS and NIST CSF 2.0.
+
+### AI for defensive cyber
+* [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
+* [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
+* [claude-grc-plugin](https://github.com/mlunato47/claude-grc-plugin) - _Claude Code plugin that turns Claude into a senior GRC analyst. 72+ reference files covering 15 frameworks (NIST 800-53, FedRAMP, ISO 27001, SOC 2, etc.), 24 slash commands, and deep domain knowledge for federal and commercial compliance work._
 * [HackGPT](https://github.com/NoDataFound/hackGPT) - _A tool using ChatGPT for hacking_
 * [nano-analyzer](https://github.com/weareaisle/nano-analyzer) - _A minimal LLM-powered zero-day vulnerability scanner by AISLE._
 * [clearwing](https://github.com/Lazarus-AI/clearwing) - _Autonomous vulnerability scanner and source-code hunter built on LangGraph._
