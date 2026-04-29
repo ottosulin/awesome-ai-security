@@ -201,6 +201,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode in centrally with ease._
+* * [ContextGuard](https://github.com/sunilgentyala/contextguard) - *Zero-trust middleware for Model Context Protocol (MCP) server security. TypeScript implementation with evaluation results: Precision 100.0%, Recall 96.7%, F1 98.3% at 1.005ms median latency.*
 
 ### LLM Guardrails
 * [Guardrail.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
@@ -229,6 +230,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [pipelock](https://github.com/luckyPipewrench/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
 * [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents by Antropos. Monitor processes, files, network, and behavior of autonomous AI agents in real time. No telemetry, no cloud, everything stays local._
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
+* * [GSH Framework](https://github.com/sunilgentyala/gsh-framework) - *Gentyala-Sovereign Hunt: autonomous agentic AI threat hunting framework with structured detection playbooks (agentic loop, DDI covert channel, ML poisoning), behavioral baselining, and a policy-driven Sovereign Sentinel enforcement engine. Mapped to MITRE ATLAS and NIST CSF 2.0.*
 
 ### Detection & scanners
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
