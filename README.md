@@ -227,6 +227,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [nanoclaw](https://github.com/qwibitai/nanoclaw) - _Lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK. First AI assistant to support Agent Swarms for collaborative agent teams._
 * [secureclaw](https://github.com/adversa-ai/secureclaw) - _Automated security hardening for OpenClaw AI agents by Adversa AI. 51 audit checks, 12 behavioral rules, 9 scripts, 4 pattern databases. Full OWASP ASI Top 10 coverage. Protects against prompt injection, credential theft, supply chain attacks, and privacy leaks._
 * [defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - _Enterprise governance layer for OpenClaw from Cisco AI Defense. Scans skills, MCP servers, and plugins with built-in CodeGuard SAST, tool call inspection engine, LLM guardrail proxy, and SIEM integration. Auto-blocks HIGH/CRITICAL findings._
+* [Mira](https://github.com/vwww-droid/Mira) - _Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation._
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
