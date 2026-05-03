@@ -150,11 +150,13 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ai-best-practices](https://github.com/semgrep/ai-best-practices) - _Semgrep Pro Rules to ensure code using LLMs is following best practices. 58 rules, 102 sub-rules covering 6 providers + MCP + Claude Code & Cursor hooks + LangChain. Detects hardcoded API keys, prompt injection risks, missing safety checks, and unhandled errors across 7 languages._
 * [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - _Open-source multi-model chat interface for red teaming with 50+ models via OpenRouter. Features GODMODE CLASSIC (5 jailbreak combos), ULTRAPLINIAN multi-model evaluation, Parseltongue input perturbation engine with 33 red team techniques, and AutoTune adaptive sampling for AI safety research._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
+* [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - _Python CLI by Repello AI that extracts agentic workflows from LangChain, LangGraph, CrewAI, and AutoGen and runs automated threat modeling against the resulting graphs._
 
 ### Agentic AI & MCP Attack Tools
 * [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
+* [mcp-exploit-demo](https://github.com/Repello-AI/mcp-exploit-demo) - _Reproducible POC by Repello AI demonstrating SSH key exfiltration via MCP tool poisoning ("rug pull" method) against Cursor/Claude Desktop._
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
@@ -236,6 +238,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode centrally with ease._
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
+* [SkillCheck](https://skills.repello.ai/) - _Free hosted scanner by Repello AI that audits MCP skills and AI agent tools for prompt injection, data exfiltration, and other security issues before deployment._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
