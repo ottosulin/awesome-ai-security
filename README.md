@@ -247,6 +247,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### AI-Assisted Defensive Security
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
+* [deepsec](https://github.com/vercel-labs/deepsec) - _Agent-powered vulnerability scanner by Vercel Labs for finding hard-to-spot issues in large codebases using coding agents. Supports parallel scanning, PR diff review, and CI/CD integration._
 * [GhidraGPT](https://github.com/ZeroDaysBroker/GhidraGPT) - _Integrates GPT models into Ghidra for automated code analysis, variable renaming, vulnerability detection, and explanation generation._
 * [IDAssist](https://github.com/symgraph/IDAssist) - _AI-Powered Reverse Engineering Plugin for IDA Pro. Integrates LLM-powered analysis into IDA's interface with semantic knowledge graphs, RAG document search, and support for multiple LLM providers (OpenAI, Anthropic, Ollama, LiteLLM). Analyzes functions, suggests renames, answers questions about code._
 * [ThreatForest](https://github.com/aws-samples/sample-agentic-attack-tree-generator) - _Agentic threat modeling platform built on Strands framework. Autonomously generates attack trees from repositories, maps attack steps to MITRE ATT&CK techniques, and produces actionable mitigation recommendations._
