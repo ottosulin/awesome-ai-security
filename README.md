@@ -134,6 +134,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [llamator](https://github.com/LLAMATOR-Core/llamator) - _Framework for testing vulnerabilities of large language models (LLM)._
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
+* [ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe) - _Lighthouse-style scanner for AI agents. Bundles prompt defense audit (17 vectors), PII detection, SEO/AEO/AAO scanners, and AVS Score. Pure deterministic, zero-config, MIT-licensed._
 * [whistleblower](https://github.com/Repello-AI/whistleblower) - _Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API_
 * [promptmap](https://github.com/utkusen/promptmap) - _a prompt injection scanner for custom LLM applications_
 * [HouYi](https://github.com/LLMSecurity/HouYi) - _The automated prompt injection framework for LLM-integrated applications._
@@ -203,6 +204,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
+* [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit) - _Deterministic LLM prompt defense scanner. Checks system prompts for missing defenses against 17 attack vectors (12 base + 5 agent-specific). Pure regex, zero dependencies, <5ms, 100% reproducible. Backed by empirical research on 1,646 production prompts._
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit provides various security related metrics that can be used to detect attacks_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
