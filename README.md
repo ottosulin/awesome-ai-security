@@ -289,6 +289,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities._
+* [CyberSecQwen-4B](https://huggingface.co/lablab-ai-amd-developer-hackathon/CyberSecQwen-4B) - _4B-parameter CTI specialist fine-tuned from Qwen3-4B-Instruct-2507 for cybersecurity threat intelligence: CVE-to-CWE classification (CTI-RCM) and cyber threat intelligence multiple-choice Q&A (CTI-MCQ). Beats Foundation-Sec-Instruct-8B on CTI-MCQ by +8.7 points at half the parameter count. Trained end-to-end on AMD Instinct MI300X._
 
 ### Safety Classifiers & Prompt Injection Detection
 
