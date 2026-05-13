@@ -185,6 +185,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AIRTBench](https://github.com/dreadnode/AIRTBench-Code) - _Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models_
 * [HackingBuddyGPT benchmark dataset](https://github.com/ipa-lab/hacking-benchmark) - _Benchmark dataset for automated pentesting_
 * [AgentDoG](https://github.com/AI45Lab/AgentDoG) - _AgentDoG is a risk-aware evaluation and guarding framework for autonomous agents. It focuses on trajectory-level risk assessment, aiming to determine whether an agent's execution trajectory contains safety risks under diverse application scenarios._
+* [Agent Trust Bench](https://agent-trust-bench.algovoi.co.uk) - _138 adversarial payment scenarios across 30 threat categories (prompt injection, authority spoofing, MCP tool injection, multi-agent orchestration attacks, financial manipulation, regulatory evasion). Live test harness for AI agents handling autonomous payment flows -- fake-signing wallet, no real funds. Claude 3.7 Sonnet: 130/138 (94.2%). Open security research._
 
 ## Defense & Security Controls
 
