@@ -201,6 +201,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
+* [AI-Scan-Interceptor](https://github.com/mshirakawa-ssp/ai-scan-interceptor) - _Self-hostable DLP gateway that inspects prompts from enterprise networks to ChatGPT, Claude, and Gemini. Go + Squid + ICAP, mTLS endpoint identity, Docker Compose deployable. AGPL-3.0._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
@@ -311,3 +312,4 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) - _Dataset of prompts that responsible LLMs should not answer, for safety evaluation and red teaming._
 * [JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K) - _Large-scale dataset of 28,000 jailbreak prompts for benchmarking LLM safety._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
+
