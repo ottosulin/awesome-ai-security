@@ -241,6 +241,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 
+* [Viridis MCP](https://github.com/viridis-security/mcp-services-sdk) — _Aristotle-verified attribution-enforcement MCP services for AI agents. Three live tools: /v1/injection/detect (adversarial input → verdict + bits-at-risk per T-IB-02), /v1/canon/scan (source vs. VulnCanon catalog), /v1/maxwell/challenge (adaptive PoW defense, T-IB-09). Free tier with 1,000 detect + 10 scans/mo, no card. 7/7 corpus theorems formally proven in Lean 4 via Aristotle (Harmonic). Open-source SDK + Maxwell's Defense reference implementation._
+
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
