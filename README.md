@@ -276,6 +276,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 ## Agentic AI Security Skills
 
