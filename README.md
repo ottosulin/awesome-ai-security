@@ -152,6 +152,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ai-best-practices](https://github.com/semgrep/ai-best-practices) - _Semgrep Pro Rules to ensure code using LLMs is following best practices. 58 rules, 102 sub-rules covering 6 providers + MCP + Claude Code & Cursor hooks + LangChain. Detects hardcoded API keys, prompt injection risks, missing safety checks, and unhandled errors across 7 languages._
 * [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - _Open-source multi-model chat interface for red teaming with 50+ models via OpenRouter. Features GODMODE CLASSIC (5 jailbreak combos), ULTRAPLINIAN multi-model evaluation, Parseltongue input perturbation engine with 33 red team techniques, and AutoTune adaptive sampling for AI safety research._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
+* [HOL Guard](https://github.com/hashgraph-online/hol-guard) - _Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels._
 
 ### Agentic AI & MCP Attack Tools
 * [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
