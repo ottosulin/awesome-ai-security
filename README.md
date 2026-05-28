@@ -190,6 +190,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Defense & Security Controls
 
+- **[AgentGate](https://github.com/ElamOlame31/agentgate-public)** - Open-source pre-execution authorization PDP for autonomous AI agents. Intercepts every action before execution, 4D trust scoring, 24h kill chain detection (BULK_READ_THEN_EXFIL, SENSITIVITY_RAMP), Merkle-chained audit trail. MIT licensed.
+
+https://www.tryagentgate.com/
+
+
 ### Input/Output Guardrails
 * [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
