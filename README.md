@@ -134,6 +134,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [llamator](https://github.com/LLAMATOR-Core/llamator) - _Framework for testing vulnerabilities of large language models (LLM)._
 * [agentic_security](https://github.com/msoedov/agentic_security/) - _Agentic LLM Vulnerability Scanner / AI red teaming kit_
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) - _Open-source CLI security scanner for agentic workflows._
+* [RAPTOR](https://github.com/gadievron/raptor) - _Autonomous offensive/defensive security research framework built on Claude Code. Chains static analysis (Semgrep, CodeQL), binary analysis, LLM-powered vulnerability validation, exploit generation, and patch writing. Multi-model orchestration with Z3-based feasibility analysis._
 * [whistleblower](https://github.com/Repello-AI/whistleblower) - _Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API_
 * [promptmap](https://github.com/utkusen/promptmap) - _a prompt injection scanner for custom LLM applications_
 * [HouYi](https://github.com/LLMSecurity/HouYi) - _The automated prompt injection framework for LLM-integrated applications._
@@ -154,6 +155,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Agentic AI & MCP Attack Tools
 * [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - _Code snippets to reproduce MCP tool poisoning attacks._
+* [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
 
@@ -206,6 +208,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit provides various security related metrics that can be used to detect attacks_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [ai-evaluation](https://github.com/future-agi/ai-evaluation) - _Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, injection) for LLM applications._
+* [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -238,6 +241,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode centrally with ease._
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
+* [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
+* [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
@@ -255,6 +260,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ThreatForest](https://github.com/aws-samples/sample-agentic-attack-tree-generator) - _Agentic threat modeling platform built on Strands framework. Autonomously generates attack trees from repositories, maps attack steps to MITRE ATT&CK techniques, and produces actionable mitigation recommendations._
 * [claude-grc-plugin](https://github.com/mlunato47/claude-grc-plugin) - _Claude Code plugin that turns Claude into a senior GRC analyst. 72+ reference files covering 15 frameworks (NIST 800-53, FedRAMP, ISO 27001, SOC 2, etc.), 24 slash commands, and deep domain knowledge for federal and commercial compliance work._
 * [Vigil SOC](https://github.com/Vigil-SOC/vigil) - _A comprehensive open-source security operations platform for AI agents, enabling real-time monitoring, threat detection, and incident response for AI-powered environments._
+* [AiSOC](https://github.com/beenuar/AiSOC) - _Open-source, self-hostable AI-powered SOC that ingests security events, correlates them, runs autonomous AI-driven investigations via LangGraph, and surfaces results in a unified console. Features full agent decision audit trail, public eval harness in CI, and 52 first-party connectors. MIT licensed._
 
 ### Privacy & Confidential Computing
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
@@ -289,6 +295,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities._
+* [CyberSecQwen-4B](https://huggingface.co/lablab-ai-amd-developer-hackathon/CyberSecQwen-4B) - _4B-parameter CTI specialist fine-tuned from Qwen3-4B-Instruct-2507 for cybersecurity threat intelligence.
 
 ### Safety Classifiers & Prompt Injection Detection
 
@@ -297,6 +304,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ShieldGemma-2B](https://huggingface.co/google/shieldgemma-2b) - _Google's 2B parameter text safety classifier for detecting harmful content, built on the Gemma architecture._
 * [DeBERTa Prompt Injection Detector v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) - _Protect AI's DeBERTa-v3-base fine-tuned for prompt injection detection, widely used in production LLM guardrail pipelines._
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
+* [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
 
 ### Domain-Adapted Security Language Models
 
