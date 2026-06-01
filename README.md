@@ -159,7 +159,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
-* [microsandbox](https://github.com/zerocore-ai/microsandbox) - _Lightweight microVM sandbox for running untrusted AI-generated code safely with strong isolation guarantees_
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
@@ -233,6 +232,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [nanoclaw](https://github.com/qwibitai/nanoclaw) - _Lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK. First AI assistant to support Agent Swarms for collaborative agent teams._
 * [secureclaw](https://github.com/adversa-ai/secureclaw) - _Automated security hardening for OpenClaw AI agents by Adversa AI. 51 audit checks, 12 behavioral rules, 9 scripts, 4 pattern databases. Full OWASP ASI Top 10 coverage. Protects against prompt injection, credential theft, supply chain attacks, and privacy leaks._
 * [defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - _Enterprise governance layer for OpenClaw from Cisco AI Defense. Scans skills, MCP servers, and plugins with built-in CodeGuard SAST, tool call inspection engine, LLM guardrail proxy, and SIEM integration. Auto-blocks HIGH/CRITICAL findings._
+* [microsandbox](https://github.com/zerocore-ai/microsandbox) - _Lightweight microVM sandbox for running untrusted AI-generated code safely with strong isolation guarantees_
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
