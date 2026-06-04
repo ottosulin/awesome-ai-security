@@ -273,6 +273,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [dstack](https://github.com/Dstack-TEE/dstack) - _Open-source confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy_
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
 * [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence — A threat modeling library to help you build responsible AI_
+* [OpenDP](https://github.com/opendp/opendp) - _Core library for differential privacy algorithms from the OpenDP project — used to build privacy-preserving ML training pipelines_
 
 ### Data & Supply Chain Security
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
