@@ -71,6 +71,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CSA AI Model Risk Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 * [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
 * [CSA AI Controls Matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - _Comprehensive controls matrix for AI systems covering governance, risk, and compliance._
+* [CSA MCP Client Top 10](https://modelcontextprotocol-security.io/top10/client/) - _Top 10 security risks for MCP clients._
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
