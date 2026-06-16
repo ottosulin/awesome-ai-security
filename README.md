@@ -52,6 +52,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
 * [AI GOAT](https://github.com/dhammon/ai-goat) - _Damn Vulnerable LLM application with 10 challenges covering OWASP LLM Top 10 risks. Educational CTF-style lab._
+* [Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/) - _Hands-on AI security certification by Practical DevSecOps covering OWASP LLM Top 10, prompt injection, model attacks, AI supply chain risks, and MITRE ATLAS defenses. 70% lab work, all browser-based. Exam: 5 real challenges over 6 hours + 24-hour report submission. Lifetime certification._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
@@ -100,6 +101,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 * [OWASP GenAI Red Teaming Guide](https://genai.owasp.org/initiatives/#ai-redteaming)
+* [OWASP MCP Top 10](https://www.practical-devsecops.com/owasp-mcp-top-10/) - _Practical DevSecOps guide to the OWASP MCP Top 10 security risks for Model Context Protocol._
 
 ## Attack Techniques & Red Teaming
 
