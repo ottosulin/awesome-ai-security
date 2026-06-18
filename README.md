@@ -163,7 +163,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### AI-Assisted Offensive Security
 * [Continuous CyberBattleSim](https://github.com/terranovafr/C-CyberBattleSim): _A simulation tool for training and evaluating scalable and generalizable reinforcement learning agents for critical attack path discovery in networks_ ([paper](https://ieeexplore.ieee.org/document/11352493))_
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
-* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - _Helping Ethical Hackers use LLMs in 50 Lines of Code or less_
 * [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence ([paper](https://arxiv.org/pdf/2504.06017))_
 * [shannon](https://github.com/KeygraphHQ/shannon) - _Fully autonomous AI pentester for web apps and APIs by Keygraph. White-box security testing that analyzes source code, identifies attack vectors, and executes real exploits. 96.15% success rate (100/104 exploits) on XBOW benchmark._
