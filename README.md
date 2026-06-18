@@ -161,6 +161,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
 
 ### AI-Assisted Offensive Security
+* [Continuous CyberBattleSim](https://github.com/terranovafr/C-CyberBattleSim): _A simulation tool for training and evaluating scalable and generalizable reinforcement learning agents for critical attack path discovery in networks_ ([paper](https://ieeexplore.ieee.org/document/11352493))_
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - _Helping Ethical Hackers use LLMs in 50 Lines of Code or less_
 * [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence ([paper](https://arxiv.org/pdf/2504.06017))_
@@ -299,6 +301,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Security-Focused AI Models
 
+* [CVE-LMTune](https://github.com/terranovafr/CVE-LMTune): _A unified framework for fine-tuning, evaluation, and live inference of language models for automated vulnerability classification based on MITRE taxonomies_ ([paper](https://hal.science/hal-05500820))_
 * [VulnLLM-R-7B](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) - _Specialized reasoning LLM for vulnerability detection. Uses Chain-of-Thought reasoning to analyze data flow, control flow, and security context. Outperforms Claude-3.7-Sonnet and CodeQL on vulnerability detection benchmarks. Only 7B parameters making it efficient and fast._
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities._
 * [CyberSecQwen-4B](https://huggingface.co/lablab-ai-amd-developer-hackathon/CyberSecQwen-4B) - _4B-parameter CTI specialist fine-tuned from Qwen3-4B-Instruct-2507 for cybersecurity threat intelligence.
