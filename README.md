@@ -237,6 +237,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [secureclaw](https://github.com/adversa-ai/secureclaw) - _Automated security hardening for OpenClaw AI agents by Adversa AI. 51 audit checks, 12 behavioral rules, 9 scripts, 4 pattern databases. Full OWASP ASI Top 10 coverage. Protects against prompt injection, credential theft, supply chain attacks, and privacy leaks._
 * [defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - _Enterprise governance layer for OpenClaw from Cisco AI Defense. Scans skills, MCP servers, and plugins with built-in CodeGuard SAST, tool call inspection engine, LLM guardrail proxy, and SIEM integration. Auto-blocks HIGH/CRITICAL findings._
 * [microsandbox](https://github.com/zerocore-ai/microsandbox) - _Lightweight microVM sandbox for running untrusted AI-generated code safely with strong isolation guarantees_
+* [fak (Fused Agent Kernel)](https://github.com/anthony-chaudhary/fak) - _A single Go binary that sits between an AI agent and its tools and adjudicates every tool call before it runs: a default-deny capability gate the model can't talk past, with prompt-injection and tool-poisoning containment via result quarantine. Apache-2.0._
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
@@ -248,6 +249,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
+* [fak (Fused Agent Kernel)](https://github.com/anthony-chaudhary/fak) - _Default-deny adjudication layer for agent / MCP tool calls; contains tool-poisoning by quarantining tool results out of the model's context so an injected instruction can't escalate capability. Apache-2.0._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
