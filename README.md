@@ -239,6 +239,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [microsandbox](https://github.com/zerocore-ai/microsandbox) - _Lightweight microVM sandbox for running untrusted AI-generated code safely with strong isolation guarantees_
 
 ### MCP Security
+* [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - _Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments; returns structured reasons and redacts secrets without scanner network calls._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
