@@ -285,6 +285,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [SkilLock](https://github.com/skills-lock/skil-lock) - _Lockfile + GitHub Action that pins the parsed behavior surface (shell commands, network URLs, file reads/writes) of Claude Code and Codex skills; capability-delta PR review catches drift that hash pinning misses_
 
 ## Agentic AI Security Skills
 
