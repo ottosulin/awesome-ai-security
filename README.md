@@ -62,6 +62,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ## Governance & Risk Management
 
+* [FaultKey CausalLayer](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Open-source MCP server that issues signed, Bitcoin-anchored CausalCertificateV1 receipts attributing AI-incident liability between vendor / deployer / user via a closed-form deterministic scorer. Useful for AI-incident post-mortems, insurance underwriting, and regulator-grade evidence.
 ### Frameworks
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
 * [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
