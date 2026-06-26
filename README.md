@@ -53,6 +53,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
 * [AI GOAT](https://github.com/dhammon/ai-goat) - _Damn Vulnerable LLM application with 10 challenges covering OWASP LLM Top 10 risks. Educational CTF-style lab._
+* [GTK Cyber - AI Red-Teaming](https://gtkcyber.com/courses/ai-red-teaming) - _Hands-on, instructor-led AI red-teaming course: prompt injection, jailbreaks, adversarial ML, robustness and bias evaluation, and building repeatable red-team frameworks. Taught at Black Hat USA and HITB._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
