@@ -214,6 +214,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit provides various security related metrics that can be used to detect attacks_
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
+* [EmbedGuard](https://github.com/neerazz/embedguard) - _Cross-layer detection and provenance attestation for adversarial embedding attacks in RAG systems. Defends against adversarial vectors injected into retrieval corpora to manipulate downstream LLM behavior. Reference implementation of IJCESEN 2026 paper (DOI 10.22399/ijcesen.4869)._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
