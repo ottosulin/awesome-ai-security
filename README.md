@@ -81,7 +81,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Taxonomies, Terminology & Risk Databases
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft) - _Adversarial machine learning taxonomy and terminology_
-* [MITRE ATLAS](https://atlas.mitre.org/)
+* [MITRE ATLAS](https://atlas.mitre.org/) - [ATLAS Knowledge Base Agent](https://github.com/mitre-atlas/atlas-knowledge-base-agent) - _Open-source AI assistant for exploring the ATLAS knowledge base with natural language, MCP server access, and customizable agent workflows._
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [AI Incident Database](https://incidentdatabase.ai/)
