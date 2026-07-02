@@ -214,6 +214,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [rebuff](https://github.com/woop/rebuff) - _Prompt Injection Detector_
 * [langkit](https://github.com/whylabs/langkit) - _LangKit is an open-source text metrics toolkit for monitoring language models. The toolkit provides various security related metrics that can be used to detect attacks_
+* [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit) - _Deterministic LLM prompt defense scanner. 17 attack vectors (incl. agent-specific: encoding-aware injection, function semantic immutability, memory provenance, cross-agent auth, transaction guardrails) plus 12 Unicode smuggling categories (Tag chars, Math alphanumeric, BiDi, variation selectors) and 6 output-scanner rules covering JSON schema injection, modality marker hijack (OCR/Whisper/PDF), tool-call argument injection. Pure regex, <5ms, zero AI cost. MIT._
+* [ultraprobe](https://github.com/ppcvote/ultraprobe) - _Free hosted AI prompt audit. Scan a system prompt against 17 OWASP-LLM-Top-10-aligned attack vectors and get an A-F grade with per-vector evidence. Hosted at ultralab.tw/probe; CLI also published as `ultraprobe` on npm. MIT._
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 
@@ -252,6 +254,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
+* [misp-mcp-server](https://github.com/ppcvote/misp-mcp-server) - _MCP server exposing MISP (Malware Information Sharing Platform) threat-intel as read-only LLM tools, with built-in adversarial seeding defense. Every MISP response is scanned via prompt-defense-audit's `scanOutput()` for prompt injection patterns before reaching the LLM — important because MISP attributes can be poisoned by federated feed contributors. 8 read-only tools (events, attributes, search, tags, feeds, galaxies). MIT._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
