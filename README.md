@@ -2,6 +2,8 @@
 
 A curated list of awesome AI security related frameworks, standards, learning resources and open source tools.
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 If you want to contribute, create a PR or contact me [@ottosulin](https://mastodon.social/@ottosulin).
 
 ## Table of Contents
