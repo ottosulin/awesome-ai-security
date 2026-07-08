@@ -225,9 +225,11 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents by Antropos. Monitor processes, files, network, and behavior of autonomous AI agents in real time. No telemetry, no cloud, everything stays local._
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 * [agentfield](https://github.com/Agent-Field/agentfield) - _Open-source control plane for agent systems with cryptographic identity, policy enforcement, and audit-friendly observability._
+* [agentguard](https://github.com/alvabillwu/agentguard) - _Shell-command safety gate for AI agents. Analyzes shell commands and returns block/review/pass verdicts with detailed risk explanations._
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
 * [pipelock](https://github.com/luckyPipewrench/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
+* [skill-audit](https://github.com/alvabillwu/skill-audit) - _Security audit CLI for AI agent Skills with 12 rules across 4 categories. Detects prompt injection, data exfiltration, and malicious code patterns._
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
 * [SkillSpector](https://github.com/NVIDIA/SkillSpector) - _Security scanner for AI agent skills. Detects 64 vulnerability patterns across 16 categories with static analysis + optional LLM semantic evaluation. Multi-format output (JSON, Markdown, SARIF)._
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
@@ -248,9 +250,12 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
+* [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) - _MCP spec conformance tester with 14 checks across 4 categories. Validates MCP server implementations against the protocol specification._
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
+* [mcp-guard](https://github.com/alvabillwu/mcp-guard) - _Security scanner for MCP tools with 10 built-in rules, risk scoring (safe/caution/dangerous verdicts), and comprehensive MCP tool analysis._
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode centrally with ease._
+* [mcp-probe](https://github.com/alvabillwu/mcp-probe) - _CLI tool to probe and inspect any MCP server. Lists tools, resources, and prompts with zero dependencies._
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
@@ -288,6 +293,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OpenDP](https://github.com/opendp/opendp) - _Core library for differential privacy algorithms from the OpenDP project — used to build privacy-preserving ML training pipelines_
 
 ### Data & Supply Chain Security
+* [ai-supply-guard](https://github.com/alvabillwu/ai-supply-guard) - _Audit npm dependencies for AI-specific supply-chain attacks. Scans for packages that could be used in prompt injection, data poisoning, or model extraction attacks._
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
