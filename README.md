@@ -272,6 +272,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Data & Supply Chain Security
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
+* [GLaaS](https://glaas.ai) - _Collects AI/ML workflow provenance using the open-source [roar CLI](https://github.com/treqs/roar) and automatically generates CycloneDX AI-BOMs from captured lineage, artifacts, and execution metadata._
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 
