@@ -171,6 +171,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [clearwing](https://github.com/Lazarus-AI/clearwing) - _Autonomous vulnerability scanner and source-code hunter built on LangGraph._
 * [Zen-AI-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) - _AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting. 72+ security tools, Docker sandbox, ReAct agents, attack path analysis._
 * [OpenHack](https://github.com/openhackai/OpenHack) - _AI-powered multi-agent scanner that autonomously finds SQLi, XSS, IDOR, and auth bypass in your codebase, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost._
+* [PentAGI](https://github.com/vxcontrol/pentagi) - _Fully autonomous multi-agent system for complex penetration testing tasks. Sandboxed Docker execution, multi-provider LLM support (OpenAI, Anthropic, Gemini, Ollama, DeepSeek), knowledge graph integration, and real-time agent supervision._
 
 ## Benchmarks & Evaluations
 
