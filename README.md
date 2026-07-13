@@ -261,6 +261,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-grc-plugin](https://github.com/mlunato47/claude-grc-plugin) - _Claude Code plugin that turns Claude into a senior GRC analyst. 72+ reference files covering 15 frameworks (NIST 800-53, FedRAMP, ISO 27001, SOC 2, etc.), 24 slash commands, and deep domain knowledge for federal and commercial compliance work._
 * [Vigil SOC](https://github.com/Vigil-SOC/vigil) - _A comprehensive open-source security operations platform for AI agents, enabling real-time monitoring, threat detection, and incident response for AI-powered environments._
 * [AiSOC](https://github.com/beenuar/AiSOC) - _Open-source, self-hostable AI-powered SOC that ingests security events, correlates them, runs autonomous AI-driven investigations via LangGraph, and surfaces results in a unified console. Features full agent decision audit trail, public eval harness in CI, and 52 first-party connectors. MIT licensed._
+* [Aribot](https://github.com/aristiun/aribot-mcp) - _Remote MCP security agent: STRIDE/LINDDUN threat modeling mapped to NIST/ISO 27001/SOC 2 with traceability from each threat to its control and fix, plus code, CI/CD, cloud, shadow-AI and API scanning, compliance coverage, and remediation applied on approval. Streamable HTTP, OAuth 2.1._
 
 ### Privacy & Confidential Computing
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
