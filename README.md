@@ -136,6 +136,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
 * [llm-attacks](https://github.com/llm-attacks/llm-attacks) - _Universal and Transferable Attacks on Aligned Language Models_
 * [llm-security](https://github.com/greshake/llm-security) - _New ways of breaking app-integrated LLMs_
+* [AI Red Team](https://github.com/veriyoung/ai-redteam) - _AI security automation red teaming CLI tool. 30+ built-in OWASP LLM Top 10 probes, 9 mutation operators, 3 judge modes (keyword/LLM-as-Judge/ensemble), CI/CD native integration. Chinese-specific attack templates (Classical Chinese, homophones, dialect variants)._
 * [Plexiglass](https://github.com/safellama/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
 * [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
 * [Giskard](https://github.com/Giskard-AI/giskard) - _Open-Source Evaluation & Testing for AI & LLM systems_
