@@ -312,6 +312,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### Domain-Adapted Security Language Models
 
 * [ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT) - _Sentence-transformer model for mapping security text to MITRE ATT&CK techniques._
+* [CySecBERT](https://huggingface.co/markusbayer/CySecBERT) - _BERT model adapted for cybersecurity and CTI tasks through domain-specific pre-training._
 
 ## Datasets
 
