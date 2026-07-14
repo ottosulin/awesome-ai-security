@@ -20,6 +20,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
   - [LLM & GenAI Red Teaming](#llm--genai-red-teaming)
   - [Agentic AI & MCP Attack Tools](#agentic-ai--mcp-attack-tools)
   - [AI-Assisted Offensive Security](#ai-assisted-offensive-security)
+  - [Steganography & Covert Channels](#steganography--covert-channels)
 - [Benchmarks & Evaluations](#benchmarks--evaluations)
 - [Defense & Security Controls](#defense--security-controls)
   - [Input/Output Guardrails](#inputoutput-guardrails)
@@ -142,6 +143,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [blackice](https://github.com/databricks/containers/tree/master/ubuntu/blackice) - _BlackIce is an open-source containerized toolkit designed for red teaming AI models, including Large Language Models (LLMs) and classical machine learning (ML) models. Inspired by the convenience and standardization of Kali Linux in traditional penetration testing, BlackIce simplifies AI security assessments by providing a reproducible container image preconfigured with specialized evaluation tools._
 * [ai-best-practices](https://github.com/semgrep/ai-best-practices) - _Semgrep Pro Rules to ensure code using LLMs is following best practices. 58 rules, 102 sub-rules covering 6 providers + MCP + Claude Code & Cursor hooks + LangChain. Detects hardcoded API keys, prompt injection risks, missing safety checks, and unhandled errors across 7 languages._
 * [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - _Open-source multi-model chat interface for red teaming with 50+ models via OpenRouter. Features GODMODE CLASSIC (5 jailbreak combos), ULTRAPLINIAN multi-model evaluation, Parseltongue input perturbation engine with 33 red team techniques, and AutoTune adaptive sampling for AI safety research._
+* [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - _Collection of jailbreak and liberation prompts for major LLMs. Curated library of adversarial prompts designed to test and evaluate AI safety guardrails across ChatGPT, Claude, Gemini, and other frontier models._
+* [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - _Abliteration toolkit that removes refusal behaviors from open-source LLMs without retraining. Modifies model weights to eliminate safety-aligned refusal responses, enabling unrestricted model behavior research._
+* [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - _Autonomous red teaming platform and multi-agent offensive-security meta-harness. Coordinates swarms of AI agents for coordinated adversarial testing of frontier AI systems._
+* [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - _Universal text transformation and promptcrafting toolkit. Supports translation, mutation, encoding/decoding, and adversarial prompt engineering for jailbreak payload construction._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 
@@ -173,6 +178,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Violin](https://github.com/Strategic-Automation/violin) - _Supervised, agentic Hermes Agent pentest profile: 31 skill-based playbooks (OWASP Top 10, API Top 10, LLM Top 10) with interactive scoping, scope validation, and approval gates for authorised recon, exploit validation, and reporting._
 * [OpenHack](https://github.com/openhackai/OpenHack) - _AI-powered multi-agent scanner that autonomously finds SQLi, XSS, IDOR, and auth bypass in your codebase, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost._
 * [PentAGI](https://github.com/vxcontrol/pentagi) - _Fully autonomous multi-agent system for complex penetration testing tasks. Sandboxed Docker execution, multi-provider LLM support (OpenAI, Anthropic, Gemini, Ollama, DeepSeek), knowledge graph integration, and real-time agent supervision._
+* [V3SP3R](https://github.com/elder-plinius/V3SP3R) - _AI-powered hardware hacking companion for the Flipper Zero. Natural language interface for controlling hardware attacks, with smart glasses integration for hands-free operation._
+
+### Steganography & Covert Channels
+* [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
 
 ## Benchmarks & Evaluations
 
@@ -319,4 +328,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [SafetyPrompts](https://safetyprompts.com/) - _Curated collection of safety-relevant prompts for evaluating LLM safety and security properties._
 * [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) - _Dataset of prompts that responsible LLMs should not answer, for safety evaluation and red teaming._
 * [JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K) - _Large-scale dataset of 28,000 jailbreak prompts for benchmarking LLM safety._
+* [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - _Leaked system prompts from ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit, and other major AI tools. Largest known collection of production system prompts for transparency and attack-surface research._
+* [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - _System Prompt Leak Leaderboard — community platform for tracking and ranking system prompt leaks across AI products._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
