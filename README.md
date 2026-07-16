@@ -307,6 +307,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - _Llama-3.1-FoundationAI-SecurityLLM-8B-Reasoning is an open-weight, 8-billion parameter instruction-tuned language model specialized for cybersecurity applications. It extends the Foundation-Sec-8B base model with instruction-following and reasoning capabilities._
 * [CyberSecQwen-4B](https://huggingface.co/lablab-ai-amd-developer-hackathon/CyberSecQwen-4B) - _4B-parameter CTI specialist fine-tuned from Qwen3-4B-Instruct-2507 for cybersecurity threat intelligence.
 * [Meta-SecAlign-8B / Meta-SecAlign-70B](https://github.com/facebookresearch/Meta_SecAlign) - _Security-aligned Llama models fine-tuned to resist prompt injection attacks, maintaining instruction hierarchy even under adversarial inputs_
+* [Lily-Cybersecurity-7B](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF) - _Cybersecurity-tuned 7B chat model optimized for security analysis, vulnerability explanation, and threat intelligence tasks._
 
 ### Safety Classifiers & Prompt Injection Detection
 
