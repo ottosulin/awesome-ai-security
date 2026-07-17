@@ -54,6 +54,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [FinBot Agentic AI Capture The Flag (CTF) Application](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) - _FinBot is an Agentic Security Capture The Flag (CTF) interactive platform that simulates real-world vulnerabilities in agentic AI systems using a simulated Financial Services-focused application._
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
+* * [LLMVault](https://github.com/CyberSunil/LLMVault) - _An open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 through hands-on vulnerable exercises covering prompt injection, RAG attacks, system prompt leakage, tool misuse, and agent security._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
