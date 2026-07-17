@@ -195,6 +195,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
+* [mcp-defense-bench](https://github.com/Gowthaman90/mcp-defense-bench) - _Vendor-neutral benchmark measuring how much of the MCP (Model Context Protocol) attack surface a defensive proxy/gateway/scanner covers (22–24 vectors), crosswalked to NIST AI RMF and the OWASP LLM/Agentic Top 10. Ships test fixtures, tool adapters, a live leaderboard, and a DOI._ [[DOI]](https://doi.org/10.5281/zenodo.21346206)
 
 ## Defense & Security Controls
 
