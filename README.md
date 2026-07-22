@@ -253,6 +253,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
+* [owasp-mcp-scan](https://github.com/CodingSelim/mcp-scan) - _Passive scanner that audits a running MCP server against the OWASP MCP Top 10 and grades it A-F. Read-only static analysis of the advertised tools/prompts/resources (never invokes anything), flagging the lethal trifecta, exposed secrets, command injection, SSRF, path traversal and tool poisoning; outputs console/JSON/SARIF for CI. Also runs as an MCP server itself so an agent can scan a server before adding it. MIT licensed._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
