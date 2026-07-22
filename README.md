@@ -96,6 +96,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP AI Vulnerability Scoring System (AIVSS)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) - _Scoring system for AI-specific vulnerabilities, extending CVSS concepts to AI risk dimensions._
 
 ### Checklists & Practical Guidance
+* [PostgreSQL AI Access Security Kit](https://datamcp.app/resources/postgres-ai-access-security-kit) - _Practical SQL roles, least-privilege grants, denial tests, audit queries, and an emergency revoke path for AI agents and MCP servers accessing PostgreSQL._
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
 * [OWASP AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
 * [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
