@@ -151,6 +151,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - _Universal text transformation and promptcrafting toolkit. Supports translation, mutation, encoding/decoding, and adversarial prompt engineering for jailbreak payload construction._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
+* [Humanbound](https://github.com/humanbound/humanbound)** - Open source adversarial testing engine, SDK, and CLI for AI agents. Runs live-endpoint, multi-turn, and tool-abuse tests against your agent, then converts findings straight into deployable guardrail rules.
+
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
