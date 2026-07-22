@@ -88,6 +88,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
   * [ATLAS Knowledge Base Agent](https://github.com/mitre-atlas/atlas-knowledge-base-agent) - _Open-source AI assistant for exploring the ATLAS knowledge base with natural language, MCP server access, and customizable agent workflows._
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
+* [Deployer AI Risk Register (DARR)](https://www.airiskdeployer.org) - _Open-source AI risks register for organizations that deploy AI systems. Built from the MIT AI Risk Repository, MITRE ATLAS, and crosswalked to ISO/IEC 42001, the EU AI Act, and more._
 * [AI Incident Database](https://incidentdatabase.ai/)
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
