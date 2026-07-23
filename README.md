@@ -92,7 +92,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI Agent Incident Register](https://companyscope.io/register) - A numbered public corpus of AI agent incidents, each analysed for the legal duty engaged, the liability across the chain (deployer / shared / vendor), and the preventative governance. Adds a per-incident legal-liability layer over security-side trackers; CC BY 4.0 machine-readable feed, archived with a Zenodo DOI.
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
-* [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._ts to AI risk dimensions._
+* [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
+* [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+* [OWASP AI Vulnerability Scoring System (AIVSS)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) - _Scoring system for AI-specific vulnerabilities, extending CVSS concepts to AI risk dimensions._
 
 ### Checklists & Practical Guidance
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
