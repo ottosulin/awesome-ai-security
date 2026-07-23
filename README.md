@@ -197,6 +197,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
+* [Agent Trust Bench](https://agent-trust-bench.algovoi.co.uk) - _166 adversarial and benign x402 payment profiles across 40 threat categories (prompt injection, authority manipulation, identity spoofing, amount mismatch, behavioural pressure). Live test harness for AI agents handling autonomous payment flows -- fake-signing wallet, no real funds. Provider-neutral, works with any x402 facilitator, no account required._
 
 ## Defense & Security Controls
 
