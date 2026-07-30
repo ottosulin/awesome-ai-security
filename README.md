@@ -327,6 +327,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT) - _Sentence-transformer model for mapping security text to MITRE ATT&CK techniques._
 * [CySecBERT](https://huggingface.co/markusbayer/CySecBERT) - _BERT model adapted for cybersecurity and CTI tasks through domain-specific pre-training._
+* [VulBERTa](https://github.com/ICL-ml4csec/VulBERTa) - _RoBERTa-based model pre-trained on large C/C++ code corpora and fine-tuned for vulnerability detection. Outperforms prior BERT-based approaches on multiple CVE benchmarks_
 
 ## Datasets
 
