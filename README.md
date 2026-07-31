@@ -211,6 +211,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [DynaGuard](https://github.com/montehoover/DynaGuard) - _A Dynamic Guardrail Model With User-Defined Policies_
 * [AprielGuard](https://huggingface.co/blog/ServiceNow-AI/aprielguard) - _8B parameter safety–security safeguard model_
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
+* [AI-Scan-Interceptor](https://github.com/mshirakawa-ssp/ai-scan-interceptor) - _Self-hostable DLP gateway that inspects prompts from enterprise networks to ChatGPT, Claude, and Gemini. Go + Squid + ICAP, mTLS endpoint identity, Docker Compose deployable. AGPL-3.0._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
@@ -337,3 +338,4 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - _Leaked system prompts from ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit, and other major AI tools. Largest known collection of production system prompts for transparency and attack-surface research._
 * [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - _System Prompt Leak Leaderboard — community platform for tracking and ranking system prompt leaks across AI products._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
+
