@@ -242,6 +242,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [microsandbox](https://github.com/zerocore-ai/microsandbox) - _Lightweight microVM sandbox for running untrusted AI-generated code safely with strong isolation guarantees_
 * [Adrian](https://github.com/secureagentics/Adrian) - _Open-source, AARM-aligned runtime security monitoring and control engine for AI agents by Secure Agentics. Analyses agent activity logs (tool calls, actions, outputs) and reasoning traces to detect malicious, misaligned, or out-of-remit behaviour, with optional in-flight intervention (audit vs block mode). Python (LangChain/LangGraph) and TypeScript SDKs, fully self-hostable offline. Apache-2.0._
 * [HOL Guard](https://github.com/hashgraph-online/hol-guard) - _Local-first security harness that intercepts tool calls in AI coding agents (Codex, Claude Code, Cursor, Gemini, Copilot, Hermes, OpenCode) before files change or network is contacted. Pre-tool hooks, approval center, supply-chain advisory scanning, and optional Guard Cloud sync._
+* [ADR](https://github.com/uber/ADR) - _Open-source observability, security benchmarking, and threat detection for tool-using AI agents, deployed at Uber and published at MLSys 2026._
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
