@@ -153,6 +153,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 
 ### Agentic AI & MCP Attack Tools
+- [NuGuard](https://github.com/NuGuardAI/nuguard) - Open-source CLI generating an AI-SBOM, red-teaming MCP/tool misuse, prompt injection, and data exfiltration in agentic AI apps, with static/runtime behavioral policy validation.
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
