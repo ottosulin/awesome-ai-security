@@ -216,6 +216,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
+* [emem-guard](https://github.com/Vortx-AI/emem/tree/main/crates/emem-guard) - allow/deny verdict server for claims about the physical world; every verdict is ed25519-signed and hash-chained into an offline-auditable log, and one engine answers Anthropic Inference hooks, Claude Code hooks, MCP tools/call, OpenAI-shaped, CloudEvents and OPA-style inputs
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
