@@ -267,6 +267,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### AI-Assisted Defensive Security
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
+* [OpenCodeReview](https://github.com/alibaba/open-code-review) - _AI-powered code review CLI from Alibaba with deterministic pipelines + LLM agent, line-level precision, and built-in security rulesets (NPE, thread-safety, XSS, SQL injection)._
 * [deepsec](https://github.com/vercel-labs/deepsec) - _Agent-powered vulnerability scanner by Vercel Labs for finding hard-to-spot issues in large codebases using coding agents. Supports parallel scanning, PR diff review, and CI/CD integration._
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - _Reference implementation for autonomous vulnerability discovery and remediation using Claude. Includes threat modeling, scanning, triage, and patching skills._
 * [Visa Vulnerability Agentic Harness](https://github.com/visa/visa-vulnerability-agentic-harness) - _Agentic SAST pipeline with 11 stages from detection through LLM-powered remediation and adversarial validation. Outputs SARIF, integrates with Claude Code, Copilot, and Gemini._
