@@ -183,6 +183,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OpenHack](https://github.com/openhackai/OpenHack) - _AI-powered multi-agent scanner that autonomously finds SQLi, XSS, IDOR, and auth bypass in your codebase, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost._
 * [PentAGI](https://github.com/vxcontrol/pentagi) - _Fully autonomous multi-agent system for complex penetration testing tasks. Sandboxed Docker execution, multi-provider LLM support (OpenAI, Anthropic, Gemini, Ollama, DeepSeek), knowledge graph integration, and real-time agent supervision._
 * [V3SP3R](https://github.com/elder-plinius/V3SP3R) - _AI-powered hardware hacking companion for the Flipper Zero. Natural language interface for controlling hardware attacks, with smart glasses integration for hands-free operation._
+* [HunterX](https://github.com/nullc0d30/HunterX) - _AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows_
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
