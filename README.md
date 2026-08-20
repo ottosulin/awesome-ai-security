@@ -45,6 +45,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP: CheatSheet – A Practical Guide for Securely Using Third-Party MCP Servers 1.0](https://genai.owasp.org/resource/cheatsheet-a-practical-guide-for-securely-using-third-party-mcp-servers-1-0/)
 * [OWASP GenAI Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) - _Reference guide mapping GenAI threats to corresponding defensive controls._
 * [NCSC Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - _Practical guidelines co-authored by NCSC (UK) and CISA for secure AI development, covering design, development, deployment, and operation._
+* [CoSAI – Preparing Defenders for a Changing Cybersecurity Landscape](https://github.com/cosai-oasis/ws2-defenders) - _Coalition for Secure AI workstream preparing defenders for AI-era threats._
 
 ### Courses, Labs & CTFs
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
