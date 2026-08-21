@@ -135,6 +135,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [RAPTOR](https://github.com/gadievron/raptor) - _Autonomous offensive/defensive security research framework built on Claude Code. Chains static analysis (Semgrep, CodeQL), binary analysis, LLM-powered vulnerability validation, exploit generation, and patch writing. Multi-model orchestration with Z3-based feasibility analysis._
 * [whistleblower](https://github.com/Repello-AI/whistleblower) - _Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API_
 * [promptmap](https://github.com/utkusen/promptmap) - _a prompt injection scanner for custom LLM applications_
+* [sentinel-scan-cli](https://github.com/Ventrova/sentinel-scan-cli) - _Free MIT-licensed CLI that runs 15 prompt-injection and jailbreak techniques against any OpenAI-compatible LLM endpoint, scores literal-leak and refusal-heuristic results, and works fully offline in --demo mode._
 * [spikee](https://github.com/WithSecureLabs/spikee) - _Simple Prompt Injection Kit for Evaluation and Exploitation_
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure — Test & harden your system prompt_
 * [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
