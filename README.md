@@ -199,6 +199,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
+* [finagent-redteam](https://github.com/nac7/finagent-redteam) - _Red-team benchmark for AI agents in financial workflows: regulatory-control bypass (sanctions evasion, structuring, maker-checker defeat, unauthorized transfers, data exfiltration, confused-deputy payee redirect). Three control postures (none/advisory/enforced) separately measure policy-following uplift and enforcement uplift._
 
 ## Defense & Security Controls
 
