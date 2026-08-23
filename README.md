@@ -251,6 +251,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ADR](https://github.com/uber/ADR) - _Open-source observability, security benchmarking, and threat detection for tool-using AI agents, deployed at Uber and published at MLSys 2026._
 
 ### MCP Security
+- [ccs-lint](https://github.com/DSHCorrectover/ccs-mcp-server/tree/main/tools/ccs-lint) - Zero-dependency CLI linter + [GitHub Action](https://github.com/DSHCorrectover/ccs-lint-action) for detecting unsigned receipt field injection in MCP JSON-RPC responses (10KB, 5 rules)
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
