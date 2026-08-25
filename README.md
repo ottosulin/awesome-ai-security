@@ -153,6 +153,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
+* [cot-redteam-agent](https://github.com/rudrasatani13/cot-redteam-agent) - _CLI and Python API for red-teaming LLM reasoning (visible CoT) and agent actions. Honest scoring (refusal quotes ≠ success), keyless mock provider, llama.cpp/vLLM/OpenRouter/OpenAI/Anthropic, adaptive TUI, CI scan, OWASP LLM Top 10 tags, and a Proof-of-Action simulated agent world._
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
