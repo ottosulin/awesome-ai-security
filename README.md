@@ -218,6 +218,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Safe Zone](https://github.com/thyrisAI/safe-zone) - _Safe Zone is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs._
 * [superagent](https://github.com/superagent-ai/superagent) - _Superagent provides purpose-trained guardrails that make AI-agents secure and compliant._
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
+* [Purfect Shield](https://github.com/purfect-labs/purfect-ai) - _Open-source local proxy that tokenizes sensitive data (PII, secrets, PHI) before it reaches any LLM. Runs on-device with a tamper-evident audit trail. Supports 20+ AI tools including ChatGPT, Claude, Copilot, Cursor, and Codex._
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
