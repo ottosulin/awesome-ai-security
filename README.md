@@ -154,6 +154,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - _Autonomous red teaming platform and multi-agent offensive-security meta-harness. Coordinates swarms of AI agents for coordinated adversarial testing of frontier AI systems._
 * [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - _Universal text transformation and promptcrafting toolkit. Supports translation, mutation, encoding/decoding, and adversarial prompt engineering for jailbreak payload construction._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
+* [LLMSecTest](https://github.com/wehnsdaefflae/llmsectest) - _Runs the OWASP LLM Top 10 (2025) against a running application from inside pytest. You point it at a live HTTP chat endpoint, name the secret and the privileged action the app holds, and it reports what it got out as SARIF. A probe whose reply never arrived is reported inconclusive, so a scan the target never answered cannot pass as clean._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
 
