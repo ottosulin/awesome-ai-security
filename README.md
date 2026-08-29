@@ -223,6 +223,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
 
 ### Agent Runtime Security & Sandboxing
+* [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - _OWASP reference implementation for ASI06 (Memory Poisoning). Runtime defense that screens every read/write to an AI agent's persistent memory through detectors (prompt injection, secret/PII leakage, protected-key tampering, anomalies) and a declarative YAML policy, with structured forensic events and point-in-time snapshot rollback._
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
 * [OpenSandbox](https://github.com/alibaba/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
 * [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - _Instant, concurrent, secure & lightweight sandbox for AI agents by Tencent Cloud. Sub-60ms cold start, <5MB memory overhead, E2B SDK compatible. Built on RustVMM and KVM with extreme isolation (dedicated kernel + eBPF)._
