@@ -201,6 +201,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AgentDoG](https://github.com/AI45Lab/AgentDoG) - _AgentDoG is a risk-aware evaluation and guarding framework for autonomous agents. It focuses on trajectory-level risk assessment, aiming to determine whether an agent's execution trajectory contains safety risks under diverse application scenarios._
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
+* [Awesome Agentic Engineering](https://github.com/lindixu6-hash/awesome-agentic-engineering) - _MIT-licensed agent production-readiness toolkit with eight inert prompt-injection fixtures, machine-readable results, CI gates, and executable LangGraph.js evaluations that retain tool and policy traces._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 
 ## Defense & Security Controls
