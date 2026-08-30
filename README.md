@@ -100,6 +100,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP AI Vulnerability Scoring System (AIVSS)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) - _Scoring system for AI-specific vulnerabilities, extending CVSS concepts to AI risk dimensions._
 
 ### Checklists & Practical Guidance
+* [BrandQuill Small Business AI Policy Template](https://github.com/loebpaul/small-business-ai-policy-template) - _Free editable Word template covering approved tools, confidential data, human review, prohibited uses, incident reporting, and employee acknowledgement._
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
 * [OWASP AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
 * [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
