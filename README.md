@@ -325,6 +325,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Meta-SecAlign-8B / Meta-SecAlign-70B](https://github.com/facebookresearch/Meta_SecAlign) - _Security-aligned Llama models fine-tuned to resist prompt injection attacks, maintaining instruction hierarchy even under adversarial inputs_
 * [Lily-Cybersecurity-7B](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF) - _Cybersecurity-tuned 7B chat model optimized for security analysis, vulnerability explanation, and threat intelligence tasks._
 
+### Cybersecurity-Tuned Text Generation
+
+* [ZySec-7B / SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM) - _7B cybersecurity-specialized chat model trained for security Q&A, threat analysis, and compliance guidance._
+
 ### Safety Classifiers & Prompt Injection Detection
 
 * [Llama-Guard-4-12B](https://huggingface.co/meta-llama/Llama-Guard-4-12B) - _Meta's latest multimodal safety classifier for detecting harmful content in LLM inputs and outputs across text and image modalities._
