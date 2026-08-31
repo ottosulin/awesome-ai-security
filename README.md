@@ -98,6 +98,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
 * [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
 * [OWASP AI Vulnerability Scoring System (AIVSS)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) - _Scoring system for AI-specific vulnerabilities, extending CVSS concepts to AI risk dimensions._
+* [Embodied AI Security Top 10](https://github.com/provael/provael/blob/main/docs/top10.md) - _Versioned community-draft risk list for embodied / VLA robot policies, CC BY-SA 4.0. Explicitly not affiliated with OWASP or MITRE._
 
 ### Checklists & Practical Guidance
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
@@ -156,6 +157,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
+* [Provael](https://github.com/provael/provael) - _Red-teams vision-language-action robot policies in simulation; emits SARIF tagged with Embodied AI Top 10 rule ids, plus OSCAL and a CycloneDX ML-BOM. Ships as a GitHub Action that fails the build on an ASR regression._
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
@@ -202,6 +204,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
+* [Provael](https://github.com/provael/provael) - _Red-team harness for robot vision-language-action (VLA) policies. Runs a policy x suite x attack matrix in simulation and reports an attack-success rate with a 95% Wilson interval and a matched benign-instruction control. Apache-2.0._
 
 ## Defense & Security Controls
 
