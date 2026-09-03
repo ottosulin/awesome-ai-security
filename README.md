@@ -101,7 +101,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Checklists & Practical Guidance
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
-* [OWASP AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
 * [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
 * [OWASP Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 * [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
@@ -243,7 +242,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
 * [OneCLI](https://github.com/onecli/onecli) - _Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently so agents never hold raw keys. AES-256-GCM encryption, per-agent scoping, full audit trail._
-* [OpenSandbox](https://github.com/alibaba/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
 * [openclaw-shield](https://github.com/knostic/openclaw-shield) - _Security plugin for OpenClaw agents - prevents secret leaks, PII exposure, and destructive command execution_
 * [clawsec](https://github.com/prompt-security/clawsec) - _Security scanner and hardening tool for OpenClaw deployments. Provides security assessments, configuration auditing, and vulnerability detection specifically for OpenClaw gateway and agent configurations._
 * [nanoclaw](https://github.com/qwibitai/nanoclaw) - _Lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK. First AI assistant to support Agent Swarms for collaborative agent teams._
@@ -253,7 +251,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Adrian](https://github.com/secureagentics/Adrian) - _Open-source, AARM-aligned runtime security monitoring and control engine for AI agents by Secure Agentics. Analyses agent activity logs (tool calls, actions, outputs) and reasoning traces to detect malicious, misaligned, or out-of-remit behaviour, with optional in-flight intervention (audit vs block mode). Python (LangChain/LangGraph) and TypeScript SDKs, fully self-hostable offline. Apache-2.0._
 * [HOL Guard](https://github.com/hashgraph-online/hol-guard) - _Local-first security harness that intercepts tool calls in AI coding agents (Codex, Claude Code, Cursor, Gemini, Copilot, Hermes, OpenCode) before files change or network is contacted. Pre-tool hooks, approval center, supply-chain advisory scanning, and optional Guard Cloud sync._
 * [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - _Open-source governance layer for AI agents, covering CLI coding agents (Claude Code, Codex, Gemini CLI, Aider, and 40+ more) as well as self-hosted and hosted model endpoints. Runs each task in an isolated git worktree with per-agent credential scoping, PII gating, and a policy engine. No model sits in the coordination loop, so runs replay byte-identically, and an opt-in HMAC-chained audit log with signed per-artifact lineage can be verified offline with `bernstein audit verify`. Apache-2.0._
-* [ADR](https://github.com/uber/ADR) - _Open-source observability, security benchmarking, and threat detection for tool-using AI agents, deployed at Uber and published at MLSys 2026._
 * [Doberman](https://github.com/DobermanCore/Doberman-Core) - _Runtime authorization layer between a coding agent and its tools. A local policy engine gives every tool call an allow/authenticate/block verdict before it executes; blocks carry reason codes, logs redact secrets to HMAC fingerprints, and errors fail closed. Ships an MCP proxy plus Claude Code and Codex adapters. Apache-2.0._
 
 ### MCP Security
