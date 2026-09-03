@@ -210,6 +210,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
 * [llm-guard](https://github.com/protectai/llm-guard) - _LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs)._
 * [Guardrails.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
+* [Bifrost](https://github.com/maximhq/bifrost) - _Go-native AI gateway that centralizes guardrails, rate limits, and fine-grained access controls across LLM and MCP traffic._
 * [TrustGate](https://github.com/NeuralTrust/TrustGate) - _Generative Application Firewall (GAF) to detect, prevent and block attacks against GenAI Applications_
 * [ZenGuard AI](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - _The fastest Trust Layer for AI Agents_
 * [LocalMod](https://github.com/KOKOSde/localmod) - _Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW classification. Runs 100% offline._
