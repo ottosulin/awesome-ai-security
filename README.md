@@ -45,6 +45,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP: CheatSheet – A Practical Guide for Securely Using Third-Party MCP Servers 1.0](https://genai.owasp.org/resource/cheatsheet-a-practical-guide-for-securely-using-third-party-mcp-servers-1-0/)
 * [OWASP GenAI Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) - _Reference guide mapping GenAI threats to corresponding defensive controls._
 * [NCSC Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - _Practical guidelines co-authored by NCSC (UK) and CISA for secure AI development, covering design, development, deployment, and operation._
+* [CoSAI – Preparing Defenders for a Changing Cybersecurity Landscape](https://github.com/cosai-oasis/ws2-defenders) - _Coalition for Secure AI workstream preparing defenders for AI-era threats._
 
 ### Courses, Labs & CTFs
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
@@ -75,12 +76,15 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CSA Maestro AI Threat Modeling Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
 * [CSA AI Controls Matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - _Comprehensive controls matrix for AI systems covering governance, risk, and compliance._
 * [OWASP Agentic AI Top 10](https://github.com/precize/OWASP-Agentic-AI) - _Top 10 for Agentic AI serving as the core for OWASP and CSA red teaming._
+* [OWASP GenAI Crosswalk](https://genai-security-project.github.io/crosswalk/) - _Interactive crosswalk mapping OWASP GenAI risks (LLM Top 10, Agentic Top 10, DSGAI 2026) to 25 industry frameworks with coverage scoring and gap analysis._
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
 * [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
 * [AI Verify](https://github.com/aiverify-foundation/aiverify) - _Singapore government-backed AI testing framework and toolkit for verifying AI system properties against governance frameworks._
+* [Agent Control Standard](https://github.com/GenAI-Security-Project/agent-control-standard) - _Open standard for runtime agent control: declarative hooks, policy enforcement, and observability across AI agent frameworks (OWASP GenAI Security Project)._
+* [AARM](https://aarm.dev) - _Cloud Security Alliance specification defining the system category and capabilities for agentic runtime security._
 
 ### Taxonomies, Terminology & Risk Databases
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft) - _Adversarial machine learning taxonomy and terminology_
@@ -151,6 +155,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - _Universal text transformation and promptcrafting toolkit. Supports translation, mutation, encoding/decoding, and adversarial prompt engineering for jailbreak payload construction._
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
+* [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
@@ -161,6 +166,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - _Helping Ethical Hackers use LLMs in 50 Lines of Code or less_
+* [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) - _Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting._
 * [cai](https://github.com/aliasrobotics/cai) - _Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence ([paper](https://arxiv.org/pdf/2504.06017))_
 * [shannon](https://github.com/KeygraphHQ/shannon) - _Fully autonomous AI pentester for web apps and APIs by Keygraph. White-box security testing that analyzes source code, identifies attack vectors, and executes real exploits. 96.15% success rate (100/104 exploits) on XBOW benchmark._
 * [strix](https://github.com/usestrix/strix) - _Strix are autonomous AI agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proof-of-concepts_
@@ -215,21 +221,25 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
+* [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
 * [OpenSandbox](https://github.com/alibaba/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
 * [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - _Instant, concurrent, secure & lightweight sandbox for AI agents by Tencent Cloud. Sub-60ms cold start, <5MB memory overhead, E2B SDK compatible. Built on RustVMM and KVM with extreme isolation (dedicated kernel + eBPF)._
+* [ADR](https://github.com/uber/ADR) - _Enterprise agentic AI detection and response — observability, security benchmarking (300+ tasks, 133 MCP servers), and dual-agent threat detection. Deployed at Uber. MLSys 2026._
 * [Aegis](https://github.com/antropos17/Aegis) - _Open-source EDR for AI agents by Antropos. Monitor processes, files, network, and behavior of autonomous AI agents in real time. No telemetry, no cloud, everything stays local._
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 * [agentfield](https://github.com/Agent-Field/agentfield) - _Open-source control plane for agent systems with cryptographic identity, policy enforcement, and audit-friendly observability._
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
+* [Agent Safehouse](https://github.com/eugene1g/agent-safehouse) - _macOS sandbox for LLM coding agents using sandbox-exec with composable policy profiles and a deny-first model._
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
 * [pipelock](https://github.com/luckyPipewrench/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - _A security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis for comprehensive threat detection._
 * [SkillSpector](https://github.com/NVIDIA/SkillSpector) - _Security scanner for AI agent skills. Detects 64 vulnerability patterns across 16 categories with static analysis + optional LLM semantic evaluation. Multi-format output (JSON, Markdown, SARIF)._
 * [Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) - _CoSAI Open Source Project for securing AI-assisted development workflows. CodeGuard provides security controls and guardrails for AI coding assistants to prevent vulnerabilities from being introduced during AI-generated code development._
 * [AgentLens](https://github.com/dreadnode/agent-lens) - _Agent observability and replay tooling for AI safety & interpretability research. Harness for running multi-session agent trajectories, capturing them in ATIF format, and tracking file state changes across sessions. Built for studying LLM agent behavior across multi-turn, multi-session, multi-agent interactions._
+* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - _Runtime defense layer for AI agent memory. Screens every memory read/write through detectors (prompt injection, secret/PII leakage, protected-key tampering, anomalies) and a YAML policy (allow/redact/quarantine/block), with SHA-256 integrity baselines, snapshots/rollback, and structured security events. Reference implementation for OWASP ASI06 Memory & Context Poisoning. Apache-2.0._
 * [claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - _Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review._
 * [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - _A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute_
 * [OneCLI](https://github.com/onecli/onecli) - _Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently so agents never hold raw keys. AES-256-GCM encryption, per-agent scoping, full audit trail._
@@ -243,6 +253,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Adrian](https://github.com/secureagentics/Adrian) - _Open-source, AARM-aligned runtime security monitoring and control engine for AI agents by Secure Agentics. Analyses agent activity logs (tool calls, actions, outputs) and reasoning traces to detect malicious, misaligned, or out-of-remit behaviour, with optional in-flight intervention (audit vs block mode). Python (LangChain/LangGraph) and TypeScript SDKs, fully self-hostable offline. Apache-2.0._
 * [HOL Guard](https://github.com/hashgraph-online/hol-guard) - _Local-first security harness that intercepts tool calls in AI coding agents (Codex, Claude Code, Cursor, Gemini, Copilot, Hermes, OpenCode) before files change or network is contacted. Pre-tool hooks, approval center, supply-chain advisory scanning, and optional Guard Cloud sync._
 * [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - _Open-source governance layer for AI agents, covering CLI coding agents (Claude Code, Codex, Gemini CLI, Aider, and 40+ more) as well as self-hosted and hosted model endpoints. Runs each task in an isolated git worktree with per-agent credential scoping, PII gating, and a policy engine. No model sits in the coordination loop, so runs replay byte-identically, and an opt-in HMAC-chained audit log with signed per-artifact lineage can be verified offline with `bernstein audit verify`. Apache-2.0._
+* [ADR](https://github.com/uber/ADR) - _Open-source observability, security benchmarking, and threat detection for tool-using AI agents, deployed at Uber and published at MLSys 2026._
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
@@ -265,6 +276,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### AI-Assisted Defensive Security
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
+* [OpenCodeReview](https://github.com/alibaba/open-code-review) - _AI-powered code review CLI from Alibaba with deterministic pipelines + LLM agent, line-level precision, and built-in security rulesets (NPE, thread-safety, XSS, SQL injection)._
 * [deepsec](https://github.com/vercel-labs/deepsec) - _Agent-powered vulnerability scanner by Vercel Labs for finding hard-to-spot issues in large codebases using coding agents. Supports parallel scanning, PR diff review, and CI/CD integration._
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - _Reference implementation for autonomous vulnerability discovery and remediation using Claude. Includes threat modeling, scanning, triage, and patching skills._
 * [Visa Vulnerability Agentic Harness](https://github.com/visa/visa-vulnerability-agentic-harness) - _Agentic SAST pipeline with 11 stages from detection through LLM-powered remediation and adversarial validation. Outputs SARIF, integrates with Claude Code, Copilot, and Gemini._
@@ -304,6 +316,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [sast-skills](https://github.com/utkusen/sast-skills) - _Collection of agent skills that turn your AI coder into a SAST scanner_
 * [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - _31 Claude Code subagents for offensive security. Specialized AI subagents for recon, web, AD, cloud, mobile, wireless, social engineering, payload crafting, reverse engineering, exploit chaining, detection engineering, forensics, and report generation. Tier 2 agents can execute tools directly with approval gates._
 * [Mantis Skills](https://github.com/google/mantis) - _Google's decoupled, sequential, security-focused pipeline of agentic AI skills for autonomously reviewing, deduplicating, validating, reproducing, and patching vulnerabilities across codebases of any scale. Features a multi-stage pipeline (architecture analysis → threat modeling → research → review → reproduction → patching → calibration → reflection), built-in sandboxing, and a continuous learning loop that adapts across iterative runs. Supports RTL hardware, IaC, ML pipelines, and compiled binaries._
+* [USAP](https://github.com/jaskaranhundal/usap-skills) - _80 cybersecurity skills + 13 orchestrator agents with a typed 11-field output contract, an enforced resolvable-evidence gate (no verdict without a resolvable source), connector-agnostic MCP routing to downstream security tools, and human-approval gating for every mutating action. MITRE ATT&CK + NIST CSF 2.0 mapped. Runs in Claude Code, Cursor, Codex, and Gemini._
+* [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - _Cybersecurity skill router for AI coding clients (Claude Code, Codex, Cursor, OpenCode). Routes APK/binary/JS reverse engineering, pentest, malware, CTF, and firmware tasks to the right methodology with 43 routing rules, on-demand toolchain bootstrap, and a 173-case routing benchmark._
 
 ## Security-Focused AI Models
 
@@ -314,11 +328,16 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Meta-SecAlign-8B / Meta-SecAlign-70B](https://github.com/facebookresearch/Meta_SecAlign) - _Security-aligned Llama models fine-tuned to resist prompt injection attacks, maintaining instruction hierarchy even under adversarial inputs_
 * [Lily-Cybersecurity-7B](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF) - _Cybersecurity-tuned 7B chat model optimized for security analysis, vulnerability explanation, and threat intelligence tasks._
 
+### Cybersecurity-Tuned Text Generation
+
+* [ZySec-7B / SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM) - _7B cybersecurity-specialized chat model trained for security Q&A, threat analysis, and compliance guidance._
+
 ### Safety Classifiers & Prompt Injection Detection
 
 * [Llama-Guard-4-12B](https://huggingface.co/meta-llama/Llama-Guard-4-12B) - _Meta's latest multimodal safety classifier for detecting harmful content in LLM inputs and outputs across text and image modalities._
 * [Llama-Prompt-Guard-2-86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M) - _Lightweight 86M parameter model from Meta for detecting prompt injection and jailbreak attempts in production LLM pipelines._
 * [ShieldGemma-2B](https://huggingface.co/google/shieldgemma-2b) - _Google's 2B parameter text safety classifier for detecting harmful content, built on the Gemma architecture._
+* [Shieldstral-1.0-3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B) - _Mistral's 3B-parameter policy-adaptive multimodal safety classifier. Evaluates text, image, or text+image content against a natural-language safety policy as a single yes/no pass, re-targetable to new policies at inference without retraining, multilingual._
 * [DeBERTa Prompt Injection Detector v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) - _Protect AI's DeBERTa-v3-base fine-tuned for prompt injection detection, widely used in production LLM guardrail pipelines._
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
@@ -328,6 +347,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT) - _Sentence-transformer model for mapping security text to MITRE ATT&CK techniques._
 * [CySecBERT](https://huggingface.co/markusbayer/CySecBERT) - _BERT model adapted for cybersecurity and CTI tasks through domain-specific pre-training._
+* [VulBERTa](https://github.com/ICL-ml4csec/VulBERTa) - _RoBERTa-based model pre-trained on large C/C++ code corpora and fine-tuned for vulnerability detection. Outperforms prior BERT-based approaches on multiple CVE benchmarks_
 
 ## Datasets
 
@@ -337,3 +357,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - _Leaked system prompts from ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit, and other major AI tools. Largest known collection of production system prompts for transparency and attack-surface research._
 * [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - _System Prompt Leak Leaderboard — community platform for tracking and ranking system prompt leaks across AI products._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
+* [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
+  
