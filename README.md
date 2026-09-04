@@ -202,6 +202,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
+* [The Recorded Run Protocol](https://mountaintheory.ai/recorded-run-protocol/) - _A four-part test for evaluating AI agent security controls: a published action set, a control condition, per-action outcomes including the misses, and a recording._
 
 ## Defense & Security Controls
 
