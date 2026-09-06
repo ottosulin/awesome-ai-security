@@ -77,6 +77,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CSA AI Controls Matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - _Comprehensive controls matrix for AI systems covering governance, risk, and compliance._
 * [OWASP Agentic AI Top 10](https://github.com/precize/OWASP-Agentic-AI) - _Top 10 for Agentic AI serving as the core for OWASP and CSA red teaming._
 * [OWASP GenAI Crosswalk](https://genai-security-project.github.io/crosswalk/) - _Interactive crosswalk mapping OWASP GenAI risks (LLM Top 10, Agentic Top 10, DSGAI 2026) to 25 industry frameworks with coverage scoring and gap analysis._
+* [NIST SP 800-218A Secure Software Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) - _Extension of SSDF (SP 800-218) with specific practices for GenAI and dual-use foundation model development._
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
