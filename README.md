@@ -260,9 +260,10 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
 * [mcp-guardian](https://github.com/eqtylab/mcp-guardian/) - _MCP Guardian manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity._
 * [MCP Audit VSCode Extension](https://github.com/Agentity-com/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode centrally with ease._
-* [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - _A security scanning tool for MCP servers_
+* [Snyk Agent Scan](https://github.com/snyk/agent-scan) - _Formerly Invariant's mcp-scan; scans MCP servers, tools, prompts and agent skills, Snyk account required_
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
+* [mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan) - _npx scanner for MCP server configs across 17 AI clients: secrets, prompt injection, supply chain, data flow; SARIF output, no account needed_
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
