@@ -301,6 +301,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [skillock](https://github.com/ruslanlap/skillock) - _Security-first package manager for AI agent skills that scans risky instructions before install, blocks secret reads and code execution patterns, and pins refs plus SHA-256 hashes in a lockfile across Claude Code, Codex, Cursor, and Hermes._
 
 ## Agentic AI Security Skills
 
