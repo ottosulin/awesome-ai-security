@@ -94,6 +94,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [AI Incident Database](https://incidentdatabase.ai/)
+* [Permission Protocol AI Agent Incident Tracker](https://permissionprotocol.com/agent-incident-tracker/methodology) - _Public-source reports and controlled demonstrations involving AI agents, with evidence-kind labels, source links, overlap notes, methodology and JSON/CSV exports._
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
