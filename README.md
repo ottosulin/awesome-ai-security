@@ -269,6 +269,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
+* [mcpaudit](https://github.com/catidegla/mcpaudit) - _Scans MCP manifests and agent skills against the OWASP MCP Top 10. Findings are scored from independent signals rather than single keywords, counter-evidence subtracts, and it ships the benign corpus it must not fire on. SARIF output, local, no API key._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
@@ -307,6 +308,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [machinemade](https://github.com/catidegla/machinemade) - _Line level AI authorship recorded in git notes and emitted as an in-toto statement. Carries blob hashes and line digests so a verifier can recompute the claim, and records declarations only, never inferring authorship from the shape of code._
 
 ## Agentic AI Security Skills
 
@@ -323,6 +325,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Mantis Skills](https://github.com/google/mantis) - _Google's decoupled, sequential, security-focused pipeline of agentic AI skills for autonomously reviewing, deduplicating, validating, reproducing, and patching vulnerabilities across codebases of any scale. Features a multi-stage pipeline (architecture analysis → threat modeling → research → review → reproduction → patching → calibration → reflection), built-in sandboxing, and a continuous learning loop that adapts across iterative runs. Supports RTL hardware, IaC, ML pipelines, and compiled binaries._
 * [USAP](https://github.com/jaskaranhundal/usap-skills) - _80 cybersecurity skills + 13 orchestrator agents with a typed 11-field output contract, an enforced resolvable-evidence gate (no verdict without a resolvable source), connector-agnostic MCP routing to downstream security tools, and human-approval gating for every mutating action. MITRE ATT&CK + NIST CSF 2.0 mapped. Runs in Claude Code, Cursor, Codex, and Gemini._
 * [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - _Cybersecurity skill router for AI coding clients (Claude Code, Codex, Cursor, OpenCode). Routes APK/binary/JS reverse engineering, pentest, malware, CTF, and firmware tasks to the right methodology with 43 routing rules, on-demand toolchain bootstrap, and a 173-case routing benchmark._
+* [skillbelt](https://github.com/catidegla/skillbelt) - _Laravel and Next.js security review, secrets auditing including git history, and translation parity, installed into Claude Code, Codex, Cursor, Gemini CLI or Antigravity from one command. Skills are pinned to content digests and refuse to install on a mismatch, and scripts run inside the capabilities they declare._
+* [stacksec](https://github.com/catidegla/stacksec) - _Semgrep rules for Laravel and Next.js plus a Claude Code review skill that covers what a pattern cannot: per-record authorization, guard-clause allowlists, and whole records serialized into client props. Every rule ships the code it must ignore, and REJECTED.md records a rule that fired on correct code and was cut rather than shipped._
 
 ## Security-Focused AI Models
 
