@@ -162,6 +162,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
 * [AIMap](https://github.com/BishopFox/aimap) - _Internet-scale discovery and security testing platform for exposed AI agent infrastructure. Queries Shodan for MCP servers, Ollama instances, vLLM/LiteLLM proxies, and more — then fingerprints, scores risk, and launches protocol-specific attack suites with real-time streaming results._
+* [Humanbound](https://github.com/humanbound/humanbound) - _Open-source CLI that sends LLM-generated adversarial attacks to an agent's HTTP endpoint and scores the results against OWASP LLM Top 10, OWASP Agentic Top 10, NIST, and EU AI Act mappings._
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
