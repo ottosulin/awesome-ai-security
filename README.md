@@ -66,6 +66,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ## Governance & Risk Management
 
 ### Frameworks
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
 * [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
 * [ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management](https://www.iso.org/standard/77304.html)
