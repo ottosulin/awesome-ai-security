@@ -259,6 +259,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Numbat](https://github.com/perplexityai/numbat) - _Endpoint visibility into AI agent activity from Perplexity. Observes desktop, CLI, IDE, and gateway agents via hooks, plugins, OTLP logs, and on-disk session artifacts; normalizes live and at-rest activity into one event model evaluated by a local CEL rule engine. Optional pre-action blocking and forensic reconstruction from session artifacts. Single Go binary, Apache-2.0._
 
 ### MCP Security
+* [Aguara](https://github.com/garagon/aguara) - _Static security scanner for AI agent skills and MCP servers. 173 detection rules across 13 categories, 4 analysis layers, offline, no LLM._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
