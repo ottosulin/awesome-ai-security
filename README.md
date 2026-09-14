@@ -109,6 +109,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 * [OWASP GenAI Red Teaming Guide](https://genai.owasp.org/initiatives/#ai-redteaming)
+* [AI Governance for Startups Without a Compliance Department](https://traztech.ca/blog/ai-governance-framework-for-startups) - Practical AI governance framework for startups building with LLMs.
+* [Securing a RAG Pipeline](https://traztech.ca/blog/securing-rag-pipelines) - Where retrieval-augmented generation pipelines leak data and how to mitigate it.
 
 ## Attack Techniques & Red Teaming
 
