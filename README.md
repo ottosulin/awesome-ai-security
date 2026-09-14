@@ -207,6 +207,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
+* [Council of AI (GSPC)](https://councilof.ai/quickstart) - _Signed, re-checkable AI behaviour measurement cards (including safety and jailbreak axes) graded deterministically on frozen item banks, served over MCP with client-side Ed25519 verification. Measurement, not certification._
 
 ## Defense & Security Controls
 
