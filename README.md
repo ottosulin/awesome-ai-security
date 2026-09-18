@@ -56,6 +56,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - _AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure._
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
 * * [LLMVault](https://github.com/CyberSunil/LLMVault) - _An open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 through hands-on vulnerable exercises covering prompt injection, RAG attacks, system prompt leakage, tool misuse, and agent security._
+* [RansomLeak AI Security Training](https://ransomleak.com/catalogue/ai-security/) - _Free browser-based exercises covering the OWASP LLM Top 10, Agentic AI Top 10, and MCP Top 10, plus deepfake and AI-phishing awareness scenarios._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
