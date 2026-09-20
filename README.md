@@ -272,6 +272,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
+* [agentgate](https://github.com/ciceroyang/agentgate) - _Control plane for the tools agents run: inventories MCP servers and other agent tooling, records which scanners actually ran for each record, and refuses to report clean when a required part is unmeasured. Public evidence index, policy checks, SARIF output, GitHub Action. AGPL-3.0._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
