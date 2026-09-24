@@ -339,6 +339,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ### Cybersecurity-Tuned Text Generation
 
 * [ZySec-7B / SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM) - _7B cybersecurity-specialized chat model trained for security Q&A, threat analysis, and compliance guidance._
+* [SecGPT (Clouditera)](https://github.com/Clouditera/SecGPT) - _Open-source cybersecurity-tuned LLM (1.5B/7B/14B) fine-tuned on Chinese and English security corpora for threat analysis, CTI extraction, and security Q&A_
 
 ### Safety Classifiers & Prompt Injection Detection
 
