@@ -262,6 +262,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Numbat](https://github.com/perplexityai/numbat) - _Endpoint visibility into AI agent activity from Perplexity. Observes desktop, CLI, IDE, and gateway agents via hooks, plugins, OTLP logs, and on-disk session artifacts; normalizes live and at-rest activity into one event model evaluated by a local CEL rule engine. Optional pre-action blocking and forensic reconstruction from session artifacts. Single Go binary, Apache-2.0._
 
 ### MCP Security
+* [MCP Drift Check](https://github.com/tomelias10/mcp-drift-check) - _Zero-execution MCP configuration preflight and GitHub Action that flags mutable npm/npx package references before agents run them; emits Markdown and SARIF for CI without starting discovered MCP servers, downloading their packages, requiring an API token, or uploading configuration data._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
