@@ -216,6 +216,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
 * [llm-guard](https://github.com/protectai/llm-guard) - _LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs)._
+* [Gorget](https://github.com/Perruer/gorget) - _Maintained continuation of LLM Guard (archived in July 2026) with the same API: prompt injection, PII, secrets and toxicity scanners that run on ONNX Runtime without PyTorch._
 * [Guardrails.ai](https://shreyar.github.io/guardrails/) - _Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs)_
 * [TrustGate](https://github.com/NeuralTrust/TrustGate) - _Generative Application Firewall (GAF) to detect, prevent and block attacks against GenAI Applications_
 * [ZenGuard AI](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - _The fastest Trust Layer for AI Agents_
