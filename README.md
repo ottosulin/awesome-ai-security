@@ -359,6 +359,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [CySecBERT](https://huggingface.co/markusbayer/CySecBERT) - _BERT model adapted for cybersecurity and CTI tasks through domain-specific pre-training._
 * [VulBERTa](https://github.com/ICL-ml4csec/VulBERTa) - _RoBERTa-based model pre-trained on large C/C++ code corpora and fine-tuned for vulnerability detection. Outperforms prior BERT-based approaches on multiple CVE benchmarks_
 
+* [Nemotron Content Safety Reasoning 4B](https://huggingface.co/nvidia/Nemotron-Content-Safety-Reasoning-4B) - _NVIDIA's 4B reasoning-based content safety classifier built on Gemma-3-4B. Enforces custom user-defined safety policies with explainable verdicts, plus a low-latency reasoning-off mode._
+* [Llama-3.1-Nemotron Safety Guard 8B v3](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3) - _NVIDIA's multilingual content safety guard model (Llama-3.1-8B base) classifying prompts and responses as safe/unsafe with violated categories from a user-supplied taxonomy. 9 languages supported, 20+ zero-shot._
 ## Datasets
 
 * [SafetyPrompts](https://safetyprompts.com/) - _Curated collection of safety-relevant prompts for evaluating LLM safety and security properties._
