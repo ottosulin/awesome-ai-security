@@ -263,6 +263,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Substrate](https://github.com/agent-substrate/substrate) - _Agent infrastructure runtime from Google that multiplexes stateful agent actors onto shared sandboxed workers (microVM, gVisor) with suspend/resume teleport, full-state snapshots, and kernel-level network isolation. Built on Kubernetes; hosts Google Agent Executor (ax) and kagent workloads. Apache-2.0._
 
 ### MCP Security
+* [MCP Guard](https://github.com/permission-protocol/mcp-guard) - _Open-source MCP proxy that evaluates tool calls against YAML policy before forwarding them, with allow, block, and human-approval actions plus an audit receipt for each decision._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
