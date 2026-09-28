@@ -311,6 +311,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [agent-cve-scanners](https://github.com/Ech333/agent-cve-scanners) - _Offline, dependency-free scanners that flag the code and dependency patterns behind 53 published CVEs in nine agent frameworks (LangChain, LangGraph, LlamaIndex, CrewAI, AutoGPT, Flowise, n8n, Google ADK, Semantic Kernel), plus MCP tool-definition pinning. AGPL-3.0._
 
 ## Agentic AI Security Skills
 
