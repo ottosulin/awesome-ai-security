@@ -79,6 +79,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP GenAI Crosswalk](https://genai-security-project.github.io/crosswalk/) - _Interactive crosswalk mapping OWASP GenAI risks (LLM Top 10, Agentic Top 10, DSGAI 2026) to 25 industry frameworks with coverage scoring and gap analysis._
 * [NIST SP 800-218A Secure Software Development Practices for Generative AI and Dual-Use Foundation Models](https://csrc.nist.gov/pubs/sp/800/218/a/final) - _Extension of SSDF (SP 800-218) with specific practices for GenAI and dual-use foundation model development._
 * [NIST AI 600-1 Generative AI Profile](https://doi.org/10.6028/NIST.AI.600-1) - _Companion profile to NIST AI RMF 1.0 with specific risk actions for generative AI systems including unique risks like hallucination, data poisoning, and privacy._
+* [Model Trust Gate](https://github.com/josephManzambi/model-trust-gate) - _Seven-step, fail-fast gate for deciding whether to adopt an AI model for one specific use, ending in a signed, expiring record; composes NIST AI RMF, ISO/IEC 42001, CSA AICM, OWASP and MITRE ATLAS._
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
