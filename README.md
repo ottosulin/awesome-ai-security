@@ -262,6 +262,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Doberman](https://github.com/DobermanCore/Doberman-Core) - _Runtime authorization layer between a coding agent and its tools. A local policy engine gives every tool call an allow/authenticate/block verdict before it executes; blocks carry reason codes, logs redact secrets to HMAC fingerprints, and errors fail closed. Ships an MCP proxy plus Claude Code and Codex adapters. Apache-2.0._
 * [Numbat](https://github.com/perplexityai/numbat) - _Endpoint visibility into AI agent activity from Perplexity. Observes desktop, CLI, IDE, and gateway agents via hooks, plugins, OTLP logs, and on-disk session artifacts; normalizes live and at-rest activity into one event model evaluated by a local CEL rule engine. Optional pre-action blocking and forensic reconstruction from session artifacts. Single Go binary, Apache-2.0._
 * [Substrate](https://github.com/agent-substrate/substrate) - _Agent infrastructure runtime from Google that multiplexes stateful agent actors onto shared sandboxed workers (microVM, gVisor) with suspend/resume teleport, full-state snapshots, and kernel-level network isolation. Built on Kubernetes; hosts Google Agent Executor (ax) and kagent workloads. Apache-2.0._
+* [agent-guard](https://github.com/yunaremaia/agent-guard) - _Policy-as-code for AI agent permissions. Declare per-tool, per-resource allow rules in YAML with a deny-by-default `default_action`, then enforce the policy on every tool call via a lightweight CLI and library. Ships `check` and `init` commands for testing policies before they reach production. MIT._
 
 ### MCP Security
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
@@ -274,6 +275,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
+* [mcp-guard](https://github.com/yunaremaia/mcp-guard) - _Static security scanner for MCP server definitions. Audits each declared tool, resource and prompt capability for risky ones — destructive or write operations left unauthenticated, overly broad permissions, and explicitly disabled auth — then reports a risk score and emits SARIF 2.1.0 for GitHub code scanning. Supports YAML deny rules and `--fail-on` CI gates._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
@@ -312,6 +314,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [taintrace](https://github.com/yunaremaia/taintrace) - _Typosquat detector aimed at dependencies that AI coding agents install on your behalf. Scans lockfiles (Cargo.lock, package-lock.json, requirements.txt, go.sum, composer.lock) for package names that suspiciously resemble legitimate ones, covering the class of malicious packages that carry no CVE and therefore slip past `npm audit` and `cargo audit`. MIT._
 
 ## Agentic AI Security Skills
 
