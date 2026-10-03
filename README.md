@@ -373,4 +373,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
 * [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
 * [Jailbreak LLMs Dataset](https://github.com/verazuo/jailbreak_llms) - _Dataset of 15,140 ChatGPT prompts from Reddit, Discord, and websites for jailbreak research (CCS 2024)._
+* [WitFoo Precinct6 Cybersecurity](https://huggingface.co/datasets/witfoo/precinct6-cybersecurity) - _Sanitized production SOC dataset (8.4 GB): incident records, IDS/logs from real captures with labeled attack chains, suspicion scores, and provenance graphs for SOC ML and detection research._
   
