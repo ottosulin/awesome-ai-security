@@ -354,6 +354,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
+* [HS-Guard-v10](https://huggingface.co/KrisLiu16/HS-Guard-v10) - _754.5M-parameter streaming safety classifier adapted from Qwen3.5-0.8B-Base. Scores the prompt and every response token during generation, with separate red-line (project-specific policy) and general-safety heads. Code Apache-2.0, weights CC BY-NC 4.0 (noncommercial)._
 
 ### Domain-Adapted Security Language Models
 
