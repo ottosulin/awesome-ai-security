@@ -214,6 +214,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 ## Defense & Security Controls
 
 ### Input/Output Guardrails
+* [isMalicious MCP Server](https://github.com/hexablob/ismalicious-mcp-server) - _MIT TypeScript MCP server exposing prompt-injection and link-reputation checks for untrusted content through `scan_before_use` and `check_url`; calls the hosted isMalicious API with credentials and separate scan quotas (free tier available), returning decisions for the caller to enforce._
 * [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - _NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems._
 * [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) - _LlamaFirewall is a framework designed to detect and mitigate AI centric security risks, supporting multiple layers of inputs and outputs, such as typical LLM chat and more advanced multi-step agentic operations._
 * [llm-guard](https://github.com/protectai/llm-guard) - _LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs)._
