@@ -165,6 +165,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
 * [AIMap](https://github.com/BishopFox/aimap) - _Internet-scale discovery and security testing platform for exposed AI agent infrastructure. Queries Shodan for MCP servers, Ollama instances, vLLM/LiteLLM proxies, and more — then fingerprints, scores risk, and launches protocol-specific attack suites with real-time streaming results._
 * [Humanbound](https://github.com/humanbound/humanbound) - _Open-source CLI that sends LLM-generated adversarial attacks to an agent's HTTP endpoint and scores the results against OWASP LLM Top 10, OWASP Agentic Top 10, NIST, and EU AI Act mappings._
+* [Agentic Chaos](https://github.com/RicoKomenda/agentic-chaos) - _Security chaos engineering for AI agents and LLM apps: injects reproducible faults (tool failures, prompt injection, MCP rug pulls, guardrail outages) and verifies security and resilience invariants still hold._
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
@@ -228,6 +229,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [CodeGate](https://codegate.ai) - _An open-source, privacy-focused project that acts as a layer of security within a developer's Code Generation AI workflow_
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
+* [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
 
 ### Agent Runtime Security & Sandboxing
@@ -309,6 +311,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - _privacy testing library for deep learning systems_
 * [PLOT4ai](https://plot4.ai/) - _Privacy Library Of Threats 4 Artificial Intelligence — A threat modeling library to help you build responsible AI_
 * [OpenDP](https://github.com/opendp/opendp) - _Core library for differential privacy algorithms from the OpenDP project — used to build privacy-preserving ML training pipelines_
+* [Presidio](https://github.com/data-privacy-stack/presidio) - _Context-aware PII detection, redaction, masking, and anonymization framework for text, images, and structured data with customizable NLP and rule-based recognizers_
 
 ### Data & Supply Chain Security
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
@@ -356,6 +359,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Prompt Injection Sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel) - _ModernBERT-large model fine-tuned for prompt injection and jailbreak classification with low false-positive rate._
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
+* [safe-laya](https://huggingface.co/ottosulin/safe-laya) - _421M Apache-2.0 prompt attack classifier (BENIGN/PROMPT_INJECTION/JAILBREAK/HARMFUL_REQUEST) for local, private guardrails. ~30 ms inference, signed checkpoints with CycloneDX AI-BOM, fully reproducible pipeline._
 
 ### Domain-Adapted Security Language Models
 
@@ -364,6 +368,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [VulBERTa](https://github.com/ICL-ml4csec/VulBERTa) - _RoBERTa-based model pre-trained on large C/C++ code corpora and fine-tuned for vulnerability detection. Outperforms prior BERT-based approaches on multiple CVE benchmarks_
 * [Nemotron Content Safety Reasoning 4B](https://huggingface.co/nvidia/Nemotron-Content-Safety-Reasoning-4B) - _NVIDIA's 4B reasoning-based content safety classifier built on Gemma-3-4B. Enforces custom user-defined safety policies with explainable verdicts, plus a low-latency reasoning-off mode._
 * [Llama-3.1-Nemotron Safety Guard 8B v3](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3) - _NVIDIA's multilingual content safety guard model (Llama-3.1-8B base) classifying prompts and responses as safe/unsafe with violated categories from a user-supplied taxonomy. 9 languages supported, 20+ zero-shot._
+* [SecRoBERTa](https://huggingface.co/jackaduma/SecRoBERTa) - _RoBERTa model trained on cybersecurity text for improved performance on security domain tasks._
 
 ## Datasets
 
@@ -375,4 +380,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
 * [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
 * [Jailbreak LLMs Dataset](https://github.com/verazuo/jailbreak_llms) - _Dataset of 15,140 ChatGPT prompts from Reddit, Discord, and websites for jailbreak research (CCS 2024)._
+* [WitFoo Precinct6 Cybersecurity](https://huggingface.co/datasets/witfoo/precinct6-cybersecurity) - _Sanitized production SOC dataset (8.4 GB): incident records, IDS/logs from real captures with labeled attack chains, suspicion scores, and provenance graphs for SOC ML and detection research._
   
