@@ -373,6 +373,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [SafetyPrompts](https://safetyprompts.com/) - _Curated collection of safety-relevant prompts for evaluating LLM safety and security properties._
 * [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) - _Dataset of prompts that responsible LLMs should not answer, for safety evaluation and red teaming._
 * [JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K) - _Large-scale dataset of 28,000 jailbreak prompts for benchmarking LLM safety._
+* [AI Agent Spending Incidents Log](https://github.com/Pink-Agentic-Payments/agent-spending-incidents) - _10 sourced, dated incidents (2024-2026) of AI agents overspending, mispaying, being manipulated into a payment, or leaking payment credentials, each tagged with the control that would have prevented it. CC BY 4.0._
 * [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - _Leaked system prompts from ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit, and other major AI tools. Largest known collection of production system prompts for transparency and attack-surface research._
 * [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - _System Prompt Leak Leaderboard — community platform for tracking and ranking system prompt leaks across AI products._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
