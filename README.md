@@ -194,6 +194,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [V3SP3R](https://github.com/elder-plinius/V3SP3R) - _AI-powered hardware hacking companion for the Flipper Zero. Natural language interface for controlling hardware attacks, with smart glasses integration for hands-free operation._
 
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
+* [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) - _Agent-assisted vulnerability research for Rust with independent review passes, adversarial triage, dynamic verification, and an experimental Android APK analysis profile_
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
