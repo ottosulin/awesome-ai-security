@@ -316,6 +316,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [Sato Preflight](https://github.com/satohubai/preflight-action) - _GitHub Action for agent projects that handle crypto keys: for each dependency and MCP server config a pull request adds, it reports what Sato Hub has on record about key and fund handling (whether the code reads a wallet key, whether a planted test key was seen leaving during a sandboxed run, whether it can move funds on its own), with dates. Describes evidence; it is not a vulnerability scanner or a safety rating._
 
 ## Agentic AI Security Skills
 
