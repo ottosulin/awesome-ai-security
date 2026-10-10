@@ -95,6 +95,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [AI Incident Database](https://incidentdatabase.ai/)
+* [AI Sec Watch](https://aisecwatch.com/) - _Open vulnerability database for AI software: advisories for LLM SDKs, agent frameworks and MCP servers by version, with fixed versions, KEV and EPSS signals._
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
@@ -380,4 +381,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
 * [Jailbreak LLMs Dataset](https://github.com/verazuo/jailbreak_llms) - _Dataset of 15,140 ChatGPT prompts from Reddit, Discord, and websites for jailbreak research (CCS 2024)._
 * [WitFoo Precinct6 Cybersecurity](https://huggingface.co/datasets/witfoo/precinct6-cybersecurity) - _Sanitized production SOC dataset (8.4 GB): incident records, IDS/logs from real captures with labeled attack chains, suspicion scores, and provenance graphs for SOC ML and detection research._
+* [AI Sec Watch Dataset](https://doi.org/10.5281/zenodo.19519469) - _8,260 records on the security of AI software (advisories, research, incidents, policy, news) with 48 fields, CC BY 4.0, versioned on Zenodo with a codebook._
   
