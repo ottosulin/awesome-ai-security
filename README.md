@@ -112,6 +112,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 * [OWASP GenAI Red Teaming Guide](https://genai.owasp.org/initiatives/#ai-redteaming)
 * [CSA Secure LLM Systems: Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices) - _Essential authorization practices for LLM-backed systems._
+* [OWASP Practical Guide for Secure MCP Server Development](https://genai.owasp.org/resource/a-practical-guide-for-secure-mcp-server-development/) - _Actionable guidance for securing MCP servers covering auth, validation, session isolation, and hardened deployment._
 
 ## Attack Techniques & Red Teaming
 
