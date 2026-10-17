@@ -65,7 +65,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [GenAI Security podcast](https://podcasts.apple.com/ph/podcast/the-genai-security-podcast/id1782916580)
 
 ## Governance & Risk Management
-
+- [InGravity](https://github.com/Tchesseludovic17-cloud/ingravity) - Self-hosted approval gate that evaluates AI agent actions against configurable rules and blocks/approves them before execution.
 ### Frameworks
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
 * [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
