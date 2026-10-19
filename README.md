@@ -212,6 +212,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
+* [AgentLeak](https://github.com/Privatris/AgentLeak) - _Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces — 68.8% inter-agent leakage vs 27.2% in final outputs_ [[Paper]](https://arxiv.org/abs/2602.11510)
 
 ## Defense & Security Controls
 
