@@ -57,6 +57,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
 * * [LLMVault](https://github.com/CyberSunil/LLMVault) - _An open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 through hands-on vulnerable exercises covering prompt injection, RAG attacks, system prompt leakage, tool misuse, and agent security._
 * [AIGoat](https://github.com/AISecurityConsortium/AIGoat) - _Open-source AI security playground for LLM red teaming: 17 attack labs covering the full OWASP LLM Top 10, 9 CTF challenges, and 3 progressive defense levels, running locally with Ollama._
+* [Pwned Labs free AI labs](https://pwnedlabs.io/explore) - _Free hands-on prompt injection labs: direct injection and indirect injection leading to Azure access._
 
 ### Podcasts
 * [MLSecOps podcast](https://mlsecops.com/podcast)
