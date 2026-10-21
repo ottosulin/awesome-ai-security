@@ -324,6 +324,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP AIBOM](https://github.com/OWASP/www-project-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+* [CodeDelta](https://codedelta.app) - _AI Bill of Materials and agent scan for source code: finds every place a codebase calls an AI provider, agent or local model, with a CI gate on unapproved providers_
 
 ## Agentic AI Security Skills
 
