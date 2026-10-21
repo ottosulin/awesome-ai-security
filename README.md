@@ -232,6 +232,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
+* [Decision Model Guard](https://github.com/patronus-protect/decision-model-guard) - _Guardrails for decision models (classifiers, Jev-like models, LLM judges) and extraction models: model-agnostic erase-and-check against text in the content that steers the decision, claim and prompt-injection scanners, long-content coverage, conformal abstention and a robustness audit._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
