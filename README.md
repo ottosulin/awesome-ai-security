@@ -212,6 +212,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
+* [CWEval](https://github.com/Co1lin/CWEval) - _Benchmark for evaluating LLM code generation against Common Weakness Enumeration (CWE) security flaws with automated exploit verification_
 
 ## Defense & Security Controls
 
