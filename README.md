@@ -209,6 +209,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
+* [FinProof](https://finproof.ai/agent-siege) - _First adversarial benchmark for AI guardrail systems in BFSI (Banking, Financial Services, Insurance). 11,474 labeled prompts across 13 attack categories including MCP tool poisoning, RAG poisoning, indirect injection, and multi-hop traversal. Mapped to RBI, EU AI Act Art.9, DPDP Act 2023. Public dataset on HuggingFace; live red-team wargame at Agent Siege._ [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7464798) [[dataset]](https://huggingface.co/datasets/Zytra/finproof-bench)
 
 ## Defense & Security Controls
 
