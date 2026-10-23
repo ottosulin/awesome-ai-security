@@ -160,6 +160,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
+* [llm-redteam-evidence](https://github.com/Mihirajmera/llm-redteam-evidence) - _Converts garak and promptfoo red-team results into per-control pass/fail against risk tolerances with confidence bounds, hashed evidence, OSCAL output and a regression gate between model versions. Maps to OWASP LLM Top 10, MITRE ATLAS and NIST AI 600-1._
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
@@ -273,6 +274,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
+* [agent-access-review](https://github.com/Mihirajmera/agent-access-review) - _Access reviews for AI agents and MCP servers: inventories what each agent can read, write, execute and send from MCP configs, flags unowned agents, over-broad scopes, plaintext secrets, dormant access and data exfiltration paths, and outputs a reviewer packet, hashed evidence and OSCAL._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
