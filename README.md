@@ -102,6 +102,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
 * [CSA LLM Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
 * [OWASP AI Vulnerability Scoring System (AIVSS)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) - _Scoring system for AI-specific vulnerabilities, extending CVSS concepts to AI risk dimensions._
+* [AI Agent Incidents](https://github.com/basitalisandhu/ai-agent-incidents) - _Open dataset of publicly documented AI agent and LLM security incidents, coded under a written codebook and mapped to the OWASP LLM and Agentic Top 10 and MITRE ATLAS. JSON, CSV and RSS; data under CC BY 4.0._
 
 ### Checklists & Practical Guidance
 * [OWASP LLM Applications Cybersecurity and Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
