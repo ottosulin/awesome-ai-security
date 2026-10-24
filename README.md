@@ -169,6 +169,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AIMap](https://github.com/BishopFox/aimap) - _Internet-scale discovery and security testing platform for exposed AI agent infrastructure. Queries Shodan for MCP servers, Ollama instances, vLLM/LiteLLM proxies, and more — then fingerprints, scores risk, and launches protocol-specific attack suites with real-time streaming results._
 * [Humanbound](https://github.com/humanbound/humanbound) - _Open-source CLI that sends LLM-generated adversarial attacks to an agent's HTTP endpoint and scores the results against OWASP LLM Top 10, OWASP Agentic Top 10, NIST, and EU AI Act mappings._
 * [Agentic Chaos](https://github.com/RicoKomenda/agentic-chaos) - _Security chaos engineering for AI agents and LLM apps: injects reproducible faults (tool failures, prompt injection, MCP rug pulls, guardrail outages) and verifies security and resilience invariants still hold._
+* [Agent Security Harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - _Apache-2.0 adversarial test harness for AI agents across MCP, A2A, x402/L402, human-in-the-loop and skill supply chain, with verdicts tested against target shapes on which they must be able to fail as well as pass and coverage commit-pinned to OWASP Agentic v1.1 T1–T17._
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
