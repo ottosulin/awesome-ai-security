@@ -58,7 +58,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - _Intentionally vulnerable LLM agent for learning about prompt injection, tool misuse, and agent security_
 * * [LLMVault](https://github.com/CyberSunil/LLMVault) - _An open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 through hands-on vulnerable exercises covering prompt injection, RAG attacks, system prompt leakage, tool misuse, and agent security._
 * [AIGoat](https://github.com/AISecurityConsortium/AIGoat) - _Open-source AI security playground for LLM red teaming: 17 attack labs covering the full OWASP LLM Top 10, 9 CTF challenges, and 3 progressive defense levels, running locally with Ollama._
-* [Pwned Labs free AI labs](https://pwnedlabs.io/explore) - _Free hands-on prompt injection labs: direct injection and indirect injection leading to Azure access._
+* [Pwned Labs prompt injection labs](https://pwnedlabs.io/explore/breach-the-perimeter-via-prompt-injection) - _Free hands-on labs: direct prompt injection leaking secrets from an AI assistant, and [indirect injection](https://pwnedlabs.io/explore/exploit-indirect-prompt-injection-for-azure-access) through retrieved content into Azure access._
 
 ### Podcasts
 * [MLSecOps podcast](https://community.mlsecops.com/public/collections/mlsecops-podcast)
@@ -210,7 +210,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
-* [AgentLeak](https://github.com/Privatris/AgentLeak) - _Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces — 68.8% inter-agent leakage vs 27.2% in final outputs_ [[Paper]](https://arxiv.org/abs/2602.11510)
+* [AgentLeak](https://github.com/Privatris/AgentLeak) - _Privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 communication pathways, 1,000 scenarios and 4,979 traces, finding 68.8% inter-agent leakage vs 27.2% in final outputs._ [[Paper]](https://arxiv.org/abs/2602.11510) [[Toolkit]](https://github.com/yagobski/agentleak)
 
 ## Defense & Security Controls
 
