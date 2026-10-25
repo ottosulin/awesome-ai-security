@@ -322,6 +322,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+* [unicode-smuggling-guard](https://github.com/raulkivi/unicode-smuggling-guard) - _Detects invisible Unicode hidden in code, docs and AI agent files (CLAUDE.md, SKILL.md, MCP tool descriptions): ASCII smuggling via tag characters, variation-selector payloads, Trojan Source bidi and zero-width characters, and decodes the hidden text. GitHub Action, pre-commit hook and CLI; zero dependencies. MIT licensed._
 
 ## Agentic AI Security Skills
 
