@@ -279,6 +279,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
+* [AgentDecoy](https://github.com/KyleClouthier/agentdecoy) - _Decoys for websites and apps that catch hostile AI agents and scanners: fake .env files, AI API keys that log the thief's model and prompt, a fake MCP server and agent check-in notes, with a shared block list across sites. Express, Next.js, Cloudflare Workers, Firebase, PHP. MIT._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
