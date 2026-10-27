@@ -147,6 +147,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - _Make your GenAI Apps Safe & Secure — Test & harden your system prompt_
 * [EasyEdit](https://github.com/zjunlp/EasyEdit) - _Modify an LLM's ground truths_
 * [llm-attacks](https://github.com/llm-attacks/llm-attacks) - _Universal and Transferable Attacks on Aligned Language Models_
+* [RAGProbe](https://github.com/khushi-git-7/ragprobe) - _RAG- and agent-focused injection testing where every success is proven by a planted canary instead of a judge model. Ships a frozen, licensed benchmark, a defence comparison with paired significance tests, a measured false-block rate, and a CI gate. Runs offline, no API key._
 * [llm-security](https://github.com/greshake/llm-security) - _New ways of breaking app-integrated LLMs_
 * [Plexiglass](https://github.com/w4-advisory/plexiglass) - _A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs)._
 * [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - _A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection_
@@ -385,4 +386,5 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
 * [Jailbreak LLMs Dataset](https://github.com/verazuo/jailbreak_llms) - _Dataset of 15,140 ChatGPT prompts from Reddit, Discord, and websites for jailbreak research (CCS 2024)._
 * [WitFoo Precinct6 Cybersecurity](https://huggingface.co/datasets/witfoo/precinct6-cybersecurity) - _Sanitized production SOC dataset (8.4 GB): incident records, IDS/logs from real captures with labeled attack chains, suspicion scores, and provenance graphs for SOC ML and detection research._
+* [RAGProbe Bench v2](https://huggingface.co/datasets/Khushi-7/ragprobe-bench) - _800 items for prompt-injection testing: 138 attacks that score themselves through planted canaries, plus 662 labelled detection probes, in English, German, Spanish and French. Every item tagged with OWASP risk, technique, language, source and licence, with train/dev/test splits and a datasheet._
   
