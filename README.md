@@ -90,6 +90,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI Verify](https://github.com/aiverify-foundation/aiverify) - _Singapore government-backed AI testing framework and toolkit for verifying AI system properties against governance frameworks._
 * [Agent Control Standard](https://github.com/GenAI-Security-Project/agent-control-standard) - _Open standard for runtime agent control: declarative hooks, policy enforcement, and observability across AI agent frameworks (OWASP GenAI Security Project)._
 * [AARM](https://aarm.dev) - _Cloud Security Alliance specification defining the system category and capabilities for agentic runtime security._
+* [Protocol One ACP (Alfa Command Protocol) and AI Index v3.0](https://protocolone.store/pages/ai-index) - Pre-deterministic outcome engine (`src/acp_engine.py`, [GitHub](https://github.com/firstpageseollc-lgtm/protocol-one-ai-index-v3)) and cryptographic verification standards for AI agent tool calls and executive deepfake defense.
 
 ### Taxonomies, Terminology & Risk Databases
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft) - _Adversarial machine learning taxonomy and terminology_
