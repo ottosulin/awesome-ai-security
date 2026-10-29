@@ -22,6 +22,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
   - [AI-Assisted Offensive Security](#ai-assisted-offensive-security)
   - [Steganography & Covert Channels](#steganography--covert-channels)
 - [Benchmarks & Evaluations](#benchmarks--evaluations)
+- [Model Leaderboards](#model-leaderboards)
+  - [Cyber-Specific Rankings](#cyber-specific-rankings)
+  - [Cross-Domain Aggregators](#cross-domain-aggregators)
 - [Defense & Security Controls](#defense--security-controls)
   - [Input/Output Guardrails](#inputoutput-guardrails)
   - [Agent Runtime Security & Sandboxing](#agent-runtime-security--sandboxing)
@@ -211,6 +214,30 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
 * [AgentLeak](https://github.com/Privatris/AgentLeak) - _Privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 communication pathways, 1,000 scenarios and 4,979 traces, finding 68.8% inter-agent leakage vs 27.2% in final outputs._ [[Paper]](https://arxiv.org/abs/2602.11510) [[Toolkit]](https://github.com/yagobski/agentleak)
+
+## Model Leaderboards
+
+Live rankings of how models and agents perform on security work. Unlike the benchmarks above, these publish standings rather than datasets, and several are vendor-run: the harness is part of the score, so read the methodology before quoting a rank.
+
+### Cyber-Specific Rankings
+* [Frontier AI Cybersecurity Observatory](https://www.cybergym.io/) - _Berkeley RDI's open tracker of AI cyber capability across the attack and defence lifecycle; hosts the CyberGym (1,507 instances) and CyberGym-E2E (920 instances) leaderboards and invites community submissions._
+* [DreadIndex](https://dreadnode.io/research/dreadindex/) - _Dreadnode's offensive-security index: 76 public and private tasks across 10 categories (web pentesting, cryptography, reversing, binary exploitation, Active Directory, AI/ML security), scored 0-100 with run cost, refusal rate and cheat flags._
+* [Aikido Arena](https://www.aikido.dev/aikido-arena) - _Aikido runs frontier models inside its production code-audit harness against 32 recently disclosed CVEs, three runs each, and reports pooled recall, precision and cost per vulnerability found._
+* [Wiz Cyber Model Arena](https://www.wiz.io/cyber-model-arena) - _257 real-world challenges across code vulnerabilities, API security, Web CTFs and cloud, scored per model-and-harness pairing (Claude Code, Codex, ADK React, Antigravity) so scaffold effects stay visible._
+* [Artificial Analysis Cyber Index](https://artificialanalysis.ai/evaluations/artificial-analysis-cyber-index) - _Defensive-only composite of CWE-Bench-AA, DeepsecBench-AA and CyberGym-E2E-AA, covering the loop from finding a vulnerability to reproducing and patching it; no exploit development._
+* [Security LLM Leaderboard](https://secllmleaderboard.dev/) - _Per-task security rankings (threat intelligence, malware analysis, detection engineering, vulnerability management) scored on accuracy, cost and reliability, with an open-source evaluation harness._
+* [Cybench](https://cybench.github.io/) - _40 professional-level CTF tasks from four competitions with subtask breakdowns and human first-solve baselines; used by the UK and US AI Safety Institutes in pre-deployment testing._
+* [SecEval](https://xuanwuai.github.io/SecEval/leaderboard.html) - _Cybersecurity knowledge benchmark across nine subdomains (network, vulnerability, memory safety, web, application, cryptography, system, software, pentest) with a public leaderboard._
+* [Vals AI](https://www.vals.ai/benchmarks) - _40 independent domain benchmarks run in-house, cybersecurity alongside legal, finance, tax and healthcare; each board documents its methodology, cost and latency._
+
+### Cross-Domain Aggregators
+* [The Aggregate](https://theaggregate.ai/) - _Fuses 36,000+ public benchmarks into one daily IRT rating, including the Aikido, Wiz, AISI cyber-range and CyberGym boards; every benchmark keeps its own sourced leaderboard page._
+* [PublicAI Index](https://publicai.io/model-index) - _Aggregates 15 leaderboards from 14 publishers across 51 domains including cybersecurity, with published per-board weights, per-figure source links, a JSON API and an MCP server._
+* [BenchLeader](https://www.benchleader.com/) - _244 benchmarks from 43 publishers reconciled once a day into a single index; ranks roughly 330 models on quality, speed and price and runs no evaluations of its own._
+* [BenchLM cybersecurity](https://benchlm.ai/cybersecurity) - _Tracks cyber results across source-backed evaluations and deliberately keeps every row display-only, refusing a blended cyber score because the harnesses are not interchangeable._
+* [Benchmark Atlas](https://atlas.kevinhu.io/) - _IRT-based capability estimates across benchmark leaderboards, including Aikido CVE detection and the Artificial Analysis Cyber Index._
+* [Fireworks Specialized Intelligence Index](https://fireworks.ai/specialized-intelligence-index/security) - _Runs practitioner-owned security benchmarks (dfbench by depthfirst, PWNBench by Novee, CyberGym) under one fixed serving configuration with three runs per task._
+* [Epoch AI Benchmarking Hub](https://epoch.ai/benchmarks) - _95 benchmarks and 418 models plus the Epoch Capabilities Index, mixing internally run evaluations with collected external results under a CC BY licence._
 
 ## Defense & Security Controls
 
