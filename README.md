@@ -193,6 +193,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [V3SP3R](https://github.com/elder-plinius/V3SP3R) - _AI-powered hardware hacking companion for the Flipper Zero. Natural language interface for controlling hardware attacks, with smart glasses integration for hands-free operation._
 
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
+* [Prancer SwarmHack](https://www.prancer.io/technology/swarmhack) - _Multi-agent autonomous penetration testing engine ([prancer.io](https://www.prancer.io)) that discovers web, API, cloud, and AI attack surfaces, executes real exploit chains to prove exploitability with zero false positives, and builds upon the open-source [Prancer Cloud Validation Framework](https://github.com/prancer-io/cloud-validation-framework)._
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
@@ -339,6 +340,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [USAP](https://github.com/jaskaranhundal/usap-skills) - _80 cybersecurity skills + 13 orchestrator agents with a typed 11-field output contract, an enforced resolvable-evidence gate (no verdict without a resolvable source), connector-agnostic MCP routing to downstream security tools, and human-approval gating for every mutating action. MITRE ATT&CK + NIST CSF 2.0 mapped. Runs in Claude Code, Cursor, Codex, and Gemini._
 * [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - _Cybersecurity skill router for AI coding clients (Claude Code, Codex, Cursor, OpenCode). Routes APK/binary/JS reverse engineering, pentest, malware, CTF, and firmware tasks to the right methodology with 43 routing rules, on-demand toolchain bootstrap, and a 173-case routing benchmark._
 * [grcskills](https://github.com/better-isms/grcskills) - _Open Agent Skills library ([grcskills.com](https://grcskills.com/)) of 60 GRC skills for AI agents (Claude Code, Codex, Cursor): gap assessments, statements of applicability, risk registers, audit prep, evidence, vendor reviews, policies, privacy, AI governance (ISO 42001, EU AI Act, NIS 2, SOC 2), and incident/continuity work. Skills draft and prepare; human judgment stays with the practitioner._
+* [Gadriel Code Assurance](https://github.com/Gadriel-ai/gadriel-claude-plugin) - _Local AI code security harness ([gadriel.ai](https://gadriel.ai/code-security)) providing agentic skills, pre-commit hooks, and an MCP server (`@gadriel_ai/cli`) for Claude Code, Cursor, GitHub Copilot, and Codex. Runs 6 local security engines (SAST, secrets, SCA/SBOM, container, IaC/config, and OWASP LLM Top 10 / Agentic AI checks) without sending code off the machine. MIT licensed._
 
 ## Security-Focused AI Models
 
