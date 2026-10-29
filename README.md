@@ -256,6 +256,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
+* [decima-pii](https://huggingface.co/amyrmahdy/decima-pii) - _140M Apache-2.0 PII tagger for Arabic, Persian, Urdu, Turkish and English that runs offline on a CPU or in the browser, to strip personal data before text reaches an LLM._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -394,6 +395,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
 * [safe-laya](https://huggingface.co/ottosulin/safe-laya) - _421M Apache-2.0 prompt attack classifier (BENIGN/PROMPT_INJECTION/JAILBREAK/HARMFUL_REQUEST) for local, private guardrails. ~30 ms inference, signed checkpoints with CycloneDX AI-BOM, fully reproducible pipeline._
+* [decima-guard](https://huggingface.co/amyrmahdy/decima-guard) - _321M Apache-2.0 guard that runs on a CPU; checks prompts, tool results and model output for direct and indirect prompt injection, jailbreaks and harmful text, with training for Arabic and Persian._
 
 ### Domain-Adapted Security Language Models
 
