@@ -296,7 +296,6 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ToolHive](https://github.com/stacklok/toolhive) - _Secure MCP server lifecycle manager — runs MCP servers in isolated containers with permission management, SSE transport, and audit logging_
 * [agent-preship-guard](https://github.com/elaysuu/agent-preship-guard) - _GitHub Action that statically flags risky AI-agent code patterns before merge (8 heuristic rules, e.g. model output passed to shell, model-selected destructive calls with no approval gate). MIT._
 
-
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
 * [secure-mcp-gateway](https://github.com/enkryptai/secure-mcp-gateway) - _This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement._
