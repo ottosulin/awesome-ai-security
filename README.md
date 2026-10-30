@@ -120,7 +120,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
 * [CERT-In CIAD-2026-0049 AI Agent Advisory Guide](https://theagentindex.io/guides/cert-in-ai-agent-advisory/) - _Summary of the CERT-In advisory on AI agents as attack vectors: required controls, expected audit evidence, and how it relates to the 2022 CERT-In Directions and the DPDP Act._
 
-
 ## Attack Techniques & Red Teaming
 
 ### Adversarial ML & Classical Models
