@@ -112,6 +112,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP LLM and Generative AI Security Center of Excellence Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
 * [OWASP Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 * [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions-landscape/)
+* [LLM Threat Coverage Matrix](https://llmthreat.com/coverage-matrix) - _Dataset scoring LLM-security vendors against the OWASP LLM Top 10 and MITRE ATLAS, with a companion [Agentic Top 10 matrix](https://llmthreat.com/agentic-top-10) and a [JSON export](https://llmthreat.com/coverage-matrix.json)._
 * [OWASP GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
 * [OWASP LLM and GenAI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 * [OWASP Securing Agentic AI Applications](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
