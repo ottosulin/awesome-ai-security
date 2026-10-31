@@ -93,7 +93,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AI Verify](https://github.com/aiverify-foundation/aiverify) - _Singapore government-backed AI testing framework and toolkit for verifying AI system properties against governance frameworks._
 * [Agent Control Standard](https://github.com/GenAI-Security-Project/agent-control-standard) - _Open standard for runtime agent control: declarative hooks, policy enforcement, and observability across AI agent frameworks (OWASP GenAI Security Project)._
 * [AARM](https://aarm.dev) - _Cloud Security Alliance specification defining the system category and capabilities for agentic runtime security._
-* [keel-verifier](https://github.com/keelapi/keel-verifier) - _Offline, MIT-licensed verifier for signed AI-agent authorization evidence: checks exported decisions, dispatched requests and provider responses for post-signing tampering without contacting the issuer. Implements the Apache-2.0 [AI Permit specification](https://github.com/keelapi/keel-permit)._
+* [keel-verifier](https://github.com/keelapi/keel-verifier) - _Open-source (MIT) CLI that checks signed AI Permit records (decisions, reviews and closures) offline against Keel's published keys, without contacting the issuer. Implements the Apache-2.0 [AI Permit specification](https://github.com/keelapi/keel-permit)._
 
 ### Taxonomies, Terminology & Risk Databases
 * [NIST AI 100-2e2023](https://csrc.nist.gov/publications/detail/white-paper/2023/03/08/adversarial-machine-learning-taxonomy-and-terminology/draft) - _Adversarial machine learning taxonomy and terminology_
