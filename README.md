@@ -336,6 +336,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Buttercup](https://github.com/trailofbits/buttercup) - _Trail of Bits' Cyber Reasoning System (CRS) built for DARPA's AI Cyber Challenge — AI-assisted fuzzing (oss-fuzz based) to discover vulnerabilities in C and Java repositories, then a multi-agent LLM patcher that analyzes and repairs them automatically._
 * [Opik](https://github.com/comet-ml/opik) - _Open-source platform for debugging, evaluating, and monitoring LLM applications, RAG systems, and agentic workflows with security tracing._
 * [ai-dfir-toolkit](https://github.com/depalmar/ai-dfir-toolkit) - _Vendor-neutral Sigma/YARA/Suricata detection pack for AI/ML attacks: 161 signatures across prompt injection, MCP abuse, model supply chain, RAG/vector DB, and agent memory forensics, with ATLAS/OWASP mappings, forensic artifact catalog, and investigation guide. Apache-2.0._
+* [Project Quarry](https://github.com/cisco-ai-defense/project-quarry) - _Detection DSL and engine from Cisco AI Defense for scanning agent conversations: rules over messages, tool calls, tool results and event order compiled to finite-state automata, with optional model scoring, witness evidence and explain output. Alpha, Apache-2.0._
 
 ### Privacy & Confidential Computing
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
