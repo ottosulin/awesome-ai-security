@@ -256,6 +256,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
+* [Cognipeer Console](https://github.com/Cognipeer/console) - _Self-hosted AI gateway and control plane with guardrails (PII detection, content moderation, prompt shields, custom LLM-based evaluators) on model inputs and outputs, MCP server hosting with per-tool controls, and OWASP LLM Top 10 red-teaming probes (AGPL-3.0 community edition)._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
