@@ -355,6 +355,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
+* [agent-bom](https://github.com/koda-ai-studio/agent-bom) - _AI supply-chain BOM: agents, MCP servers and AI packages, and which agent can reach each vulnerable package or credential_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
 
 ## Agentic AI Security Skills
