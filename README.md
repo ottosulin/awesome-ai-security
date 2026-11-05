@@ -173,6 +173,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AIMap](https://github.com/BishopFox/aimap) - _Internet-scale discovery and security testing platform for exposed AI agent infrastructure. Queries Shodan for MCP servers, Ollama instances, vLLM/LiteLLM proxies, and more — then fingerprints, scores risk, and launches protocol-specific attack suites with real-time streaming results._
 * [Humanbound](https://github.com/humanbound/humanbound) - _Open-source CLI that sends LLM-generated adversarial attacks to an agent's HTTP endpoint and scores the results against OWASP LLM Top 10, OWASP Agentic Top 10, NIST, and EU AI Act mappings._
 * [Agentic Chaos](https://github.com/RicoKomenda/agentic-chaos) - _Security chaos engineering for AI agents and LLM apps: injects reproducible faults (tool failures, prompt injection, MCP rug pulls, guardrail outages) and verifies security and resilience invariants still hold._
+* [quillback](https://github.com/saadcyber21/quillback) - _Offline, deterministic red-team harness for AI agent scaffold source (system prompts, tool schemas, permission gates, memory). 18 pattern attacks mapped to OWASP ASI 2026 categories with SARIF export; no API keys or live models required. Early stage; covers 6/10 ASI categories. MIT._
 
 ### AI-Assisted Offensive Security
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - _A GPT-empowered penetration testing tool_
@@ -318,6 +319,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [medusa](https://github.com/Pantheon-Security/medusa) - _AI-first security scanner with 74+ analyzers, 180+ AI agent security rules, intelligent false positive reduction. Supports all languages. CVE detection for React2Shell, mcp-remote RCE._
 * [julius](https://github.com/praetorian-inc/julius) - _LLM service fingerprinting tool for security professionals. Detects 32+ AI services (Ollama, vLLM, LiteLLM, Hugging Face TGI, etc.) during penetration tests and attack surface discovery. Uses HTTP-based service fingerprinting to identify server infrastructure._
 * [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
+* [secret-sweep](https://github.com/saadcyber21/secret-sweep) - _Dependency-free, single-file Python credential scanner (regex rules + calibrated entropy) for working-tree content, publishing measured rates instead of adjectives: 23 false positives over 304k lines of CPython 3.11 stdlib, 99.5% recall on planted key leaks. Does not scan Git history. MIT._
 
 ### AI-Assisted Defensive Security
 * [Claude Code Security Review](https://github.com/anthropics/claude-code-security-review) - _An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities._
