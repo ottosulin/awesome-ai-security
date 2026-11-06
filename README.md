@@ -198,6 +198,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
 
+* [pwner](https://github.com/0x45dd/pwner) - _Agentic network penetration testing CLI that runs on a local model. Drives nmap, nuclei, impacket, netexec and kerbrute as LLM tools over any OpenAI-compatible endpoint (Ollama, Lemonade, llama.cpp), with every tool call checked against the operator's authorized target and an approval gate on intrusive actions._
+
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
 
