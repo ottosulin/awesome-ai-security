@@ -298,6 +298,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ToolHive](https://github.com/stacklok/toolhive) - _Secure MCP server lifecycle manager — runs MCP servers in isolated containers with permission management, SSE transport, and audit logging_
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
+* [Actera](https://actera.dev) - _Hosted policy checks and human approval for AI agent actions. Each tool call is allowed, held for an approver, or blocked before it runs, using live context such as prior approvals and spend, and every decision is recorded with the policy behind it. Apache-2.0 plugins for [Claude Code](https://github.com/Actera-AI/actera-claude-code) and [Codex](https://github.com/Actera-AI/actera-codex), plus a TypeScript SDK._
 
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
