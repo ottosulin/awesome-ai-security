@@ -357,6 +357,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+* [skillwall](https://github.com/hamarshehmhmd/skillwall) - _Supply-chain scanner and lockfile for coding-agent skills, plugins, hooks and marketplaces (Claude Code, Codex, Cursor, OpenClaw). Flags `!` dynamic-context commands, `Bash(*)` grants, credential exfiltration, package-index hijack, hidden Unicode and auto-approve hooks, and fails CI when a reviewed skill changes. AGPL-3.0._
 
 ## Agentic AI Security Skills
 
