@@ -52,6 +52,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
 
 ### Courses, Labs & CTFs
+* [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - _Local Python teaching lab for memory poisoning, defense and repair, using synthetic data and a scripted agent._
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
 * [otto-support](https://github.com/BishopFox/otto-support) - _A vulnerable MCP server implementation using mcp-go with tiered authentication (4 roles), 19 tools, and built-in sandboxed container with Claude Code for practicing privilege escalation and tool misuse._
 * [OWASP WrongSecrets LLM exercise](https://www.wrongsecrets.com/challenge/challenge-32)
