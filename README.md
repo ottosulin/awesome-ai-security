@@ -408,6 +408,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron Content Safety Reasoning 4B](https://huggingface.co/nvidia/Nemotron-Content-Safety-Reasoning-4B) - _NVIDIA's 4B reasoning-based content safety classifier built on Gemma-3-4B. Enforces custom user-defined safety policies with explainable verdicts, plus a low-latency reasoning-off mode._
 * [Llama-3.1-Nemotron Safety Guard 8B v3](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3) - _NVIDIA's multilingual content safety guard model (Llama-3.1-8B base) classifying prompts and responses as safe/unsafe with violated categories from a user-supplied taxonomy. 9 languages supported, 20+ zero-shot._
 * [SecRoBERTa](https://huggingface.co/jackaduma/SecRoBERTa) - _RoBERTa model trained on cybersecurity text for improved performance on security domain tasks._
+* [SecBERT](https://huggingface.co/jackaduma/SecBERT) - _BERT model pre-trained on cybersecurity corpora for security-specific NLP tasks._
 
 ## Datasets
 
