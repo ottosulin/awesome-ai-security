@@ -310,6 +310,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
+* [Centurion Cloud Security](https://cloud.trycenturion.com/) - _GitHub App that checks every pull request for leaked secrets, risky GitHub Actions workflows, vulnerable dependencies and AI agent configuration problems (hidden Unicode, credentials in MCP configs, agents running on untrusted triggers)._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
