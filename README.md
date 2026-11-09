@@ -215,6 +215,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [BaxBench](https://github.com/logic-star-ai/baxbench) - _Benchmark for evaluating LLM-generated backend code security — tests whether AI-generated web services contain exploitable vulnerabilities_
 * [auto-pen-bench](https://github.com/lucagioacchini/auto-pen-bench) - _Benchmark for evaluating automated penetration testing agents across network and web application scenarios_
 * [AgentLeak](https://github.com/Privatris/AgentLeak) - _Privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 communication pathways, 1,000 scenarios and 4,979 traces, finding 68.8% inter-agent leakage vs 27.2% in final outputs._ [[Paper]](https://arxiv.org/abs/2602.11510) [[Toolkit]](https://github.com/yagobski/agentleak)
+* [latent-agent-sandbox](https://github.com/runlatentai/latent-agent-sandbox) - _Offline sandbox that recreates the pattern of two publicly reported 2026 agent incidents (an agent using an answer key it was told not to touch, and one spending from a funded key it was not given). Every episode is labeled from the sandbox's own access logs, and a per-step monitor hook can hold a tool call before it runs. Apache-2.0._
 
 ## Model Leaderboards
 
