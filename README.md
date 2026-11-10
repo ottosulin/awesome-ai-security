@@ -298,6 +298,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ToolHive](https://github.com/stacklok/toolhive) - _Secure MCP server lifecycle manager — runs MCP servers in isolated containers with permission management, SSE transport, and audit logging_
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
+* [AI Access Auditor](https://github.com/dirmedmr-alt/ai-access-auditor) - _Desktop app (macOS, Windows, Linux) that inventories what local AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Cursor) are allowed to do: auto-approved tools and commands, MCP servers, folder access, saved logins, secrets left in session logs, startup entries. Revokes any grant with undo, alerts on new access, and can ask before the agent acts via its own hooks. Local only, MIT._
 
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
