@@ -166,6 +166,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [claude-secure-coding-rules](https://github.com/TikiTribe/claude-secure-coding-rules) - _Open-source security rules that guide Claude Code to generate secure code by default._
 * [DeepTeam](https://github.com/confident-ai/deepteam) - _LLM red teaming framework with 40+ attack methods including prompt injection, jailbreaking, and RAG poisoning. Integrates with CI/CD pipelines._
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
+* [llm-redteam-evidence](https://github.com/Mihirajmera/llm-redteam-evidence) - _Converts garak and promptfoo red-team results into per-control pass/fail against risk tolerances with confidence bounds, hashed evidence, OSCAL output and a regression gate between model versions. Maps to OWASP LLM Top 10, MITRE ATLAS and NIST AI 600-1._
 
 ### Agentic AI & MCP Attack Tools
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
@@ -312,6 +313,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
+* [agent-access-review](https://github.com/Mihirajmera/agent-access-review) - _Access reviews for AI agents and MCP servers: inventories what each agent can read, write, execute and send from MCP configs, flags unowned agents, over-broad scopes, plaintext secrets, dormant access and data exfiltration paths, and outputs a reviewer packet, hashed evidence and OSCAL._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
