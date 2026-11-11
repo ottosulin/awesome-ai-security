@@ -389,6 +389,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 ### Cybersecurity-Tuned Text Generation
 
 * [ZySec-7B / SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM) - _7B cybersecurity-specialized chat model trained for security Q&A, threat analysis, and compliance guidance._
+* [Nodecode Cyber v1](https://nodecode.ai/cyber) - _Abliterated model built on DeepSeek for authorized security testing and pentest agents, served as a pay-per-token API that speaks OpenAI chat completions, the OpenAI Responses API and Anthropic Messages, with a 1M-token context, on machines in Europe that keep no prompts._
 
 ### Safety Classifiers & Prompt Injection Detection
 
