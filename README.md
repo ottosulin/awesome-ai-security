@@ -401,6 +401,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
 * [safe-laya](https://huggingface.co/ottosulin/safe-laya) - _421M Apache-2.0 prompt attack classifier (BENIGN/PROMPT_INJECTION/JAILBREAK/HARMFUL_REQUEST) for local, private guardrails. ~30 ms inference, signed checkpoints with CycloneDX AI-BOM, fully reproducible pipeline._
+* [HaloGuard 2.0](https://huggingface.co/collections/astroware/haloguard-20) - _Three open-weight 0.8B guards under Apache 2.0: an English output guard, a 17-language output guard and an input guard. The output guards score every token of a reply as it streams, so the app can stop the stream once harm is confirmed. The English model reaches 83.6 macro F1 on six English response-safety benchmarks; the 17-language model reaches 83.1 F1 on PolyGuardPrompts._ [[Paper]](https://arxiv.org/abs/2611.02134)
 
 ### Domain-Adapted Security Language Models
 
