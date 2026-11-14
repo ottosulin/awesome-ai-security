@@ -258,6 +258,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
 * [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
+* [Astroware page check](https://check.astroware.ai) - _Free hosted check for web pages: looks for hidden text addressed to AI agents and for pages that serve AI crawlers different text from a browser. Agents can call it over MCP or HTTP with no sign-up. "Nothing found" is not a guarantee._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -401,6 +402,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
 * [safe-laya](https://huggingface.co/ottosulin/safe-laya) - _421M Apache-2.0 prompt attack classifier (BENIGN/PROMPT_INJECTION/JAILBREAK/HARMFUL_REQUEST) for local, private guardrails. ~30 ms inference, signed checkpoints with CycloneDX AI-BOM, fully reproducible pipeline._
+* [HaloGuard 2.0](https://huggingface.co/collections/astroware/haloguard-20) - _Three open-weight 0.8B guards under Apache 2.0: an English output guard, a 17-language output guard and an input guard. The output guards score every token of a reply as it streams, so the app can stop the stream once harm is confirmed. The English model reaches 83.6 macro F1 on six English response-safety benchmarks; the 17-language model reaches 83.1 F1 on PolyGuardPrompts._ [[Paper]](https://arxiv.org/abs/2611.02134)
 
 ### Domain-Adapted Security Language Models
 
