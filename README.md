@@ -315,6 +315,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
 * [TrustedMCP Registry Watch](https://trustedmcp.io/registry) - _Checks the official MCP Registry each night against OSV (incl. GitHub advisories) and NVD, and flags packages with a reported vulnerability and whether the version the registry lists is affected._
+* [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) - _Open-source input firewall for AI agents that runs locally. Scans text, files, PDFs, images and QR codes for prompt injection, credential leaks and data exfiltration. Ships as a CLI, Python API, MCP server and Claude Code hook._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
