@@ -262,6 +262,8 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
 
 ### Agent Runtime Security & Sandboxing
+
+* [Kontext](https://github.com/kontext-security/kontext) - _Runtime security platform for AI agents, with agent discovery and access mapping, activity monitoring and risk detection, runtime authorization, and spend management. Includes an MIT-licensed endpoint CLI._
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
 * [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
 * [nono](https://github.com/nolabs-ai/nono) - _Kernel-enforced, zero-trust sandbox for AI agents from the team behind Sigstore. Uses Landlock (Linux) and Seatbelt (macOS) for irreversible capability-based isolation with no daemon or container, plus a credential-injecting network proxy that keeps API keys out of the agent, per-tool sandboxing (e.g. `git`, `kubectl`, `curl`) where a capability broker runs each command with its own filesystem, network, and credential grants, and signed audit trails. Works with Claude Code, Codex, Gemini CLI, and other agents; Apache-2.0. ([nono.sh](https://nono.sh))_
