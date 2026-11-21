@@ -242,6 +242,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Benchmark Atlas](https://atlas.kevinhu.io/) - _IRT-based capability estimates across benchmark leaderboards, including Aikido CVE detection and the Artificial Analysis Cyber Index._
 * [Fireworks Specialized Intelligence Index](https://fireworks.ai/specialized-intelligence-index/security) - _Runs practitioner-owned security benchmarks (dfbench by depthfirst, PWNBench by Novee, CyberGym) under one fixed serving configuration with three runs per task._
 * [Epoch AI Benchmarking Hub](https://epoch.ai/benchmarks) - _95 benchmarks and 418 models plus the Epoch Capabilities Index, mixing internally run evaluations with collected external results under a CC BY licence._
+* [Council of AI (GSPC)](https://councilof.ai/quickstart) - _Signed, re-checkable AI behaviour measurement cards (including safety and jailbreak axes) graded deterministically on frozen item banks, served over MCP with client-side Ed25519 verification. Measurement, not certification._
 
 ## Defense & Security Controls
 
