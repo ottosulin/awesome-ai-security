@@ -260,7 +260,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
 * [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
-* [PromptGuard API](https://github.com/sinescribe/promptguard-api) - _Sub-1ms zero-dependency FastAPI prompt-injection, ChatML delimiter spoofing, and Python AST execution firewall for autonomous AI agents. MIT licensed._
+* [PromptGuard API](https://github.com/sinescribe/promptguard-api) - _MIT FastAPI service and Python stdlib prompt-injection/delimiter regex filter with optional Python AST dangerous-call denylist._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
