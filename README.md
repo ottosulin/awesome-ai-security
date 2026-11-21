@@ -272,6 +272,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - _AI Agent Governance Toolkit from Microsoft — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10._
 * [agentfield](https://github.com/Agent-Field/agentfield) - _Open-source control plane for agent systems with cryptographic identity, policy enforcement, and audit-friendly observability._
 * [leash](https://github.com/strongdm/leash) - _Leash wraps AI coding agents in containers and monitors their activity._
+* [closedbox](https://github.com/nukoe-labs/closedbox) - _Runs Claude Code, Codex or any command in a container whose only network exit is an allowlist proxy; API keys are injected by the proxy and never enter the container, and every blocked connection is logged with the process that opened it._
 * [Agent Safehouse](https://github.com/eugene1g/agent-safehouse) - _macOS sandbox for LLM coding agents using sandbox-exec with composable policy profiles and a deny-first model._
 * [vibekit](https://github.com/superagent-ai/vibekit) - _Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in._
 * [pipelock](https://github.com/pipelab-org/pipelock) - _Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring_
