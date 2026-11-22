@@ -346,6 +346,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Opik](https://github.com/comet-ml/opik) - _Open-source platform for debugging, evaluating, and monitoring LLM applications, RAG systems, and agentic workflows with security tracing._
 * [ai-dfir-toolkit](https://github.com/depalmar/ai-dfir-toolkit) - _Vendor-neutral Sigma/YARA/Suricata detection pack for AI/ML attacks: 161 signatures across prompt injection, MCP abuse, model supply chain, RAG/vector DB, and agent memory forensics, with ATLAS/OWASP mappings, forensic artifact catalog, and investigation guide. Apache-2.0._
 * [Project Quarry](https://github.com/cisco-ai-defense/project-quarry) - _Detection DSL and engine from Cisco AI Defense for scanning agent conversations: rules over messages, tool calls, tool results and event order compiled to finite-state automata, with optional model scoring, witness evidence and explain output. Alpha, Apache-2.0._
+* [VibeShield CLI](https://github.com/zColdWater/vibeshield-cli) - _Zero-dependency security scanner for AI-built web apps (Next.js, Vite, Cursor, Lovable, Supabase) that unpacks client JS bundles across 38 secret signatures, flags leaked Supabase service_role JWTs, and checks unguarded PostgREST RLS tables. Ships as an MIT CLI and GitHub Action._
 
 ### Privacy & Confidential Computing
 * [Python Differential Privacy Library](https://github.com/OpenMined/PyDP)
