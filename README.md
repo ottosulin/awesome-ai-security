@@ -260,6 +260,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
 * [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
+* [ai-tool-guard](https://github.com/dortort/ai-tool-guard) - _Composable TypeScript policy enforcement middleware for Vercel AI SDK tool calls with rule/OPA/Cedar policies, approval tokens, prompt-injection detection, output redaction, MCP drift detection, and OpenTelemetry spans._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -303,6 +304,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
 * [AsItIs](https://github.com/Katta041/asitis-agent-tools) - _Read-only linter for agent instruction files (CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules) that flags hidden instructions, invisible characters and over-broad permissions in agent settings. Ships as a CLI, MCP server and GitHub Action with SARIF._
+* [TaintGuard](https://github.com/dortort/claude-plugins/tree/main/plugins/taint-guard) - _Claude Code security mod that tracks sensitive and untrusted data sources entering a session and enforces policy rules to refuse risky downstream tool calls._
 
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
@@ -317,6 +319,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
 * [TrustedMCP Registry Watch](https://trustedmcp.io/registry) - _Checks the official MCP Registry each night against OSV (incl. GitHub advisories) and NVD, and flags packages with a reported vulnerability and whether the version the registry lists is affected._
+* [agent-bound](https://github.com/dortort/agent-bound) - _Access control framework for MCP servers with Android-style declarative permissions (`AgentManifest`), automated manifest generation, and runtime least-privilege enforcement (`AgentBox`)._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
