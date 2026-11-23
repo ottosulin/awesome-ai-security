@@ -119,6 +119,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [OWASP GenAI Red Teaming Manual](https://genai.owasp.org/resource/genai-red-teaming-manual-version-1-0/) - _Eight-phase methodology for evaluating the security, safety, and robustness of generative AI systems._
 * [CSA Secure LLM Systems: Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices) - _Essential authorization practices for LLM-backed systems._
 * [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - _A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems._
+* [NosisTech AI Governance Templates](https://github.com/nosistech/governance-templates) - _AI acceptable-use policy, AI tool register, AI vendor questionnaire and AI incident response playbook for small and mid-size companies. Word and Excel, CC BY 4.0._
 
 ## Attack Techniques & Red Teaming
 
