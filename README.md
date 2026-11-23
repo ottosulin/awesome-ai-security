@@ -200,6 +200,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
 * [Xalgorix](https://github.com/xalgorix/xalgorix) - _Autonomous, black-box AI pentester for web apps and APIs. Works through a 22-phase methodology, exploits each finding, then has an independent verifier re-test it before reporting. Apache-2.0; runs with your own LLM key or local models via Ollama._
 * [Nebula](https://github.com/berylliumsec/nebula) - _AI-powered penetration testing assistant that automates reconnaissance, vulnerability discovery, and exploitation workflows._
+* [Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - _Open-source framework where a swarm of AI agents autonomously runs recon, chains vulnerabilities, and proves exploitation with a working proof-of-concept, behind fail-closed scope, egress, and authorization guardrails. Self-hosted, Go, model-agnostic._
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
