@@ -52,6 +52,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - _Comprehensive collection of every practical and proposed defense against prompt injection._
 
 ### Courses, Labs & CTFs
+* [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - _Local Python teaching lab for memory poisoning, defense and repair, using synthetic data and a scripted agent._
 * [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - _A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes._
 * [otto-support](https://github.com/BishopFox/otto-support) - _A vulnerable MCP server implementation using mcp-go with tiered authentication (4 roles), 19 tools, and built-in sandboxed container with Claude Code for practicing privilege escalation and tool misuse._
 * [OWASP WrongSecrets LLM exercise](https://www.wrongsecrets.com/challenge/challenge-32)
@@ -88,7 +89,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 ### Standards & Verification
 * [OWASP AI Security Verification Standard](https://github.com/OWASP/AISVS)
-* [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
+* [OWASP Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/) - _Domain-anchored identity and discovery for AI agents, now an IETF draft ([draft-narajala-courtney-ansv2](https://datatracker.ietf.org/doc/draft-narajala-courtney-ansv2/)); open-source registry, transparency log and SDKs at [agentnameservice](https://github.com/agentnameservice)._
 * [OWASP Agent Observability Standard](https://aos.owasp.org/)
 * [AI Verify](https://github.com/aiverify-foundation/aiverify) - _Singapore government-backed AI testing framework and toolkit for verifying AI system properties against governance frameworks._
 * [Agent Control Standard](https://github.com/GenAI-Security-Project/agent-control-standard) - _Open standard for runtime agent control: declarative hooks, policy enforcement, and observability across AI agent frameworks (OWASP GenAI Security Project)._
@@ -197,6 +198,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [V3SP3R](https://github.com/elder-plinius/V3SP3R) - _AI-powered hardware hacking companion for the Flipper Zero. Natural language interface for controlling hardware attacks, with smart glasses integration for hands-free operation._
 
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
+* [Xalgorix](https://github.com/xalgorix/xalgorix) - _Autonomous, black-box AI pentester for web apps and APIs. Works through a 22-phase methodology, exploits each finding, then has an independent verifier re-test it before reporting. Apache-2.0; runs with your own LLM key or local models via Ollama._
+* [Nebula](https://github.com/berylliumsec/nebula) - _AI-powered penetration testing assistant that automates reconnaissance, vulnerability discovery, and exploitation workflows._
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
@@ -256,6 +259,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
+* [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -298,6 +302,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ToolHive](https://github.com/stacklok/toolhive) - _Secure MCP server lifecycle manager — runs MCP servers in isolated containers with permission management, SSE transport, and audit logging_
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
+* [AsItIs](https://github.com/Katta041/asitis-agent-tools) - _Read-only linter for agent instruction files (CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules) that flags hidden instructions, invisible characters and over-broad permissions in agent settings. Ships as a CLI, MCP server and GitHub Action with SARIF._
 * [tattlr](https://github.com/kaygaaf/tattlr) - _Reads the session logs your coding agents already write on disk (Claude Code, Codex, Gemini CLI, OpenClaw and Cursor) and can hook them to block risky tool calls before they run. Also plants fake credentials as canaries. Single Go binary, MIT, no network calls._
 
 ### MCP Security
@@ -306,11 +311,13 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) - _context-protector is a security wrapper for MCP servers that addresses risks associated with running untrusted MCP servers, including line jumping, unexpected server configuration changes, and other prompt injection attacks_
 * [MCP Audit VSCode Extension](https://github.com/borisdan/mcp-audit-extension) - _Audit and log all GitHub Copilot MCP tool calls in VSCode centrally with ease._
 * [MCP-Scan](https://github.com/snyk/agent-scan) - _A security scanning tool for MCP servers_
+* [Batesian](https://github.com/calbebop/batesian) - _Go CLI for active A2A and MCP endpoint security testing, including authorization and task isolation checks with JSON and SARIF reports._
 * [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - _Open-source detection rules for AI agent threats. 108 regex rules covering prompt injection, tool poisoning, credential exfiltration across 9 categories. Used by Cisco AI Defense. MIT licensed._
 * [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) - _Local-first MCP proxy with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed._
 * [Gram](https://github.com/speakeasy-api/gram) - _Open-source AI control plane that centrally manages MCPs, Skills, and Assistants with fine-grained permissions, real-time policy enforcement, threat detection, and event logs._
 * [schemagate](https://github.com/ashishsinha1602/schemagate) - _MCP server and Python library that filters a text-to-SQL schema by the caller's permissions, so restricted tables and columns never reach the model, and refuses generated SQL that reads them. AC-F1 90.1 on BIRD in the SIGMOD'27 RBAC Text-to-SQL benchmark. Apache-2.0._
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
+* [TrustedMCP Registry Watch](https://trustedmcp.io/registry) - _Checks the official MCP Registry each night against OSV (incl. GitHub advisories) and NVD, and flags packages with a reported vulnerability and whether the version the registry lists is affected._
 
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
@@ -400,6 +407,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron 3.5 Content Safety](https://huggingface.co/nvidia/Nemotron-3.5-Content-Safety) - _NVIDIA's 4B-parameter multimodal content safety model unifying text+image input guardrails, multilingual support (35+ languages), customizable enterprise policy enforcement, and auditable reasoning in a single inference call. Successor to Nemotron 3 Content Safety._
 * [BrowseSafe](https://huggingface.co/perplexity-ai/browsesafe) - _Specialized security model for detecting prompt injection attacks in AI browser agents. Achieves 90.4% F1 score on BrowseSafe-Bench, optimized for real-time async classification of raw HTML content._
 * [safe-laya](https://huggingface.co/ottosulin/safe-laya) - _421M Apache-2.0 prompt attack classifier (BENIGN/PROMPT_INJECTION/JAILBREAK/HARMFUL_REQUEST) for local, private guardrails. ~30 ms inference, signed checkpoints with CycloneDX AI-BOM, fully reproducible pipeline._
+* [HaloGuard 2.0](https://huggingface.co/collections/astroware/haloguard-20) - _Three open-weight 0.8B guards under Apache 2.0: an English output guard, a 17-language output guard and an input guard. The output guards score every token of a reply as it streams, so the app can stop the stream once harm is confirmed. The English model reaches 83.6 macro F1 on six English response-safety benchmarks; the 17-language model reaches 83.1 F1 on PolyGuardPrompts._ [[Paper]](https://arxiv.org/abs/2611.02134)
 
 ### Domain-Adapted Security Language Models
 
@@ -409,6 +417,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Nemotron Content Safety Reasoning 4B](https://huggingface.co/nvidia/Nemotron-Content-Safety-Reasoning-4B) - _NVIDIA's 4B reasoning-based content safety classifier built on Gemma-3-4B. Enforces custom user-defined safety policies with explainable verdicts, plus a low-latency reasoning-off mode._
 * [Llama-3.1-Nemotron Safety Guard 8B v3](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3) - _NVIDIA's multilingual content safety guard model (Llama-3.1-8B base) classifying prompts and responses as safe/unsafe with violated categories from a user-supplied taxonomy. 9 languages supported, 20+ zero-shot._
 * [SecRoBERTa](https://huggingface.co/jackaduma/SecRoBERTa) - _RoBERTa model trained on cybersecurity text for improved performance on security domain tasks._
+* [SecBERT](https://huggingface.co/jackaduma/SecBERT) - _BERT model pre-trained on cybersecurity corpora for security-specific NLP tasks._
 
 ## Datasets
 
