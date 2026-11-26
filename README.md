@@ -365,6 +365,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+* [unicode-smuggling-guard](https://github.com/raulkivi/unicode-smuggling-guard) - _CI and pre-commit gate that finds invisible Unicode in code and AI agent files (tag smuggling, variation-selector payloads, Trojan Source bidi, zero-width) and decodes the hidden text. GitHub Action, pre-commit hook and CLI._
 
 ## Agentic AI Security Skills
 
