@@ -33,6 +33,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
   - [AI-Assisted Defensive Security](#ai-assisted-defensive-security)
   - [Privacy & Confidential Computing](#privacy--confidential-computing)
   - [Data & Supply Chain Security](#data--supply-chain-security)
+  - [Abuse & Fraud Detection](#abuse--fraud-detection)
 - [Agentic AI Security Skills](#agentic-ai-security-skills)
 - [Security-Focused AI Models](#security-focused-ai-models)
 
@@ -365,6 +366,9 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+
+### Abuse & Fraud Detection
+* [luxvigil](https://github.com/polfananas/luxvigil) - _Offline CLI that reads AI API request logs and flags account farms, leaked or shared keys, bot prompt templates and spend spikes._
 
 ## Agentic AI Security Skills
 
