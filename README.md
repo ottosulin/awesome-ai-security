@@ -201,6 +201,8 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Xalgorix](https://github.com/xalgorix/xalgorix) - _Autonomous, black-box AI pentester for web apps and APIs. Works through a 22-phase methodology, exploits each finding, then has an independent verifier re-test it before reporting. Apache-2.0; runs with your own LLM key or local models via Ollama._
 * [Nebula](https://github.com/berylliumsec/nebula) - _AI-powered penetration testing assistant that automates reconnaissance, vulnerability discovery, and exploitation workflows._
 
+* [pwner](https://github.com/0x45dd/pwner) - _Agentic network penetration testing CLI that runs on a local model. Drives nmap, nuclei, impacket, netexec and kerbrute as LLM tools over any OpenAI-compatible endpoint (Ollama, Lemonade, llama.cpp), with every tool call checked against the operator's authorized target and an approval gate on intrusive actions._
+
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
 
