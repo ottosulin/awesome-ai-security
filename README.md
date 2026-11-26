@@ -168,6 +168,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) - _Knowledge Corruption Attacks to Retrieval-Augmented Generation (USENIX Security 2025)._
 
 ### Agentic AI & MCP Attack Tools
+* [Argus](https://github.com/gy15901580825/Argus) - _Red-team probes for AI agents using controlled MCP servers, browser trap pages, and a mock payment merchant, with SARIF output and a GitHub Action._
 * [RAMPART](https://github.com/microsoft/RAMPART) - _pytest-native safety and security testing framework for agentic AI applications._
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/) - _A comprehensive, intelligent, and easy-to-use AI Red Teaming platform developed by Tencent Zhuque Lab. Integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation, providing a one-click web UI, REST APIs, and Docker-based deployment for comprehensive AI security evaluation._
 * [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - _A benchmark for prompt injection attacks and defenses_
