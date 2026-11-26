@@ -358,6 +358,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OpenDP](https://github.com/opendp/opendp) - _Core library for differential privacy algorithms from the OpenDP project — used to build privacy-preserving ML training pipelines_
 * [Presidio](https://github.com/data-privacy-stack/presidio) - _Context-aware PII detection, redaction, masking, and anonymization framework for text, images, and structured data with customizable NLP and rule-based recognizers_
 * [Where Do My Prompts Go?](https://rebuildlab.github.io/where-do-my-prompts-go/) - _Sourced tracker of training defaults, retention, zero data retention, regions and HIPAA BAAs for 25 AI tools and APIs. Each value quotes the vendor's own policy page; JSON and CSV export._
+* [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - _Tool for auditing ML model privacy by quantifying vulnerability to membership inference and data reconstruction attacks_
 
 ### Data & Supply Chain Security
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
