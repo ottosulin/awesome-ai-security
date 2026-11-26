@@ -391,6 +391,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [CyberSecQwen-4B](https://huggingface.co/lablab-ai-amd-developer-hackathon/CyberSecQwen-4B) - _4B-parameter CTI specialist fine-tuned from Qwen3-4B-Instruct-2507 for cybersecurity threat intelligence.
 * [Meta-SecAlign-8B / Meta-SecAlign-70B](https://github.com/facebookresearch/Meta_SecAlign) - _Security-aligned Llama models fine-tuned to resist prompt injection attacks, maintaining instruction hierarchy even under adversarial inputs_
 * [Lily-Cybersecurity-7B](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF) - _Cybersecurity-tuned 7B chat model optimized for security analysis, vulnerability explanation, and threat intelligence tasks._
+* [InterOdin (Odin v1)](https://interodin.com) - _Commercial, pay-per-token API for Odin, a general-purpose LLM with fewer refusals, used for security research tasks such as malware analysis and detection-rule writing. OpenAI- and Anthropic-compatible endpoints._
 
 ### Cybersecurity-Tuned Text Generation
 
