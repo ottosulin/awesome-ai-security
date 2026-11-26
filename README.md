@@ -63,6 +63,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * * [LLMVault](https://github.com/CyberSunil/LLMVault) - _An open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 through hands-on vulnerable exercises covering prompt injection, RAG attacks, system prompt leakage, tool misuse, and agent security._
 * [AIGoat](https://github.com/AISecurityConsortium/AIGoat) - _Open-source AI security playground for LLM red teaming: 17 attack labs covering the full OWASP LLM Top 10, 9 CTF challenges, and 3 progressive defense levels, running locally with Ollama._
 * [Pwned Labs indirect prompt injection lab](https://pwnedlabs.io/explore/exploit-indirect-prompt-injection-for-azure-access) - _Free hands-on lab: instructions planted in retrieved content take an AI assistant past its trust boundary into Azure storage and deployment credentials. A [direct injection lab](https://pwnedlabs.io/explore/breach-the-perimeter-via-prompt-injection) covers the first step._
+* [Indirect prompt injection lab](https://github.com/Excession-Labs/prompt-injection-lab) - _Python lab testing indirect prompt injection against a mock support agent, with four defenses and published trial data._
 
 ### Podcasts
 * [MLSecOps podcast](https://community.mlsecops.com/public/collections/mlsecops-podcast)
