@@ -323,6 +323,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
 * [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
+* [marea](https://github.com/indecenti/marea) - _Windows app and CLI that statically rates pickle-based model files by their imports without unpickling them, flags GGUF chat templates with Jinja sandbox-escape patterns, and outputs JSON for automated checks._
 * [medusa](https://github.com/Pantheon-Security/medusa) - _AI-first security scanner with 74+ analyzers, 180+ AI agent security rules, intelligent false positive reduction. Supports all languages. CVE detection for React2Shell, mcp-remote RCE._
 * [julius](https://github.com/praetorian-inc/julius) - _LLM service fingerprinting tool for security professionals. Detects 32+ AI services (Ollama, vLLM, LiteLLM, Hugging Face TGI, etc.) during penetration tests and attack surface discovery. Uses HTTP-based service fingerprinting to identify server infrastructure._
 * [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
