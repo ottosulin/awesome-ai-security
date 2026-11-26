@@ -303,6 +303,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
 * [AsItIs](https://github.com/Katta041/asitis-agent-tools) - _Read-only linter for agent instruction files (CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules) that flags hidden instructions, invisible characters and over-broad permissions in agent settings. Ships as a CLI, MCP server and GitHub Action with SARIF._
+* [owlwarden](https://github.com/suthat/owlwarden) - _Offline static scanner for Node.js application code and for the hooks, MCP declarations, instruction files and editor tasks that coding agents load from a repository. Ships as a CLI with SARIF output, agent hooks and a read-only MCP server._
 
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
