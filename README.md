@@ -199,7 +199,6 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 
 * [DeepZero](https://github.com/416rehman/DeepZero) - _MIT-licensed Windows driver research framework combining Ghidra decompilation, static analysis, and optional LLM assessment in resumable YAML pipelines._
 * [Xalgorix](https://github.com/xalgorix/xalgorix) - _Autonomous, black-box AI pentester for web apps and APIs. Works through a 22-phase methodology, exploits each finding, then has an independent verifier re-test it before reporting. Apache-2.0; runs with your own LLM key or local models via Ollama._
-* [Nebula](https://github.com/berylliumsec/nebula) - _AI-powered penetration testing assistant that automates reconnaissance, vulnerability discovery, and exploitation workflows._
 
 ### Steganography & Covert Channels
 * [ST3GG](https://github.com/elder-plinius/ST3GG) - _All-in-one steganography suite with multi-layer encoding, image and audio steganography, and steganalysis tools for detecting hidden data in AI-generated media._
@@ -259,9 +258,8 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ShellWard](https://github.com/jnMetaCode/shellward) - _AI Agent Security Middleware with 8-layer defense against prompt injection, data exfiltration & dangerous commands. Zero dependencies._
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 * [jes](https://github.com/everafterlabs/jes) - _Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retrieved content, tool calls and responses for prompt injection, jailbreaks and secret/PII leaks._
-* [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
-* [newmean-pii](https://github.com/newmean-ai/pii) - _Detects and masks PII in the browser (WebAssembly) or on the device before text reaches an LLM, with 2.6 to 15.5 MB models for 54 languages; packages for npm, PyPI, iOS, Android, Flutter and Rust. Apache-2.0._
 * [EmbedGuard](https://github.com/neerazz/embedguard) - _Cross-layer detection and provenance attestation for adversarial embedding attacks in RAG systems. Defends against adversarial vectors injected into retrieval corpora to manipulate downstream LLM behavior. Reference implementation of IJCESEN 2026 paper (DOI 10.22399/ijcesen.4869)._
+* [amagi-sniff](https://github.com/amagilabs/amagi-sniff) - _Finds text hidden from people but readable by AI in PDF, Word, PowerPoint, HTML and Markdown files, including Unicode tag smuggling. Local, no model._
 
 ### Agent Runtime Security & Sandboxing
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
@@ -304,7 +302,6 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [ToolHive](https://github.com/stacklok/toolhive) - _Secure MCP server lifecycle manager — runs MCP servers in isolated containers with permission management, SSE transport, and audit logging_
 * [Weir](https://github.com/IdoGol24/weir) - _Finds API keys an AI agent leaks: plants fake keys, runs the agent's own flows offline and reports every span, log, console line or request a key reached, with a leak, clean or incomplete verdict. For Claude Code, a status line, session audit and optional PostToolUse redaction hook track your real keys by keyed fingerprint, never by value. Apache-2.0._
 * [E2B](https://github.com/e2b-dev/E2B) - _Open-source secure sandboxed cloud environments for running AI-generated code. Provides isolated execution with filesystem, network, and process controls_
-* [AsItIs](https://github.com/Katta041/asitis-agent-tools) - _Read-only linter for agent instruction files (CLAUDE.md, AGENTS.md, SKILL.md, Cursor rules) that flags hidden instructions, invisible characters and over-broad permissions in agent settings. Ships as a CLI, MCP server and GitHub Action with SARIF._
 
 ### MCP Security
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) - _Everything you need to know about Model Context Protocol (MCP) security._
@@ -324,7 +321,6 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
 * [fickling](https://github.com/trailofbits/fickling) - _A Python pickling decompiler and static analyzer_
-* [marea](https://github.com/indecenti/marea) - _Windows app and CLI that statically rates pickle-based model files by their imports without unpickling them, flags GGUF chat templates with Jinja sandbox-escape patterns, and outputs JSON for automated checks._
 * [medusa](https://github.com/Pantheon-Security/medusa) - _AI-first security scanner with 74+ analyzers, 180+ AI agent security rules, intelligent false positive reduction. Supports all languages. CVE detection for React2Shell, mcp-remote RCE._
 * [julius](https://github.com/praetorian-inc/julius) - _LLM service fingerprinting tool for security professionals. Detects 32+ AI services (Ollama, vLLM, LiteLLM, Hugging Face TGI, etc.) during penetration tests and attack surface discovery. Uses HTTP-based service fingerprinting to identify server infrastructure._
 * [a2a-scanner](https://github.com/cisco-ai-defense/a2a-scanner) - _Scan A2A agents for potential threats and security issues_
@@ -348,7 +344,6 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Buttercup](https://github.com/trailofbits/buttercup) - _Trail of Bits' Cyber Reasoning System (CRS) built for DARPA's AI Cyber Challenge — AI-assisted fuzzing (oss-fuzz based) to discover vulnerabilities in C and Java repositories, then a multi-agent LLM patcher that analyzes and repairs them automatically._
 * [Opik](https://github.com/comet-ml/opik) - _Open-source platform for debugging, evaluating, and monitoring LLM applications, RAG systems, and agentic workflows with security tracing._
 * [ai-dfir-toolkit](https://github.com/depalmar/ai-dfir-toolkit) - _Vendor-neutral Sigma/YARA/Suricata detection pack for AI/ML attacks: 161 signatures across prompt injection, MCP abuse, model supply chain, RAG/vector DB, and agent memory forensics, with ATLAS/OWASP mappings, forensic artifact catalog, and investigation guide. Apache-2.0._
-* [Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections) - _Detection rules, hunting queries and indicators for AI agent attack frameworks (ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero) in KQL, Sigma, Suricata, Zeek and YARA, built from source code review and public reporting._
 * [Project Quarry](https://github.com/cisco-ai-defense/project-quarry) - _Detection DSL and engine from Cisco AI Defense for scanning agent conversations: rules over messages, tool calls, tool results and event order compiled to finite-state automata, with optional model scoring, witness evidence and explain output. Alpha, Apache-2.0._
 
 ### Privacy & Confidential Computing
@@ -362,7 +357,6 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OpenDP](https://github.com/opendp/opendp) - _Core library for differential privacy algorithms from the OpenDP project — used to build privacy-preserving ML training pipelines_
 * [Presidio](https://github.com/data-privacy-stack/presidio) - _Context-aware PII detection, redaction, masking, and anonymization framework for text, images, and structured data with customizable NLP and rule-based recognizers_
 * [Where Do My Prompts Go?](https://rebuildlab.github.io/where-do-my-prompts-go/) - _Sourced tracker of training defaults, retention, zero data retention, regions and HIPAA BAAs for 25 AI tools and APIs. Each value quotes the vendor's own policy page; JSON and CSV export._
-* [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - _Tool for auditing ML model privacy by quantifying vulnerability to membership inference and data reconstruction attacks_
 
 ### Data & Supply Chain Security
 * [datasig](https://github.com/trailofbits/datasig) - _Dataset fingerprinting for AIBOM_
