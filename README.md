@@ -318,6 +318,8 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
 * [TrustedMCP Registry Watch](https://trustedmcp.io/registry) - _Checks the official MCP Registry each night against OSV (incl. GitHub advisories) and NVD, and flags packages with a reported vulnerability and whether the version the registry lists is affected._
 
+* [Viridis MCP](https://github.com/viridis-security/mcp-services-sdk) — _Aristotle-verified attribution-enforcement MCP services for AI agents. Three live tools: /v1/injection/detect (adversarial input → verdict + bits-at-risk per T-IB-02), /v1/canon/scan (source vs. VulnCanon catalog), /v1/maxwell/challenge (adaptive PoW defense, T-IB-09). Free tier with 1,000 detect + 10 scans/mo, no card. 7/7 corpus theorems formally proven in Lean 4 via Aristotle (Harmonic). Open-source SDK + Maxwell's Defense reference implementation._
+
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
