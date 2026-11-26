@@ -365,6 +365,7 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [OWASP AIBOM](https://github.com/OWASP/owasp-aibom) - _AI Bill of Materials_
 * [Trusera ai-bom](https://github.com/Trusera/ai-bom) - _AI Bill of Materials — discover every AI agent, model, and API in your infrastructure_
 * [model-transparency](https://github.com/sigstore/model-transparency) - _Sigstore-based tooling for signing and verifying ML model provenance, enabling supply chain integrity for AI artifacts_
+* [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - _Pre-install static scanner and integrity pinning for OpenClaw/ClawHub agent skills, flagging prompt injection, credential reads, remote-exec installs and persistence_
 
 ## Agentic AI Security Skills
 
