@@ -319,6 +319,8 @@ Live rankings of how models and agents perform on security work. Unlike the benc
 * [Preloop](https://github.com/preloop/preloop) - _Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Apache-2.0._
 * [TrustedMCP Registry Watch](https://trustedmcp.io/registry) - _Checks the official MCP Registry each night against OSV (incl. GitHub advisories) and NVD, and flags packages with a reported vulnerability and whether the version the registry lists is affected._
 
+* [MCPGuard](https://github.com/Zluowa/mcpguard-kit) - _Zero-dependency Node.js CLI, GitHub Action (SARIF 2.1.0), and local stdio MCP server (5 tools) for auditing mcp.json configs, AGENTS.md/CLAUDE.md/.cursorrules/SKILL.md backdoors and invisible Unicode prompt injections, and enforcing token/USD loop circuit breakers. MIT licensed._
+
 ### Model & Artifact Scanning
 * [modelscan](https://github.com/protectai/modelscan) - _ModelScan is an open source project from Protect AI that scans models to determine if they contain unsafe code._
 * [picklescan](https://github.com/mmaitre314/picklescan) - _Security scanner detecting Python Pickle files performing suspicious actions_
